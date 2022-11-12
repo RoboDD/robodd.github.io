@@ -2,8 +2,8 @@
 title: "PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field"
 collection: publications
 permalink: /publication/applsci22
-excerpt: 'a paper'
-date: 2022
+excerpt: ''
+date: 2022-08-17
 venue: 'Applied Sciences'
 paperurl: '[paper](https://www.mdpi.com/2076-3417/12/16/8201)'
 citation: 'Y. Chu, **Z. Wu**, Y. Yue, X. Zhu, E. G. Lim, and P. Paoletti, “PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field,” Applied Sciences, vol. 12, no. 16, p. 8201, Aug. 2022, doi: 10.3390/app12168201.'

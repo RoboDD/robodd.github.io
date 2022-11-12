@@ -21,4 +21,4 @@ News
 * [31-Jul-2022] I gradutated with the B.Sc. degree with honours in [Applied Mathematics](https://www.xjtlu.edu.cn/en/find-a-programme/undergraduate/applied-mathematics) from the [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/) and [University of Liverpool](https://www.liverpool.ac.uk/).
 
 
-<img src='/images/500x300.png'>
+<img src='/site/images/500x300.png'>

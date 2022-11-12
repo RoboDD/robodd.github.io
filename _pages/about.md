@@ -17,5 +17,5 @@ News
 
 * [21-Oct-2022] Our paper has been accepted by [IEEE Internet of Things Magazine (IoTM)](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine).
 * [26-Sep-2022] I started M.Sc. study in [Robotics](https://www.bristol.ac.uk/study/postgraduate/2023/eng/msc-robotics/) at the [University of Bristol](https://www.bristol.ac.uk/).
-* [15-Aug-2022] Our paper has been accepted by [Applied Sciences]([https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine](https://www.mdpi.com/2076-3417/12/16/8201)).
+* [15-Aug-2022] Our paper has been accepted by [Applied Sciences](https://www.mdpi.com/2076-3417/12/16/8201)).
 

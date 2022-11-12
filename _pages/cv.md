@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Qualifications
 ======
 * M.Sc. in Robotics, University of Bristol, 2023 (expected)
 * B.Sc. in Applied Mathematics, University of Liverpool, 2022

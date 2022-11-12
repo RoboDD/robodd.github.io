@@ -32,7 +32,7 @@ I have wide research interests in robotics. Now I am mainly focusing on learning
 * Human-in-the-loop
 * Human-robot shared control
 
-<img src='/site/images/my-research-area.drawio.png'>
+<img src='/site/images/my-research-area.drawio.png' width = "50%" align=center>
 
 Everyone is warmly welcome to drop me an email to discuss interesting projects on robotics and its application.
 

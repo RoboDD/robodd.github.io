@@ -68,23 +68,16 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 
 
-HONORS & AWARDS
+Selected Honors and Awards
 ======
 
 * Innovation and Entrepreneurship Competition:
-  * TBD, 8th "Internet+" Inno. and Entre. Competition Sep’
-  * Regional Bronze, 12th "Challenge Cup" China Students Inno. and Entre. Competition Aug’22
-  * Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition May’22
-  * Provincial Third Prize (↑ 0.28 %), 7th "Internet+" Inno. and Entre. Competition Sep’21
-  * Future InnoX Star Award, XbotPark & InnoX Smart Product Inno. Boot Camp Aug’21
-  * Finalist of Suzhou Region, China-US Young Maker Competition Jul’20
-  * Certificate of Completion, Inno. and Entre. Leadership Training Project, XJTLU Jun’19
+  * Gold Award, 8th "Internet+" Inno. and Entre. Competition, Sep’22
+  * Regional Bronze, 12th "Challenge Cup" China Students Inno. and Entre. Competition, Aug’22
+  * Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, May’22
+  * Provincial Third Prize (↑ 0.28 %), 7th "Internet+" Inno. and Entre. Competition, Sep’21
 * Robotics Competition:
-  * Regional Third Prize, IFlytek Intelligent Car Race Jul’21
-  * Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition Aug’20
-  * Regional Third Prize in 2v2 Infantry Confrontation, RM 2019 Jiangsu Regional Competition Dec’19
-  * Regional Third Prize in Standard Racing and Smart Firing, RM 2019 Jiangsu Regional CompetitionDec’19
-  * Outstanding Aesthetic Design Award, RoboMaster 2019 Robotics Competition Aug’19
-  * Regional Third Prize, RoboMaster 2019 Robotics Competition Aug’19
-* Certificates:
-  * Living Book Certificate, Xi’an Jiaotong-Liverpool Univ
+  * Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition, Aug’20
+  * Regional Third Prize in 2v2 Infantry Confrontation, RM 2019 Jiangsu Regional Competition, Dec’19
+  * Outstanding Aesthetic Design Award, RoboMaster 2019 Robotics Competition, Aug’19
+  * Regional Third Prize, RoboMaster 2019 Robotics Competition, Aug’19

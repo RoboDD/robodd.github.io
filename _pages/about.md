@@ -21,4 +21,22 @@ News
 * [31-Jul-2022] I gradutated with the B.Sc. degree with honours in [Applied Mathematics](https://www.xjtlu.edu.cn/en/find-a-programme/undergraduate/applied-mathematics) from the [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/) and [University of Liverpool](https://www.liverpool.ac.uk/).
 
 
-<img src='/site/images/500x300.png'>
+My Research Interests
+======
+
+I have wide research interests in robotics. Now I am mainly focusing on learning:
+
+* Aerial Robotics
+* Motion Planning
+* Dynamics and Control
+* Human-in-the-loop
+* Human-robot shared control
+
+<img src='/site/images/my-research-area.drawio.png'>
+
+Everyone is warmly welcome to drop me an email to discuss interesting projects on robotics and its application.
+
+Vision Statement
+======
+
+My long-term goal is to reduce heavy supervisory work from human operators and improve the capability of mobile robots to complete comprehensive missions. I am interested in applying both model-based, data-driven, or combinations of both approaches to solve the challenge. The novel human-robot control paradigm has wide applications in medical robotics, aerial robotics, and construction robotics, which can improve the level of autonomy of the next generation of robotics systems.

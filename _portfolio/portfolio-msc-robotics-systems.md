@@ -1,0 +1,11 @@
+---
+title: "PID and LQR Control for Line Following: Performance Evaluation and Analysis"
+excerpt: "Course project - EMATM0054 Robotic Systems"
+collection: portfolio
+---
+
+Line following challenge：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppUrGDie5EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+PID and LQR Control for Line Following: Performance Evaluation and Analysis：
+woking on it!

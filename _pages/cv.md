@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This page is under construction.
+
 Qualifications
 ======
 * M.Sc. in Robotics, University of Bristol, 2023 (expected)
@@ -40,6 +42,12 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Projects
+======
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 <!--   

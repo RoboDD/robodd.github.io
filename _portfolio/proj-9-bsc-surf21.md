@@ -1,6 +1,6 @@
 ---
 title: "Development of Micro Aerial Vehicle for On-site Water Sampling"
-excerpt: "Summer Undergraduate Research Fellowships (SURF), 2022"
+excerpt: "Summer Undergraduate Research Fellowships (SURF), 2021"
 collection: portfolio
 ---
 

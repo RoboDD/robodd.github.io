@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Robotics, University of Bristol, 2022-2023
+* B.Sc. in Applied Mathematics, University of Liverpool, 2018-2022
+
+
 
 Work experience
 ======

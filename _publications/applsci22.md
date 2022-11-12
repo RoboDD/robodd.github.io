@@ -2,7 +2,7 @@
 title: "PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field"
 collection: publications
 permalink: /publication/applsci22
-excerpt: ''
+excerpt: 'a paper'
 date: 2022
 venue: 'Applied Sciences'
 paperurl: '[paper](https://www.mdpi.com/2076-3417/12/16/8201)'

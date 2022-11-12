@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Robotics, University of Bristol, 2022-2023
-* B.Sc. in Applied Mathematics, University of Liverpool, 2018-2022
+* M.Sc. in Robotics, University of Bristol, 2023 (expected)
+* B.Sc. in Applied Mathematics, University of Liverpool, 2022
 
 
-
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,23 +26,23 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

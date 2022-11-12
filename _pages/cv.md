@@ -48,7 +48,7 @@ Publications
 Projects
 ======
   <ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
+    {% include archive-project-cv.html %}
   {% endfor %}</ul>
 <!--   
 Talks

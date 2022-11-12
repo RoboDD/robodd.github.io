@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ziniu Wu"
 title_separator          : "-"
-name                     : &name "Ziniu Wu"
+name                     : &name "Home"
 description              : &description "personal description"
 url                      : https://robodd.github.io/site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

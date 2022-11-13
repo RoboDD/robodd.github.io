@@ -1,6 +1,6 @@
 ---
 title: "PID and LQR Control for Line Following: Performance Evaluation and Analysis"
-excerpt: "Course project - EMATM0054 Robotic Systems"
+excerpt: "MSc Course Project - EMATM0054 Robotic Systems"
 collection: portfolio
 ---
 

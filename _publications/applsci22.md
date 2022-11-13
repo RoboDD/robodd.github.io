@@ -13,6 +13,8 @@ Abstract: Path-keeping requires unmanned surface vehicles (USVs) to follow a pla
 
 [Download paper here](https://www.mdpi.com/2076-3417/12/16/8201)
 
+Bibtex:
+
 ```
 @Article{app12168201,
 AUTHOR = {Chu, Yijie and Wu, Ziniu and Yue, Yong and Zhu, Xiaohui and Lim, Eng Gee and Paoletti, Paolo},

@@ -10,7 +10,16 @@ System Architecture
 ======
 <img src='/site/images/surf21-system.png' width = "70%" align=center>
 
+Onsite Experiments
+======
 
-Video of prototype
+<figure>
+<img src="/site/images/surf21-drone-1.png" width= "30%"/>
+<img src="/site/images/surf21-onsite-1.png" width= "30%"/>
+<img src="/site/images/surf21-onsite-2.png" width= "30%"/>
+</figure>
+
+
+Video
 =======
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=290079202&bvid=BV1Af4y1s74f&cid=324630542&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

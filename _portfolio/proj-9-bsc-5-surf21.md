@@ -14,9 +14,9 @@ Onsite Experiments
 ======
 
 <figure>
-<img src="/site/images/surf21-drone-1.png" width= "30%"/>
-<img src="/site/images/surf21-onsite-1.png" width= "30%"/>
-<img src="/site/images/surf21-onsite-2.png" width= "30%"/>
+<img src="/site/images/surf21-drone-1.png" width= "70%"/>
+<img src="/site/images/surf21-onsite-1.png" width= "70%"/>
+<img src="/site/images/surf21-onsite-2.png" width= "70%"/>
 </figure>
 
 

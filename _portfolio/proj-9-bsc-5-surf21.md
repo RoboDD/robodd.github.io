@@ -13,23 +13,7 @@ Hardware
 Onsite Experiments
 ======
 <img src="/site/images/surf21-experiment.png"/>
-<!-- <figure>
-<img src="/site/images/surf21-drone-1.png" width= "70%"/>
-<img src="/site/images/surf21-onsite-1.png" width= "70%"/>
-<img src="/site/images/surf21-onsite-2.png" width= "70%"/>
-</figure> -->
-<!-- <table>
-  <tr>
-    <td>Hardware</td>
-     <td>Experiment at Dushu lake</td>
-     <td>Collect water sample</td>
-  </tr>
-  <tr>
-    <td><img src="/site/images/surf21-drone-1.png" height="50%"/></td>
-    <td><img src="/site/images/surf21-onsite-1.png" height="50%"/></td>
-    <td><img src="/site/images/surf21-onsite-2.png" height="50%"/></td>
-  </tr>
-</table> -->
+
 
 Video
 =======

@@ -1,6 +1,6 @@
 ---
 title: "Human-robot Shared Control for Mobile Robots"
-excerpt: "Potential project for my M.Sc. dissertation."
+excerpt: "MSc Dissertation - Potential Project"
 collection: portfolio
 ---
 

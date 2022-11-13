@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-This page is under construction.
 
 Qualifications
 ======
@@ -72,7 +71,7 @@ Selected Honors and Awards
 ======
 
 * Innovation and Entrepreneurship Competition:
-  * Gold Award, 8th "Internet+" Inno. and Entre. Competition, Sep’22
+  * International Gold Award, 8th "Internet+" Inno. and Entre. Competition, Nov’22
   * Regional Bronze, 12th "Challenge Cup" China Students Inno. and Entre. Competition, Aug’22
   * Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, May’22
   * Provincial Third Prize (↑ 0.28 %), 7th "Internet+" Inno. and Entre. Competition, Sep’21

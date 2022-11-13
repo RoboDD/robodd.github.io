@@ -13,4 +13,4 @@ System Architecture
 
 Video of prototype
 =======
-<iframe src="//player.bilibili.com/player.html?aid=290079202&bvid=BV1Af4y1s74f&cid=324630542&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=290079202&bvid=BV1Af4y1s74f&cid=324630542&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

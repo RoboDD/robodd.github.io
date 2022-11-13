@@ -25,9 +25,9 @@ Onsite Experiments
      <td>Collect water sample</td>
   </tr>
   <tr>
-    <td><img src="/site/images/surf21-drone-1.png" height=50%/></td>
-    <td><img src="/site/images/surf21-onsite-1.png" height=50%/></td>
-    <td><img src="/site/images/surf21-onsite-2.png" height=50%/></td>
+    <td><img src="/site/images/surf21-drone-1.png" height="50%"/></td>
+    <td><img src="/site/images/surf21-onsite-1.png" height="50%"/></td>
+    <td><img src="/site/images/surf21-onsite-2.png" height="50%"/></td>
   </tr>
 </table>
 

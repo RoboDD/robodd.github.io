@@ -6,19 +6,30 @@ collection: portfolio
 
 Abstract: On-site water sampling is essential for water environment monitoring and management. We developed an autonomous micro aerial vehicle (MAV) to help users to collect water samples in complicated water environments. We designed the airframe and sampler mechanics, assembled and configured the system with additional onboard sensors, suc has GPS, sonar, monocular and depth cameras. Furthermore, several advanced features for autonomous navigation are achieved, such as takeoff, hovering, landing, collision avoidance, auto water sampling and return-to-launch (RTL). Experimental results show that our MAV is robust, easy-to-use in outdoor, and can significantly improve work efficiency.
 
-System Architecture
+Hardware
 ======
 <img src='/site/images/surf21-system.png' width = "70%" align=center>
 
 Onsite Experiments
 ======
 
-<figure>
+<!-- <figure>
 <img src="/site/images/surf21-drone-1.png" width= "70%"/>
 <img src="/site/images/surf21-onsite-1.png" width= "70%"/>
 <img src="/site/images/surf21-onsite-2.png" width= "70%"/>
-</figure>
-
+</figure> -->
+<table>
+  <tr>
+    <td>Hardware</td>
+     <td>Experiment at Dushu lake</td>
+     <td>Collect water sample</td>
+  </tr>
+  <tr>
+    <td><img src="/site/images/surf21-drone-1.png" width= "70%"/></td>
+    <td><img src="/site/images/surf21-onsite-1.png" width= "70%"/></td>
+    <td><img src="/site/images/surf21-onsite-2.png" width= "70%"/></td>
+  </tr>
+</table>
 
 Video
 =======

@@ -24,7 +24,7 @@ News
 My Research Interests
 ======
 
-I have wide research interests in robotics. Now I am mainly focusing on learning:
+I have broad research interests in robotics. Now I am mainly focusing on learning:
 
 * Aerial Robotics
 * Motion Planning

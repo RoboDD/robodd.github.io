@@ -1,6 +1,6 @@
 ---
 title: "Serial and Parallel Robot Modeling and Analysis"
-excerpt: "Course project - EMATM0058 Robotic Fundamentals"
+excerpt: "MSc Course Project - EMATM0058 Robotic Fundamentals"
 collection: portfolio
 ---
 

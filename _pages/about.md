@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing M.Sc. degree in Robotics at the University of Bristol, starting from September 2022. I received the B.Sc. degree with honours in Applied Mathematics from the Xi'an Jiaotong-Liverpool University and University of Liverpool in July 2022. **I am actively seeking for a Ph.D./M.Phil. opportunity in the area of robotics.** Everyone is warmly welcome to drop me an email to reach out!
+I am pursuing M.Sc. degree in Robotics at the University of Bristol, starting from September 2022. I received the B.Sc. degree with honours in Applied Mathematics from the Xi'an Jiaotong-Liverpool University and University of Liverpool in July 2022. Everyone is warmly welcome to drop me an email to reach out!
+
+ **I am actively seeking for a Ph.D. opportunity in Robotics.**
 
 
 

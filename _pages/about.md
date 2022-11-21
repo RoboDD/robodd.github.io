@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing M.Sc. degree in Robotics at the University of Bristol, starting from September 2022. I received the B.Sc. degree with honours in Applied Mathematics from the Xi'an Jiaotong-Liverpool University and University of Liverpool in July 2022. **I am actively seeking for a Ph.D./M.Phil. opportunity in the area of robotics.**
+I am pursuing M.Sc. degree in Robotics at the University of Bristol, starting from September 2022. I received the B.Sc. degree with honours in Applied Mathematics from the Xi'an Jiaotong-Liverpool University and University of Liverpool in July 2022. **I am actively seeking for a Ph.D./M.Phil. opportunity in the area of robotics.** Everyone is warmly welcome to drop me an email to reach out!
 
 
 
@@ -24,7 +24,7 @@ News
 My Research Interests
 ======
 
-I have broad research interests in robotics. Now I am mainly focusing on learning:
+I have broad research interests in robotics. Now I am mainly focusing on:
 
 * Mobile Robotics
 * Motion Planning
@@ -34,7 +34,7 @@ I have broad research interests in robotics. Now I am mainly focusing on learnin
 
 <img src='/site/images/my-research-area.drawio.png' width = "50%" align=center>
 
-Everyone is warmly welcome to drop me an email to discuss interesting projects on robotics and its application.
+
 
 Vision Statement
 ======

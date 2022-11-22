@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Projects
+======
+* USV Attitude Stablization using Reaction Wheels.
 
 Section A
 ======

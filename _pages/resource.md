@@ -14,6 +14,8 @@ Projects
 * USV Attitude Stablization using Reaction Wheels.
 * Fault-tolrent Control
     * 在1990年代，美国NASA曾有一个名为PCA（Propulsion Controlled Aircraft）的项目。这个项目旨是开发一种计算机辅助的发动机控制系统，如果飞机的正常控制舵面（如升降舵、方向舵或副翼）失效，这个自动化系统可以让飞机仅靠发动机动力就安全着陆，这比起人工操纵，成功率将会高出许多。很早就MD-11和F-15上都验证成功了。
+ * Statistical Inference X Motion Planning/Shared Control
+   * 统计推断：参数估计与假设检验
 
 Section A
 ======

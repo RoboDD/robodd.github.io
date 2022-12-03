@@ -44,4 +44,4 @@ Vision Statement
 My long-term goal is to reduce heavy supervisory work from human operators and improve the capability of mobile robots to complete comprehensive missions. I am interested in applying both model-based, data-driven, or combinations of both approaches to solve the challenge. The novel human-robot control paradigm has wide applications in medical robotics, aerial robotics, and construction robotics, which can improve the level of autonomy of the next generation of robotics systems.
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RPfbbIqs_MBem0fzm-R41LIR6jTAVqJJGkqSFN8qWFs&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RPfbbIqs_MBem0fzm-R41LIR6jTAVqJJGkqSFN8qWFs&cl=ffffff&w=a"></script> -->

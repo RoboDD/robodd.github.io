@@ -28,14 +28,13 @@ My Research Interests
 
 I have broad research interests in robotics. Now I am mainly focusing on:
 
-* Mobile Robotics
-* Motion Planning
-* Dynamics and Control
-* Human-in-the-loop
-* Human-robot shared control
+* Physical Human-Robot Interaction (pHRI) 
+  * Human-in-the-Loop (HiL)
+  * Human-Robot Shared Control
+* Motion Planning, Dynamics and Control
 * Mixed Reality (MR) and its application
 
-<img src='/site/images/my-research-area.drawio.png' width = "50%" align=center>
+<!-- <img src='/site/images/my-research-area.drawio.png' width = "50%" align=center> -->
 
 
 

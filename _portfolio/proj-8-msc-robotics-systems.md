@@ -17,7 +17,7 @@ Abstract: The aim of this report is to evaluate the performance of PID and LQR c
 
 [Report]()
 
-[Code for robot](https://github.com/RoboDD/Differential-Drive-Line-Following)
+[Code for 3Pi+ robot](https://github.com/RoboDD/Differential-Drive-Line-Following)
 
 Version description:
 * V1.0: Achieved very simple line following
@@ -47,3 +47,5 @@ Version description:
 * v5.0: LQR-based heading controller
     * odometry (x,y, theta)
     * data recoder
+
+

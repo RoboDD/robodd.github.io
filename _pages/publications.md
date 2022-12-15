@@ -21,10 +21,11 @@ author_profile: true
 * Y. Chu, **Z. Wu**, Y. Yue, X. Zhu, E. G. Lim, and P. Paoletti, PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field, *Applied Sciences*, 2022. [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)
 
 
-<!-- ## Conference Proceedings
+## Conference Proceedings
 
-* test 1
- -->
+* paper 1
+* paper 2
+* 
  
  ## Under Review:
  

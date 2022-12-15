@@ -21,12 +21,12 @@ author_profile: true
 * Y. Chu, **Z. Wu**, Y. Yue, X. Zhu, E. G. Lim, and P. Paoletti, PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field, *Applied Sciences*, 2022. [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)
 
 
-## Conference Proceedings
+<!-- ## Conference Proceedings
 
 * paper 1
 * paper 2
-* 
+*  -->
  
- ## Under Review:
+## Under Review:
  
  * M. Wu, **Z. Wu**, PID and LQR Heading Controller for Differential Drive Robot: Performance Evaluation and Analysis, *2023 8th International Conference on Control and Robotics Engineering (ICCRE 2023)*, 2023.

@@ -26,7 +26,7 @@ author_profile: true
 * paper 1
 * paper 2
 *  -->
- 
+<!--  
 ## Under Review:
  
- * M. Wu, **Z. Wu**, PID and LQR Heading Controller for Differential Drive Robot: Performance Evaluation and Analysis, *2023 8th International Conference on Control and Robotics Engineering (ICCRE 2023)*, 2023.
+ * M. Wu, **Z. Wu**, PID and LQR Heading Controller for Differential Drive Robot: Performance Evaluation and Analysis, *2023 8th International Conference on Control and Robotics Engineering (ICCRE 2023)*, 2023. -->

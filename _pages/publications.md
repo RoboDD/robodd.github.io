@@ -17,7 +17,7 @@ author_profile: true
 
 ## Journals:
 
-* D. Liu, Q. Chen, S. Li, **Z. Wu**, L. Chen, X. He, X. Huang, and W. Wang, Connect Your UAV to The Cloud Using Urban 4G and 5G Cellular Networks: Performance Evaluation and Comparison, *IEEE Internet of Things Magazine (IoTM)*, 2022. [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)
+* D. Liu, Q. Chen, S. Li, **Z. Wu**, L. Chen, X. He, X. Huang, and W. Wang, Connect Your UAV to The Cloud Using Urban 4G and 5G Cellular Networks: Performance Evaluation and Comparison, *IEEE Internet of Things Magazine (IoTM)*, 2022. [[paper]](https://doi.org/10.1109/IOTM.001.2200123)
 * Y. Chu, **Z. Wu**, Y. Yue, X. Zhu, E. G. Lim, and P. Paoletti, PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field, *Applied Sciences*, 2022. [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)
 
 

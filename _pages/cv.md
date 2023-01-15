@@ -69,7 +69,7 @@ Service and leadership
 
 Patents
 ======
-* Intelligent Micro Aerial Vehicle System for Water Sampling. 智能水质采样无人机系统，中国发明专利，CN113479324A
+<!-- * Intelligent Micro Aerial Vehicle System for Water Sampling. 智能水质采样无人机系统，中国发明专利，CN113479324A -->
 * A Design of Multi-Sensor Mounting Brackets for the Mobile Robot. 一种移动机器人多传感器固定支架，中国实用新型专利，CN214520309U
 
 

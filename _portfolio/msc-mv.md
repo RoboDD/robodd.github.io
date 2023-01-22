@@ -27,3 +27,7 @@ accuracy of Mask R-CNN is 59%.
 
 Keywords: Machine vision, Minneapple dataset, Image processing, Conventional
 image processing, Deep learning, Mask R-CNN
+
+[Download our group report](https://github.com/RoboDD/site/raw/master/files/MV-Report.pdf)
+
+[Code repository]()

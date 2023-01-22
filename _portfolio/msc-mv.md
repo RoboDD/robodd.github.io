@@ -1,6 +1,6 @@
 ---
 title: "Apple counting using Machine Vision"
-excerpt: "MSc Course Project - EMATM0056 Machine Vision"
+excerpt: "MSc Group Project - EMATM0056 Machine Vision"
 collection: portfolio
 ---
 

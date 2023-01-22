@@ -38,40 +38,6 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Projects
-======
-  <ul>{% for post in site.portfolio %}
-    {% include archive-project-cv.html %}
-  {% endfor %}</ul>
-<!--   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
-
-
-Patents
-======
-<!-- * Intelligent Micro Aerial Vehicle System for Water Sampling. 智能水质采样无人机系统，中国发明专利，CN113479324A -->
-* A Design of Multi-Sensor Mounting Brackets for the Mobile Robot. 一种移动机器人多传感器固定支架，中国实用新型专利，CN214520309U
-
 
 Selected Honors and Awards
 ======

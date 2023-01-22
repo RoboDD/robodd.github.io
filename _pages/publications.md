@@ -22,8 +22,9 @@ author_profile: true
 
 ## Patents:
 
-* A Design of Multi-Sensor Mounting Brackets for the Mobile Robot. 一种移动机器人多传感器固定支架，中国实用新型专利，CN214520309U.
-* 
+* 一种移动机器人多传感器固定支架，中国实用新型专利，CN214520309U。
+
+
 <!-- ## Conference Proceedings
 
 * paper 1

@@ -28,3 +28,5 @@ the selection of the optimal coefficients of the polynomial as a quadratic plann
 problem. A numerical example is given to validate the method in one dimension.
 It ends with a conclusion and references. Almost all the codes in the paper can be
 found in appendices.
+
+[Download our group report](https://github.com/RoboDD/site/raw/master/files/RF-Report.pdf)

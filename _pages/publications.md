@@ -25,6 +25,10 @@ author_profile: true
 * 一种移动机器人多传感器固定支架，中国实用新型专利，CN214520309U。
 
 
+
+## TEST CONTENT BELOW
+
+<script src="https://bibbase.org/show?bib=https://bibbase.org/u/Ziniu-Wu-(Bill)&jsonp=1"></script> 
 <!-- ## Conference Proceedings
 
 * paper 1

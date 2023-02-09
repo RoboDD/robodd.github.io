@@ -29,6 +29,7 @@ My Research Interests
 I have broad research interests in robotics. Now I am mainly focusing on:
 
 * Physical Human-Robot Interaction (pHRI) 
+  * Teleoperation
   * Human-in-the-Loop (HiL)
   * Human-Robot Shared Control
 * Motion Planning, Dynamics and Control

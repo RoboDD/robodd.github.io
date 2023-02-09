@@ -28,7 +28,7 @@ author_profile: true
 
 ## TEST CONTENT BELOW
  
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/fyp-final.bib&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1"></script> 
 <!-- ## Conference Proceedings
 
 * paper 1

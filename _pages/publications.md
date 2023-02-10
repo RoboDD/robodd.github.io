@@ -22,7 +22,7 @@ author_profile: true
  -->
 
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1&fullnames=1&owner="Wu, Z"&showSearch=true"></script> 
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1&fullnames=1&owner=Wu, Z&showSearch=true"></script> 
 
 
 ## Patents:

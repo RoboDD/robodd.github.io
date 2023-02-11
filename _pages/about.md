@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I am Ziniu Wu."
+title: "Hello! I am Ziniu Wu (Bill)."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

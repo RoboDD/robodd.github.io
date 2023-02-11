@@ -14,7 +14,7 @@ I am pursuing M.Sc. degree in Robotics at the University of Bristol, starting fr
 
 
 
-News
+Updates
 ======
 * [Nov-2022] My team and I awarded [one Gold Award and two Bronze Award](https://cy.ncss.cn/information/2c93f4c682872dbb01849802948e17dd?jump_from=1_05_37_01) in [The 8th China International College Students'"Internet+"Competition](https://cy.ncss.cn/en/). Congratulations!
 * [Oct-2022] A paper has been accepted by [IEEE Internet of Things Magazine (IoTM)](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine).

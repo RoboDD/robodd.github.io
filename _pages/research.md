@@ -12,4 +12,7 @@ Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/
 
 Working on it!
 
+<img src='/site/images/mm-unity-demo.png' width = "50%" align=center>
+
+
 Last update: Feb. 15, 2023

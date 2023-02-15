@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Mixed Reality for Contact-Rich Manipulation with Mobile Manipulator
+## Mixed Reality for Contact-Rich Manipulation with Mobile Manipulator
 
 Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/) and [Prof. Nathan Lepora](https://lepora.com/)
 

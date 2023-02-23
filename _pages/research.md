@@ -12,7 +12,20 @@ Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/
 
 Working on it!
 
+## Progress
+
+* Simulator
+  * VR joystick control
+  * Leo rover simulator and setup ROS connection
+* Objective-based Shared Controller
+
+## Screenshots
 <img src='/site/images/mm-unity-demo.png' width = "50%" align=center>
 
+<img src='/site/images/mm-vr-test.jpg' width = "50%" align=center>
 
-Last update: Feb. 15, 2023
+<img src='/site/images/mm-realsense-test.png' width = "50%" align=center>
+
+<img src='/site/images/mm-lidar-test.png' width = "50%" align=center>
+
+Last update: Feb. 23, 2023

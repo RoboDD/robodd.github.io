@@ -14,10 +14,18 @@ Working on it!
 
 ## Progress
 
-* Simulator
-  * VR joystick control
-  * Leo rover simulator and setup ROS connection
-* Objective-based Shared Controller
+* High-fidelity Simulator (Digital twin)
+  * Support Leo Rover and WX250 robot manipulator
+  * ROS Connection
+  * 2D LiDAR
+* VR-based teleoperation client
+  * Publish \cmd_vel by VR joystick control through ROS
+* Algorithm:
+  * Navigation: GMapping+AMCL+Navigation stack(A*+TEB)
+  * Manipulation: TODO
+* Teleoperation:
+  * PCD display in headset+EFF controller
+  * Objective-based Shared Controller
 
 ## Screenshots
 <img src='/site/images/mm-unity-demo.png' width = "50%" align=center>
@@ -28,4 +36,4 @@ Working on it!
 
 <img src='/site/images/mm-lidar-test.png' width = "50%" align=center>
 
-Last update: Feb. 23, 2023
+Last update: Feb. 28, 2023

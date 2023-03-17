@@ -1,11 +1,10 @@
 ---
-permalink: /opportunities
+layout: archive
 title: "Opportunities"
-excerpt: "Opportunities"
+permalink: /opportunities/
 author_profile: false
-redirect_from: 
-  - /opportunities/
-  - /opportunities.html
+redirect_from:
+
 ---
 
 # Opportunities

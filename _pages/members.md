@@ -7,7 +7,7 @@ redirect_from:
 
 ---
 
-# PhD Student
+# MSc/MRes Student
 
 <center>
     <img style="border-radius: 0.3125em;
@@ -40,7 +40,30 @@ redirect_from:
     padding: 2px;">Zhu Wang</div>
 </center>
 
-# Project 2
+# Undergraduate Student
 
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>flex布局，子元素均分父级div</title>
+    <style type="text/css">
+    	.footer{width:600px;height:300px;margin:100px auto;background:#ddd}
+    	.footer .items{width:100%;display:flex}
+		.footer .items div{flex:1;height:300px;line-height:300px;text-align:center}
+    </style>
+</head>
+<body>
+	<div class="footer">
+		<div class="items">
+			<div style="background:red">item1</div>
+			<div style="background:pink">item2</div>
+			<div style="background:orange">item3</div>
+		</div>
+	</div>
+</body>
+</html>
 
 # Project 3

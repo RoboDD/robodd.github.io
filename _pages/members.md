@@ -54,7 +54,7 @@ redirect_from:
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>flex布局，子元素均分父级div</title>
     <style type="text/css">
-    	.footer{width:400px;height:300px;margin:0px auto;background:#ddd}
+    	.footer{width:300px;height:300px;margin:10px auto;background:#ddd}
     	.footer .items{width:100%;display:flex}
 		.footer .items div{flex:1;height:0px;line-height:0px;text-align:center}
     </style>
@@ -65,7 +65,7 @@ redirect_from:
 			<div style="background:grey"><center>
     			<img style="border-radius: 0.3125em;
    			box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-   	 		src="/site/images/my-research-area.drawio.png" width = "100%">
+   	 		src="/site/images/my-research-area.drawio.png" width = "90%">
    	 		<br>
     			<div style="color:grey; border-bottom: 1px solid #d9d9d9;
     			display: inline-block;
@@ -75,7 +75,7 @@ redirect_from:
 			<div style="background:grey"><center>
     			<img style="border-radius: 0.3125em;
    			box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-   	 		src="/site/images/my-research-area.drawio.png" width = "100%">
+   	 		src="/site/images/my-research-area.drawio.png" width = "90%">
    	 		<br>
     			<div style="color:orange; border-bottom: 1px solid #d9d9d9;
     			display: inline-block;
@@ -85,7 +85,7 @@ redirect_from:
 			<div style="background:orange"><center>
     			<img style="border-radius: 0.3125em;
    			box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-   	 		src="/site/images/my-research-area.drawio.png" width = "100%">
+   	 		src="/site/images/my-research-area.drawio.png" width = "90%">
    	 		<br>
     			<div style="color:orange; border-bottom: 1px solid #d9d9d9;
     			display: inline-block;

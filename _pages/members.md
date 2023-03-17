@@ -54,7 +54,7 @@ redirect_from:
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>flex布局，子元素均分父级div</title>
     <style type="text/css">
-    	.footer{width:600px;height:300px;margin:100px auto;background:#ddd}
+    	.footer{width:400px;height:300px;margin:100px auto;background:#ddd}
     	.footer .items{width:100%;display:flex}
 		.footer .items div{flex:1;height:300px;line-height:300px;text-align:center}
     </style>
@@ -62,17 +62,17 @@ redirect_from:
 <body>
 	<div class="footer">
 		<div class="items">
-			<div style="background:red"><center>
+			<div style="background:grey"><center>
     			<img style="border-radius: 0.3125em;
    			box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
    	 		src="/site/images/my-research-area.drawio.png" width = "100%">
    	 		<br>
-    			<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    			<div style="color:grey; border-bottom: 1px solid #d9d9d9;
     			display: inline-block;
     			color: #999;
     			padding: 2px;">Zhu Wang</div>
 			</center></div>
-			<div style="background:pink"><center>
+			<div style="background:grey"><center>
     			<img style="border-radius: 0.3125em;
    			box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
    	 		src="/site/images/my-research-area.drawio.png" width = "100%">

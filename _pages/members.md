@@ -54,9 +54,9 @@ redirect_from:
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>flex布局，子元素均分父级div</title>
     <style type="text/css">
-    	.footer{width:device-width;height:device-height;margin:10px auto;background:#ddd}
+    	.footer{width:device-width;height:300;margin:10px auto;background:#ddd}
     	.footer .items{width:100%;display:flex}
-		.footer .items div{flex:1;height:0px;line-height:0px;text-align:center}
+		.footer .items div{flex:1;height:10px;line-height:0px;text-align:center}
     </style>
 </head>
 <body>

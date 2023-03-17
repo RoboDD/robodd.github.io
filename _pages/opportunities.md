@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /opportunities
 title: "Opportunities"
 excerpt: "Opportunities"
 author_profile: false

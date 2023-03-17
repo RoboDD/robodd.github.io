@@ -58,9 +58,36 @@ redirect_from:
 <body>
 	<div class="footer">
 		<div class="items">
-			<div style="background:red">item1</div>
-			<div style="background:pink">item2</div>
-			<div style="background:orange">item3</div>
+			<div style="background:red"><center>
+    			<img style="border-radius: 0.3125em;
+   			box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+   	 		src="/site/images/my-research-area.drawio.png" width = "20%">
+   	 		<br>
+    			<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    			display: inline-block;
+    			color: #999;
+    			padding: 2px;">Zhu Wang</div>
+			</center></div>
+			<div style="background:pink"><center>
+    			<img style="border-radius: 0.3125em;
+   			box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+   	 		src="/site/images/my-research-area.drawio.png" width = "20%">
+   	 		<br>
+    			<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    			display: inline-block;
+    			color: #999;
+    			padding: 2px;">Zhu Wang</div>
+			</center></div>
+			<div style="background:orange"><center>
+    			<img style="border-radius: 0.3125em;
+   			box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+   	 		src="/site/images/my-research-area.drawio.png" width = "20%">
+   	 		<br>
+    			<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    			display: inline-block;
+    			color: #999;
+    			padding: 2px;">Zhu Wang</div>
+			</center></div>
 		</div>
 	</div>
 </body>

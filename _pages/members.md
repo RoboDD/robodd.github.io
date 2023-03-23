@@ -7,6 +7,8 @@ redirect_from:
 
 ---
 
+## PhD Candidates
+
 <html>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse">
         <tr>
@@ -23,8 +25,8 @@ redirect_from:
                 <div id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
-                <b align="center">Lorem Ipsum</b><br>
-                PI, EE
+                <div align="center"><b>Ziniu Wu</b></div>
+                <div align="center">PI</div> 
                 </p>
                 </div>
             </td>
@@ -32,8 +34,19 @@ redirect_from:
                 <div id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
-                <b align="center">Lorem Ipsum</b><br>
-                PI, EE
+                <div align="center"><b>Ziniu Wu</b></div>
+                <div align="center">PI</div> 
+                </p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="member">
+                <img src="/site/images/p7.png" width="200px">
+                <p>
+                <div align="center"><b>Ziniu Wu</b></div>
+                <div align="center">PI</div> 
                 </p>
                 </div>
             </td>
@@ -41,8 +54,17 @@ redirect_from:
                 <div id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
-                <b align="center">Lorem Ipsum</b><br>
-                PI, EE
+                <div align="center"><b>Ziniu Wu</b></div>
+                <div align="center">PI</div> 
+                </p>
+                </div>
+            </td>
+            <td>
+                <div id="member">
+                <img src="/site/images/p7.png" width="200px">
+                <p>
+                <div align="center"><b>Ziniu Wu</b></div>
+                <div align="center">PI</div> 
                 </p>
                 </div>
             </td>

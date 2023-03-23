@@ -12,10 +12,10 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/people-ziniu.jpg" width="200px">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
-                <div align="center">PI</div> 
+                <div align="center">MSc in Robotics</div> 
                 </p>
                 </div>
             </td>

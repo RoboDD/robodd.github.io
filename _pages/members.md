@@ -14,7 +14,7 @@ redirect_from:
         <tr>
             <td>
                 <div id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p7.png" width="200px" align="center">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">PI</div> 
@@ -23,7 +23,7 @@ redirect_from:
             </td>
             <td>
                 <div id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p7.png" width="200px" align="center">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">PI</div> 
@@ -32,7 +32,7 @@ redirect_from:
             </td>
             <td>
                 <div id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p7.png" width="200px" align="center">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">PI</div> 
@@ -43,7 +43,7 @@ redirect_from:
         <tr>
             <td>
                 <div id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p7.png" width="200px" align="center">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">PI</div> 
@@ -52,7 +52,7 @@ redirect_from:
             </td>
             <td>
                 <div id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p7.png" width="200px" align="center">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">PI</div> 
@@ -61,7 +61,7 @@ redirect_from:
             </td>
             <td>
                 <div id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p7.png" width="200px" align="center">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">PI</div> 

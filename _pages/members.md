@@ -12,7 +12,7 @@ redirect_from:
 <html>
     <table style="margin-left: auto; margin-right: auto; border: none">
         <tr>
-            <td>
+            <td border: none>
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -21,7 +21,7 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            <td>
+            <td border: none>
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -30,7 +30,7 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            <td>
+            <td border: none>
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -41,7 +41,7 @@ redirect_from:
             </td>
         </tr>
         <tr>
-            <td>
+            <td border: none>
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -50,7 +50,7 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            <td>
+            <td border: none>
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -59,7 +59,7 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            <td>
+            <td border: none>
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>

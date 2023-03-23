@@ -10,7 +10,7 @@ redirect_from:
 ## PhD Candidates
 
 <html>
-    <table style="margin-left: auto; margin-right: auto; border-collapse: collapse">
+    <table style="margin-left: auto; margin-right: auto; border: none">
         <tr>
             <td>
                 <div id="member">

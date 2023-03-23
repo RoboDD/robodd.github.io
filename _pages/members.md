@@ -12,33 +12,39 @@ redirect_from:
         <tr>
             <td>
                 <div id="member">
-                <img src="/site/images/p7.png">
+                <img src="/site/images/p7.png" width="200px">
                 <p>
-                <b>Lorem Ipsum</b></br>
+                <b>Ziniu Wu</b><br>
                 PI, EE
                 </p>
                 </div>
             </td>
             <td>
-                <img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">
-
-                San Zhang
-
-                MSc Robotics
+                <div id="member">
+                <img src="/site/images/p7.png" width="200px">
+                <p>
+                <b>Lorem Ipsum</b><br>
+                PI, EE
+                </p>
+                </div>
             </td>
             <td>
-                <img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">
-
-                Xiong Hao
-
-                MSc Robotics
+                <div id="member">
+                <img src="/site/images/p7.png" width="200px">
+                <p>
+                <b>Lorem Ipsum</b><br>
+                PI, EE
+                </p>
+                </div>
             </td>
             <td>
-                <img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">
-
-                Zhu Yang
-
-                MSc Robotics
+                <div id="member">
+                <img src="/site/images/p7.png" width="200px">
+                <p>
+                <b>Lorem Ipsum</b><br>
+                PI, EE
+                </p>
+                </div>
             </td>
         </tr>
     </table>

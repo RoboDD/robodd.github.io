@@ -33,57 +33,6 @@ MathJax.Hub.Config({
 <!-- End MathJax -->
 </head>
 <body>
-<div id="main-container">
-<div id="header-container">
-<div id="header">
-<div id="header-icon-text-container">
-<div id="header-icon-container" >
-<a href="index.html"><img src="./images/profile2.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
-</div>
-<div id="header-text-container">
-<a href="index.html">jemdoc + new design</a>
-</div>
-</div>
-<div id="main">
-<button class="openbtn" onclick="openNav()">☰</button>
-</div>
-</div>
-</div>
-<div id="layout">
-<div id="layout-menu-container">
-<div id="layout-menu">
-<div class="menu-item"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a></div>
-<div class="menu-item"><a href="index.html">About</a></div>
-<div class="menu-category">My Templates</div>
-<div class="menu-item"><a href="profile.html">Profile&nbsp;Page</a></div>
-<div class="menu-item"><a href="post1.html">Blog&nbsp;Post&nbsp;Page</a></div>
-<div class="menu-item"><a href="projects.html">Project&nbsp;Page</a></div>
-<div class="menu-item"><a href="group.html" class="current">Group&nbsp;Page</a></div>
-<div class="menu-category">Jemdoc</div>
-<div class="menu-item"><a href="download.html">download</a></div>
-<div class="menu-item"><a href="revision.html">version/bug&nbsp;info</a></div>
-<div class="menu-item"><a href="contact.html">contact</a></div>
-<div class="menu-category">User's guide</div>
-<div class="menu-item"><a href="using.html">running&nbsp;jemdoc</a></div>
-<div class="menu-item"><a href="example.html">example&nbsp;page</a></div>
-<div class="menu-item"><a href="nomenu.html">example&nbsp;page&nbsp;(no&nbsp;menu)</a></div>
-<div class="menu-item"><a href="cheatsheet.html">cheat&nbsp;sheet</a></div>
-<div class="menu-item"><a href="extra.html">extra&nbsp;syntax</a></div>
-<div class="menu-category">Configuration</div>
-<div class="menu-item"><a href="htmlchanges.html">html&nbsp;changes</a></div>
-<div class="menu-item"><a href="menu.html">adding&nbsp;a&nbsp;menu</a></div>
-<div class="menu-item"><a href="modelines.html">modelines</a></div>
-<div class="menu-category">Goodies</div>
-<div class="menu-item"><a href="stuff.html">vim,&nbsp;make</a></div>
-<div class="menu-item"><a href="latex.html">latex&nbsp;equations</a></div>
-<div class="menu-item"><a href="tables.html">tables</a></div>
-<div class="menu-category">Additional Features</div>
-<div class="menu-item"><a href="mathjax.html">MathJax</a></div>
-<div class="menu-item"><a href="underscore.html">Underscore</a></div>
-<div class="menu-item"><a href="link.html">Link</a></div>
-<div class="menu-item"><a href="http://www.google.com" target="blank">Open&nbsp;in&nbsp;New&nbsp;Tab</a></div>
-</div> <!-- <div id="layout-menu"> -->
-</div> <!-- <div id="layout-menu-container"> -->
 <div id="layout-content-container">
 <div id="layout-content">
 <div id="toptitle">

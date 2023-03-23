@@ -11,7 +11,7 @@ redirect_from:
 
 ## Ben Tully
 
-<img align="left" src="/images/my-research-area.drawio.png" width="200px" style="padding-right: 15px">
+<img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">
 
 **Email:** tully.bj@gmail.com
 
@@ -27,7 +27,7 @@ redirect_from:
 
 ## Mike Lee
 
-<img align="left" src="/images/my-research-area.drawio.png" width="200px" style="padding-right: 15px">
+<img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">
 
 **Email:** MikeLee@bmsis.org  
 
@@ -43,7 +43,7 @@ redirect_from:
 
 ## JL Weissman
 
-<img align="left" src="/images/headshot1c.png" width="200px" style="padding-right: 15px">
+<img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">
 
 **Email:** jakeweis@usc.edu
 
@@ -58,7 +58,7 @@ redirect_from:
 
 ## Joy Buongiorno
 
-<img align="left" src="/images/joyb.jpeg" style="padding-right: 15px">
+<img align="left" src="/site/images/p7.png" style="padding-right: 15px">
 
 **Email:** jbuongior21@gmail.com
 

@@ -14,7 +14,7 @@ redirect_from:
                 <div id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
-                <b>Ziniu Wu</b><br>
+                <b align="center">Ziniu Wu</b><br>
                 PI, EE
                 </p>
                 </div>
@@ -23,7 +23,7 @@ redirect_from:
                 <div id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
-                <b>Lorem Ipsum</b><br>
+                <b align="center">Lorem Ipsum</b><br>
                 PI, EE
                 </p>
                 </div>
@@ -32,7 +32,7 @@ redirect_from:
                 <div id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
-                <b>Lorem Ipsum</b><br>
+                <b align="center">Lorem Ipsum</b><br>
                 PI, EE
                 </p>
                 </div>
@@ -41,7 +41,7 @@ redirect_from:
                 <div id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
-                <b>Lorem Ipsum</b><br>
+                <b align="center">Lorem Ipsum</b><br>
                 PI, EE
                 </p>
                 </div>

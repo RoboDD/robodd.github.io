@@ -14,7 +14,7 @@ redirect_from:
                 <div id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
-                <div align="center"><b>Ziniu Wu</b></div> <br>
+                <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">PI</div> 
                 </p>
                 </div>

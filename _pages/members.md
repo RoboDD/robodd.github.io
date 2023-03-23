@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <html>
-    <table style="margin-left: auto; margin-right: auto;">
+    <table style="margin-left: auto; margin-right: auto;column-rule-color: transparent">
         <tr>
             <td>
                 <img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">

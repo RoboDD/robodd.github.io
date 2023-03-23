@@ -11,11 +11,13 @@ redirect_from:
     <table style="margin-left: auto; margin-right: auto;column-rule-color: transparent">
         <tr>
             <td>
-                <img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">
-
-                Ziniu Wu
-
-                MSc Robotics
+                <div id="member">
+                <img src="/site/images/p7.png">
+                <p>
+                <b>Lorem Ipsum</b></br>
+                PI, EE
+                </p>
+                </div>
             </td>
             <td>
                 <img align="left" src="/site/images/p7.png" width="200px" style="padding-right: 15px">

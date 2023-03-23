@@ -16,7 +16,8 @@ redirect_from:
                 <img src="/site/images/people-ziniu.jpg" width="200px">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
-                <div align="center">MSc in Robotics</div> 
+                <div align="center">PhD candidate in Robotics</div> 
+                <div align="center"><a href="[#](https://robodd.github.io/site/)">[website]</a></div> 
                 </p>
                 </div>
             </td>

@@ -15,11 +15,6 @@ redirect_from:
             <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/image-alignment-300x200.jpg" width="200px">
-                <p>
-                <div align="center"><b>Ziniu Wu</b></div>
-                <div align="center">PhD candidate in Robotics</div> 
-                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div> 
-                </p>
                 </div>
             </td>
             <td style="border: none">

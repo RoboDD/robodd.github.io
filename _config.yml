@@ -84,9 +84,9 @@ analytics:
 # Site Author
 author:
   name             : "Ziniu Wu (Bill)"
-  avatar           : "profile.png"
+  avatar           : "people-ziniu.jpg"
   bio              : "MSc in Robotics @ University of Bristol"
-  location         : "Bristol, United Kingdom"
+  location         : # "Bristol, United Kingdom"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FdB-xB0AAAAJ&hl=zh-CN"

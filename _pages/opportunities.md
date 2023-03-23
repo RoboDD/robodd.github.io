@@ -7,7 +7,11 @@ redirect_from:
 
 ---
 
-# MRes/MSc Projects
+## PhD Projects
+
+The research group is seeking highly motivated PhD candidate who has solid background in robotics, applied mathematics or other related fields. The interested applicant with strong motivation to perform cutting edge research is highly encouraged to contact me via email.
+
+## MRes/MSc Projects
 
 <html>
     <table style="margin-left: auto; margin-right: auto; border: none">
@@ -44,7 +48,7 @@ redirect_from:
     </table>
 </html>
 
-# Undergraduate Projects
+## Undergraduate Projects
 
 
 <html>

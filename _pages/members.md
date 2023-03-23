@@ -17,7 +17,7 @@ redirect_from:
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">PhD candidate in Robotics</div> 
-                <div align="center"><a href="[#](https://robodd.github.io/site/)">[website]</a></div> 
+                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div> 
                 </p>
                 </div>
             </td>

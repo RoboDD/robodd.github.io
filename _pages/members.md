@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <html>
-    <table style="margin-left: auto; margin-right: auto; border="0" ">
+    <table style="margin-left: auto; margin-right: auto">
         <tr>
             <td>
                 <div id="member">

@@ -10,13 +10,9 @@ redirect_from:
 ## PhD Candidates
 
 <html>
-    table, tr, td, th{
-    margin: auto;
-    border: none;
-    }
     <table style="margin-left: auto; margin-right: auto; border: none">
-        <tr>
-            <td>
+        <tr style="border: none">
+            <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -25,7 +21,7 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            <td>
+            <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -34,7 +30,7 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            <td>
+            <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -44,8 +40,8 @@ redirect_from:
                 </div>
             </td>
         </tr>
-        <tr>
-            <td>
+        <tr style="border: none">
+            <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -54,7 +50,7 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            <td>
+            <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>
@@ -63,7 +59,7 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            <td>
+            <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/p7.png" width="200px">
                 <p>

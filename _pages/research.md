@@ -14,7 +14,7 @@ This page is updateing!!!!!!
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/mm-realsense-test.png" width="400px">
+                <img src="/site/images/mm-realsense-test.png" height="600px">
                 </div>
             </td>
             <td style="border: none">
@@ -29,7 +29,7 @@ This page is updateing!!!!!!
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/mm-unity-demo.png" width="400px">
+                <img src="/site/images/mm-unity-demo.png" height="600px">
                 </div>
             </td>
             <td style="border: none">

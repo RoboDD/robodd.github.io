@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-This page is updateing!!!!!!
-This page is updateing!!!!!!
-This page is updateing!!!!!!
+This page is updating!!!!!!
+This page is updating!!!!!!
+This page is updating!!!!!!
 
 <html>
     <table style="margin-left: auto; margin-right: auto; border: none">

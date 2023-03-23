@@ -5,6 +5,45 @@ permalink: /research/
 author_profile: true
 ---
 
+This page is updateing!!!!!!
+This page is updateing!!!!!!
+This page is updateing!!!!!!
+
+<html>
+    <table style="margin-left: auto; margin-right: auto; border: none">
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/mm-realsense-test.png" width="400px">
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="left" id="member">
+                <p>
+                <b>Mixed Reality for Contact-Rich Manipulation with Mobile Manipulator</b><br>
+                Description: To improve the performance of mobile manipulation in an unstructured environment, the aim of this research is to develop a human-in-the-loop teleoperation method with human-robot hybrid intelligence that enables mobile manipulators to collaborate with human operators with shared autonomy and high situational awareness while reducing the human supervisory workload. 
+                </p>
+                </div>
+            </td>
+        </tr>
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/mm-unity-demo.png" width="400px">
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="left" id="member">
+                <p>
+                <b>Human-in-the-loop Planning for Robots</b><br>
+                Description: To improve the performance of mobile manipulation in an unstructured environment, the aim of this research is to develop a human-in-the-loop teleoperation method with human-robot hybrid intelligence that enables mobile manipulators to collaborate with human operators with shared autonomy and high situational awareness while reducing the human supervisory workload. 
+                </p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</html>
+
 
 ## Mixed Reality for Contact-Rich Manipulation with Mobile Manipulator
 

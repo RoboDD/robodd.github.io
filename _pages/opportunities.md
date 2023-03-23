@@ -14,7 +14,7 @@ The research group is seeking highly motivated PhD candidate who has solid backg
 ## MRes/MSc Projects
 
 <html>
-    <table style="margin-left: auto; margin-right: auto; border: none">
+    <table style="margin-left: auto; margin-right: auto; border: none; valign: top">
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">

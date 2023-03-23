@@ -10,6 +10,10 @@ redirect_from:
 ## PhD Candidates
 
 <html>
+    table, tr, td, th{
+    margin: auto;
+    border: none;
+    }
     <table style="margin-left: auto; margin-right: auto; border: none">
         <tr>
             <td>

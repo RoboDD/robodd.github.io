@@ -21,7 +21,7 @@ The research group is seeking highly motivated PhD candidate who has solid backg
                 <img src="/site/images/image-alignment-300x200.jpg" width="400px">
                 </div>
             </td>
-            <td style="border: none">
+            <td style="border: none; valign="top" ">
                 <div align="left" id="member">
                 <p>
                 <b>Motion Planning for Mobile Robots</b><br>
@@ -36,7 +36,7 @@ The research group is seeking highly motivated PhD candidate who has solid backg
                 <img src="/site/images/image-alignment-300x200.jpg" width="400px">
                 </div>
             </td>
-            <td style="border: none">
+            <td style="border: none; valign="top" ">
                 <div align="left" id="member">
                 <p>
                 <b>Human-in-the-loop Planning for Swarms</b><br>

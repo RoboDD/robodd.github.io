@@ -26,7 +26,7 @@ redirect_from:
                 <img src="/site/images/p7.png" width="200px">
                 <p>
                 <div align="center"><b>Xukun Li</b></div>
-                <div align="center">MSc in Computer Science</div> 
+                <div align="center">PhD candidate in Robotics</div> 
                 </p>
                 </div>
             </td>
@@ -35,7 +35,7 @@ redirect_from:
                 <img src="/site/images/p7.png" width="200px">
                 <p>
                 <div align="center"><b>Yutian Chu</b></div>
-                <div align="center">MSc in Computer Science</div> 
+                <div align="center">PhD in Computer Science</div> 
                 </p>
                 </div>
             </td>
@@ -134,9 +134,9 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/people-ziniu.jpg" width="200px">
+                <img src="/site/images/p7.png" width="200px">
                 <p>
-                <div align="center"><b>Dr. Ziniu Wu</b></div>
+                <div align="center"><b>Dr. Xuyuan Mang</b></div>
                 <div align="center">Lecturer, University of Liverpool</div> 
                 </p>
                 </div>
@@ -147,24 +147,6 @@ redirect_from:
                 <p>
                 <div align="center"><b>Keju Li</b></div>
                 <div align="center">MSc in Computer Science</div> 
-                </p>
-                </div>
-            </td>
-            <td style="border: none">
-                <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
-                <p>
-                <div align="center"><b>Yutian Chu</b></div>
-                <div align="center">MSc in Computer Science</div> 
-                </p>
-                </div>
-            </td>
-            <td style="border: none">
-                <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
-                <p>
-                <div align="center"><b>Xiaoyu Wan</b></div>
-                <div align="center">MSc in Robotics</div> 
                 </p>
                 </div>
             </td>

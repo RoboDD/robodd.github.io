@@ -13,6 +13,8 @@ The research group is seeking highly motivated PhD candidate who has solid backg
 
 ## MRes/MSc Projects
 
+We welcome students with interests in mechanical design, robot system control and mechatronic system design to join our research group. Interested students could contact me by email.
+
 <html>
     <table style="margin-left: auto; margin-right: auto; border: none">
         <tr style="border: none">

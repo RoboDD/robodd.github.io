@@ -23,10 +23,11 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p15.png" width="200px">
                 <p>
                 <div align="center"><b>Xukun Li</b></div>
-                <div align="center">PhD candidate in Robotics</div> 
+                <div align="center">PhD candidate in Robotics</div>
+                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div>
                 </p>
                 </div>
             </td>
@@ -35,7 +36,8 @@ redirect_from:
                 <img src="/site/images/p7.png" width="200px">
                 <p>
                 <div align="center"><b>Yutian Chu</b></div>
-                <div align="center">PhD in Computer Science</div> 
+                <div align="center">PhD in Computer Science</div>
+                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div>
                 </p>
                 </div>
             </td>
@@ -59,7 +61,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p15.png" width="200px">
                 <p>
                 <div align="center"><b>Ziniu Wu</b></div>
                 <div align="center">MSc in Robotics</div> 
@@ -77,7 +79,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p15.png" width="200px">
                 <p>
                 <div align="center"><b>Yutian Chu</b></div>
                 <div align="center">MSc in Computer Science</div> 
@@ -106,7 +108,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/p15.png" width="200px">
                 <p>
                 <div align="center"><b>Dantian Zhuang</b></div>
                 <div align="center">MSc in Aerial Robotics</div> 

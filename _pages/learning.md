@@ -12,8 +12,25 @@ redirect_from:
 
 # Control
 
+Courses:
+
 * [DR_CAN](https://space.bilibili.com/230105574)
-* [CLEAR Lab @ Sustech](https://www.wzhanglab.site/teaching/)
+* * [工程数学基础](https://space.bilibili.com/230105574/channel/seriesdetail?sid=1569595)
+* * [自动控制原理（经典控制）](https://space.bilibili.com/230105574/channel/seriesdetail?sid=1569593)
+* * [动态系统的建模与分析](https://space.bilibili.com/230105574/channel/seriesdetail?sid=1569598)
+* * [现代控制理论](https://space.bilibili.com/230105574/channel/seriesdetail?sid=1569601)
+* * [卡尔曼滤波器](https://space.bilibili.com/230105574/channel/seriesdetail?sid=1569591)
+* * [MPC](https://space.bilibili.com/230105574/channel/seriesdetail?sid=2391534)
+* CLEAR Lab @ Sustech 南科大机器人控制与学习实验室 [课件下载](https://www.wzhanglab.site/teaching/)
+* * 现代控制与最优估计 [video](https://space.bilibili.com/474380277/channel/seriesdetail?sid=291615&ctype=0)
+* * 高等机器人控制 [video](https://space.bilibili.com/474380277/channel/collectiondetail?sid=1129069&ctype=0)
+
+
+Textbooks:
+
+* Karl J. Åström and Richard M. Murray, [Feedback Systems: An Introduction for Scientists and Engineers](https://fbswiki.org/wiki/index.php/Feedback_Systems:_An_Introduction_for_Scientists_and_Engineers)
+* Gene F. Franklin, J. David Powell, Abbas Emami-Naeini, Feedback Control of Dynamic Systems 8th edition
+* Russ Tedrake, [Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation](http://underactuated.csail.mit.edu/index.html)
 
 
 Projects

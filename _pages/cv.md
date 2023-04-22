@@ -19,13 +19,13 @@ Qualifications
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
       <tr>
-        <td width="10%" valign="middle">
+        <td width="30%" valign="middle">
           <a href=""><img src="https://www.datocms-assets.com/7860/1648651835-logo-colour.jpeg?auto=compress&dpr=2&fm=webp&h=50&w=180" width="120"></a>
         </td>
-        <td width="10%" valign="middle">
-          <a href=""><img src="/site/images/my-research-area.drawio.png" width="120"></a>
+        <td width="30%" valign="middle">
+          <a href=""><img src="/site/images/XJTLU_logo.png" width="120"></a>
         </td>
-        <td width="10%" valign="middle">
+        <td width="30%" valign="middle">
           <a href=""><img src="https://www.xjtlu.edu.cn/wp-content/uploads/2022/09/2.png" width="120"></a>
         </td>     
         </tr>

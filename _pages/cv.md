@@ -17,6 +17,19 @@ Qualifications
 * BSc in Applied Mathematics, University of Liverpool, 2022
 * BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+      <tr>
+        <td width="10%" valign="middle">
+          <a href="https://ethz.ch/en.html"><img src="https://www.datocms-assets.com/7860/1648651835-logo-colour.jpeg?auto=compress&dpr=2&fm=webp&h=50&w=180" width="120"></a>
+        </td>
+        <td width="10%" valign="middle">
+          <a href="https://www.is.mpg.de/"><img src="https://www.xjtlu.edu.cn/wp-content/themes/xjtlu/assets/images/XJTLU-web-typography-new-white.png" width="60"></a>
+        </td>
+        <td width="10%" valign="middle">
+          <a href="https://research.google/"><img src="https://www.xjtlu.edu.cn/wp-content/uploads/2022/09/2.png" width="55"></a>
+        </td>     
+        </tr>
+        </table>
 
 <!-- 
 Work experience

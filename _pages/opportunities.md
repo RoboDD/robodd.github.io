@@ -10,6 +10,8 @@ redirect_from:
 ## PhD Projects
 
 The research group is seeking highly motivated PhD candidate who has solid background in robotics, applied mathematics or other related fields. The interested applicant with strong motivation to perform cutting edge research is highly encouraged to contact me via email.
+* Project 1:
+* Project 2:
 
 ## MRes/MSc Projects
 

@@ -6,4 +6,4 @@ collection: portfolio
 
 Working on it!
 
-Prefered topic selection: swarm robotics
+Prefered topic selection: Drone Preflight Checks

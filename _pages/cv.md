@@ -56,7 +56,7 @@ Work experience
 
 Selected Honors and Awards
 ======
-
+* Best Oral Presentation Award, the 9th International Conference on Control, Automation and Robotics (ICCAR 2023), Apr'23
 * Innovation and Entrepreneurship Competition:
   * Gold Award, The 8th China International College Students’ “Internet+” Inno. and Entre. Competition, Nov’22
   * Regional Bronze, 12th "Challenge Cup" China Students Inno. and Entre. Competition, Aug’22

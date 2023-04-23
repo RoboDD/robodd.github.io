@@ -13,9 +13,9 @@ redirect_from:
 
 Qualifications
 ======
-* MSc in Robotics, University of Bristol, 2023 (expected)
-* BSc in Applied Mathematics, University of Liverpool, 2022
-* BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
+* MSc, Robotics, University of Bristol, 2023 (expected)
+* BSc, Applied Mathematics, University of Liverpool, 2022
+* BSc, Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
 
 <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
       <tr>

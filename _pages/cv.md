@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My full CV [.pdf]](https://robodd.github.io/site/404)
+[[中文简历]]([https://robodd.github.io/site/404](https://robodd.github.io/site/cv-cn/))
 
 Qualifications
 ======

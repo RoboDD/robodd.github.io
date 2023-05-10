@@ -11,12 +11,38 @@ redirect_from:
 
 [[中文简历]](https://robodd.github.io/site/cv-cn/)
 
-Qualifications
+Education
 ======
 * MSc, Robotics, University of Bristol, 2023 (expected)
 * BSc, Applied Mathematics, University of Liverpool, 2022
 * BSc, Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
 
+TECHNICAL SKILLS
+======
+* Programming Language: MATLAB, C++/C#, Python, LATEX;
+* Computer-Aid Design: SolidWorks, Fusion360;
+* Tools: Linux and Linux Tools (Ubuntu), Git, Robot Operating System (ROS);
+* Other Tools: PX4 Autopilot, MAVSDK, Virtual RobotX (VRX) simulators.
+
+
+HONORS & AWARDS & CERTIFICATES
+======
+* Best Oral Presentation Award, IEEE ICCAR 2023 2023
+* Gold Award, The 8th China International College Students’“Internet+”Competition 2022
+* Bronze Award, The 8th China International College Students’“Internet+”Competition 2022
+* Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition 2022
+* Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition 2020
+* Regional Third Prize in 2v2 Infantry Confrontation, RoboMaster 2019 Jiangsu 2019
+* Regional Third Prize in Standard Racing Smart Firing, RoboMaster 2019 Jiangsu 2019
+* Regional Third Prize, RoboMaster 2019 Robotics Competition 2019
+
+
+PROFESSIONAL MEMBERSHIPS
+======
+* Postgraduate Student Member, IEEE 2023 - Present
+
+
+Last update: May 10, 2023.
 <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
       <tr>
         <td width="30%" valign="middle">
@@ -53,17 +79,3 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-
-Selected Honors and Awards
-======
-* Best Oral Presentation Award, the 9th International Conference on Control, Automation and Robotics (ICCAR 2023), Apr'23
-* Innovation and Entrepreneurship Competition:
-  * Gold Award, The 8th China International College Students’ “Internet+” Inno. and Entre. Competition, Nov’22
-  * Regional Bronze, 12th "Challenge Cup" China Students Inno. and Entre. Competition, Aug’22
-  * Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, May’22
-  * Provincial Third Prize (↑ 0.28 %), 7th "Internet+" Inno. and Entre. Competition, Sep’21
-* Robotics Competition:
-  * Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition, Aug’20
-  * Regional Third Prize in 2v2 Infantry Confrontation, RM 2019 Jiangsu Regional Competition, Dec’19
-  * Outstanding Aesthetic Design Award, RoboMaster 2019 Robotics Competition, Aug’19
-  * Regional Third Prize, RoboMaster 2019 Robotics Competition, Aug’19

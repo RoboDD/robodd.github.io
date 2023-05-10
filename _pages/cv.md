@@ -27,14 +27,14 @@ TECHNICAL SKILLS
 
 HONORS & AWARDS & CERTIFICATES
 ======
-* Best Oral Presentation Award, IEEE ICCAR 2023 2023
-* Gold Award, The 8th China International College Students’“Internet+”Competition 2022
-* Bronze Award, The 8th China International College Students’“Internet+”Competition 2022
-* Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition 2022
-* Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition 2020
-* Regional Third Prize in 2v2 Infantry Confrontation, RoboMaster 2019 Jiangsu 2019
-* Regional Third Prize in Standard Racing Smart Firing, RoboMaster 2019 Jiangsu 2019
-* Regional Third Prize, RoboMaster 2019 Robotics Competition 2019
+* Best Oral Presentation Award, IEEE ICCAR 2023
+* Gold Award, The 8th China International College Students’“Internet+”Competition, 2022
+* Bronze Award, The 8th China International College Students’“Internet+”Competition, 2022
+* Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, 2022
+* Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition, 2020
+* Regional Third Prize in 2v2 Infantry Confrontation, RoboMaster 2019 Jiangsu, 2019
+* Regional Third Prize in Standard Racing Smart Firing, RoboMaster 2019 Jiangsu, 2019
+* Regional Third Prize, RoboMaster 2019 Robotics Competition, 2019
 
 
 PROFESSIONAL MEMBERSHIPS

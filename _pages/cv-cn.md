@@ -19,10 +19,10 @@ redirect_from:
 
 技能
 ======
-编程语言: MATLAB、C++/C#、Python、LATEX；
-计算机辅助设计: SolidWorks、Fusion360；
-工具: Linux及其工具（Ubuntu）、Git、机器人操作系统（ROS）；
-其他工具: PX4 Autopilot、MAVSDK、Virtual RobotX（VRX）模拟器。
+* 编程语言: MATLAB、C++/C#、Python、LATEX；
+* 计算机辅助设计: SolidWorks、Fusion360；
+* 工具: Linux及其工具（Ubuntu）、Git、机器人操作系统（ROS）；
+* 其他工具: PX4 Autopilot、MAVSDK、Virtual RobotX（VRX）模拟器。
 
 所获奖项
 ======

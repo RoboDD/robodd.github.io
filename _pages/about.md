@@ -23,12 +23,9 @@ Updates
 My Research Interests
 ======
 
-I have broad research interests in robotics. Now I am mainly focusing on:
+I have broad research interests in robotics. Now I am mainly interested in:
 
-* Physical Human-Robot Interaction (pHRI) 
-  * Teleoperation
-  * Human-in-the-Loop (HiL)
-  * Human-Robot Shared Control
+* Human-Robot Shared Autonomy
 * Motion Planning, Dynamics and Control
 * Mixed Reality (MR) and its application
 

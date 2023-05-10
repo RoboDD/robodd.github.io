@@ -24,18 +24,8 @@ author_profile: true
 
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1&theme=mila&fullnames=1&owner=Wu&hidemenu=true&showSearch=false&noIndex=true"></script> 
 
-
+<!-- 
 ## Patents:
 
-* 一种移动机器人多传感器固定支架，中国实用新型专利，CN214520309U。
+* 一种移动机器人多传感器固定支架，中国实用新型专利，CN214520309U。 -->
 
-
-<!-- ## Conference Proceedings
-
-* paper 1
-* paper 2
-*  -->
-<!--  
-## Under Review:
- 
- * M. Wu, **Z. Wu**, PID and LQR Heading Controller for Differential Drive Robot: Performance Evaluation and Analysis, *2023 8th International Conference on Control and Robotics Engineering (ICCRE 2023)*, 2023. -->

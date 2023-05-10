@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* MSc, Robotics, University of Bristol, 2023 (expected)
+* MSc, Robotics, University of Bristol, 2023
 * BSc, Applied Mathematics, University of Liverpool, 2022
 * BSc, Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
 
@@ -25,11 +25,10 @@ TECHNICAL SKILLS
 * Other Tools: PX4 Autopilot, MAVSDK, Virtual RobotX (VRX) simulators.
 
 
-HONORS & AWARDS & CERTIFICATES
+SELECTED AWARDS
 ======
 * Best Oral Presentation Award, IEEE ICCAR 2023
 * Gold Award, The 8th China International College Students’“Internet+”Competition, 2022
-* Bronze Award, The 8th China International College Students’“Internet+”Competition, 2022
 * Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, 2022
 * Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition, 2020
 * Regional Third Prize in 2v2 Infantry Confrontation, RoboMaster 2019 Jiangsu, 2019

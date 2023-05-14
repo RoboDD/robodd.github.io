@@ -22,7 +22,7 @@ author_profile: true
  -->
 
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1&theme=mila&hidemenu=true&showSearch=false&noIndex=true"></script> 
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1&theme=mila&hidemenu=false&showSearch=false&noIndex=true&fullnames=1"></script> 
 
 <!-- 
 ## Patents:

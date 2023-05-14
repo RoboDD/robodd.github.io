@@ -38,7 +38,7 @@ SELECTED AWARDS
 
 PROFESSIONAL MEMBERSHIPS
 ======
-* Postgraduate Student Member, IEEE 2023 - Present
+* Postgraduate Student Member, IEEE, 2023 - Present
 
 
 Last update: May 10, 2023.

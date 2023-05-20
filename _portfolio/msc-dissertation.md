@@ -10,9 +10,9 @@ The specific objectives of the proposed research are listed below:
 
 
 * Conduct a review of the current state-of-the-art and representative work carried out on mixed reality-based teleoperation and relevant AI techniques;
-* Develop a simulator of mobile manipulators using \textbf{Unity-Robotic-Hub} for quick testing;
-* Develop a teleoperation software with shared autonomy using \textbf{mixed reality (MR)} interface for mobile manipulator teleoperation;
-* Integrate software with the \textbf{Robot Operating System (ROS)} for teleoperation, perception, planning and control for mobile manipulators;
-* Reproduce \textit{Object-Centered Teleoperation of Mobile Manipulators With Remote Center of Motion Constraint} as the baseline model;
+* Develop a simulator of mobile manipulators using Unity-Robotic-Hub for quick testing;
+* Develop a teleoperation software with shared autonomy using mixed reality (MR) interface for mobile manipulator teleoperation;
+* Integrate software with the Robot Operating System (ROS) for teleoperation, perception, planning and control for mobile manipulators;
+* Reproduce Object-Centered Teleoperation of Mobile Manipulators With Remote Center of Motion Constraint as the baseline model;
 * Designing, developing, testing, and deploying the proposed systems in both simulation platforms and on-site experiments with a user study to evaluate the task completion performance, user experience and human workload.
 

@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* MSc, Robotics, University of Bristol, 2023
-* BSc, Applied Mathematics, University of Liverpool, 2022
-* BSc, Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
+* MSc in Robotics, University of Bristol, 2023
+* BSc in Applied Mathematics, University of Liverpool, 2022
+* BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
 
 TECHNICAL SKILLS
 ======
@@ -38,7 +38,7 @@ SELECTED AWARDS
 
 PROFESSIONAL MEMBERSHIPS
 ======
-* Postgraduate Student Member, IEEE, 2023 - Present
+* Postgraduate Student Member, IEEE
 
 
 Last update: May 10, 2023.

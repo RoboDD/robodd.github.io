@@ -1,5 +1,5 @@
 ---
-title: "Human-Robot Interaction (TBD)"
+title: "Experiments and Evaluation of the Impact of Yoga Demonstration Robots Compared to Video-based Demonstration"
 excerpt: "MSc Project - EMATM0044 Human-Robot Interaction"
 collection: portfolio
 ---

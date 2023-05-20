@@ -15,7 +15,7 @@ Education
 ======
 * MSc in Robotics, University of Bristol, 2023
 * BSc in Applied Mathematics, University of Liverpool, 2022
-* BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
+<!-- * BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022 -->
 
 TECHNICAL SKILLS
 ======

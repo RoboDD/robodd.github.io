@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I am Ziniu Wu (Bill)."
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing M.Sc. degree in Robotics at the University of Bristol, starting from September 2022. I received the B.Sc. degree with honours in Applied Mathematics from the Xi'an Jiaotong-Liverpool University and University of Liverpool in July 2022. Everyone is warmly welcome to drop me an email to reach out!
+I am Ziniu WU, pursuing an M.Sc. degree in Robotics at the University of Bristol. I received a B.Sc. degree in Applied Mathematics from the Xi’an Jiaotong-Liverpool University and the University of Liverpool in 2022.
 
+**I am actively looking for a PhD position in Robotics and AI!**
 
 
 Updates

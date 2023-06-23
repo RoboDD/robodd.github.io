@@ -7,9 +7,9 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-# <i class="fa-duotone fa-award"></i> Milestone I: Virtual Reality-based Manipulation for Tidy Up
+# <i class="fa-regular fa-award"></i> Milestone I: Virtual Reality-based Manipulation for Tidy Up
 
-<i class="fa-sharp fa-regular fa-badge-check"></i> Features:
+<i class="fa-regular fa-check-to-slot"></i> Features:
 
 - Immersive and intuitive direct control in the master-slave fashion
 - Fully ROS based for modularized development
@@ -38,13 +38,13 @@ author_profile: true
 - add tactile feedback?
 
 
-# <i class="fa-duotone fa-award"></i> Milestone II: X-aware Shared Control (Human-in-the-loop)
+# <i class="fa-regular fa-award"></i> Milestone II: X-aware Shared Control (Human-in-the-loop)
 
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
 
-# <i class="fa-duotone fa-award"></i> <i class="fa-duotone fa-award"></i> Milestone III: Robot Learning: Imitation Learning and DRL
+# <i class="fa-regular fa-award"></i> Milestone III: Robot Learning: Imitation Learning and DRL
 
-# Milestone IV: Dexterous Contact-Rich Bimanual Manipulation
+# <i class="fa-regular fa-award"></i> Milestone IV: Dexterous Contact-Rich Bimanual Manipulation
 
 
 

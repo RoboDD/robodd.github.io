@@ -5,74 +5,37 @@ permalink: /research/
 author_profile: true
 ---
 
-This page is updating!!!!!!
-This page is updating!!!!!!
-This page is updating!!!!!!
+# Milestone I: Virtual Reality-based Manipulation for Tidy Up
 
-<html>
-    <table style="margin-left: auto; margin-right: auto; border: none">
-        <tr style="border: none">
-            <td style="border: none">
-                <div align="center" id="member">
-                <img src="/site/images/mm-realsense-test.png" width="600px">
-                </div>
-            </td>
-            <td style="border: none">
-                <div align="left" id="member">
-                <p>
-                <b>Mixed Reality for Contact-Rich Manipulation with Mobile Manipulator</b><br>
-                Description: To improve the performance of mobile manipulation in an unstructured environment, the aim of this research is to develop a human-in-the-loop teleoperation method with human-robot hybrid intelligence that enables mobile manipulators to collaborate with human operators with shared autonomy and high situational awareness while reducing the human supervisory workload. 
-                </p>
-                </div>
-            </td>
-        </tr>
-        <tr style="border: none">
-            <td style="border: none">
-                <div align="center" id="member">
-                <img src="/site/images/mm-unity-demo.png" width="600px">
-                </div>
-            </td>
-            <td style="border: none">
-                <div align="left" id="member">
-                <p>
-                <b>Human-in-the-loop Planning for Robots</b><br>
-                Description: To improve the performance of mobile manipulation in an unstructured environment, the aim of this research is to develop a human-in-the-loop teleoperation method with human-robot hybrid intelligence that enables mobile manipulators to collaborate with human operators with shared autonomy and high situational awareness while reducing the human supervisory workload. 
-                </p>
-                </div>
-            </td>
-        </tr>
-    </table>
-</html>
+Features:
+- Immersive and intuitive direct control in the master-slave fashion
+- Fully ROS based for modularized development
+- Fundamental tools for collecting robot training data without Sim2Real gap
+
+Short demo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Next:
+- safety consideration design
+- adopt to cloud computing framework
+- enhance user experience (Jitter removal, trajectory smooth)
+- trajectories optimization using Gaussian Process Regression (GPR)
+- add point cloud rendering, and extra modules (Point Clouds Completion)
+- a user-friendly IK solver?
+- add 6 DOF object detection?
+- add tactile feedback?
 
 
-## Mixed Reality for Contact-Rich Manipulation with Mobile Manipulator
+# Milestone II: X-aware Shared Control
 
-Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/) and [Prof. Nathan Lepora](https://lepora.com/)
+X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
 
-Working on it!
+# Milestone IV: Robot Learning: Imitation Learning and DRL
 
-## Progress
+# Milestone II: Dexterous Contact-Rich Bimanual Manipulation
 
-* High-fidelity Simulator (Digital twin)
-  * Support Leo Rover and WX250 robot manipulator
-  * ROS Connection
-  * 2D LiDAR
-* VR-based teleoperation client
-  * Publish \cmd_vel by VR joystick control through ROS
-* Algorithm:
-  * Navigation: GMapping+AMCL+Navigation stack(A*+TEB)
-  * Manipulation: TODO
-* Teleoperation:
-  * PCD display in headset+EFF controller
-  * Objective-based Shared Controller
 
-## Screenshots
-<img src='/site/images/mm-unity-demo.png' width = "50%" align=center>
 
-<img src='/site/images/mm-vr-test.jpg' width = "50%" align=center>
 
-<img src='/site/images/mm-realsense-test.png' width = "50%" align=center>
-
-<img src='/site/images/mm-lidar-test.png' width = "50%" align=center>
-
-Last update: Feb. 28, 2023
+Last update: Jun. 23, 2023

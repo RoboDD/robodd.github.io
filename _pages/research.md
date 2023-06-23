@@ -22,7 +22,7 @@ Limitation:
 - The degree of freedom of the "wrist" is reduced, 7-DoF arm will be used later.
 
 
-Next:
+<i class="fa-regular fa-calendar-check"></i> Next:
 - safety consideration design
 - adopt to cloud computing framework
 - Mixed reality-based teleoperation

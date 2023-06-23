@@ -7,19 +7,19 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-# Milestone I: Virtual Reality-based Manipulation for Tidy Up
+# <i class="fa-duotone fa-award"></i> Milestone I: Virtual Reality-based Manipulation for Tidy Up
 
-Features:
+<i class="fa-sharp fa-regular fa-badge-check"></i> Features:
 
 - Immersive and intuitive direct control in the master-slave fashion
 - Fully ROS based for modularized development
 - Fundamental tools for collecting robot training data without Sim2Real gap
 
-Short demo:
+<i class="fa-duotone fa-video"></i> Short demo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Limitation:
+<i class="fa-regular fa-triangle-exclamation"></i> Limitation:
 
 - The degree of freedom of the "wrist" is reduced, 7-DoF arm will be used later.
 
@@ -38,11 +38,11 @@ Limitation:
 - add tactile feedback?
 
 
-# Milestone II: X-aware Shared Control (Human-in-the-loop)
+# <i class="fa-duotone fa-award"></i> Milestone II: X-aware Shared Control (Human-in-the-loop)
 
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
 
-# Milestone III: Robot Learning: Imitation Learning and DRL
+# <i class="fa-duotone fa-award"></i> <i class="fa-duotone fa-award"></i> Milestone III: Robot Learning: Imitation Learning and DRL
 
 # Milestone IV: Dexterous Contact-Rich Bimanual Manipulation
 

@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziniu WU, pursuing an M.Sc. degree in Robotics at the University of Bristol. I received a B.Sc. degree in Applied Mathematics from the Xi’an Jiaotong-Liverpool University and the University of Liverpool in 2022.
+I am Ziniu WU, pursuing an M.Sc. in Robotics at the University of Bristol. I received a B.Sc. degree in Applied Mathematics from the Xi’an Jiaotong-Liverpool University and the University of Liverpool in 2022.
 
 **I am actively looking for a PhD position in Robotics and AI!**
 
 
 Updates
 ======
-* [Apr-2023] I recieved Best Oral Presentation Award in the [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
+* [Apr-2023] I received the Best Oral Presentation Award in the [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 * [Mar-2023] A paper has been accepted by [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 * [Nov-2022] My team and I were awarded [one Gold Award and two Bronze Award](https://cy.ncss.cn/information/2c93f4c682872dbb01849802948e17dd?jump_from=1_05_37_01) in [The 8th China International College Students'"Internet+"Competition](https://cy.ncss.cn/en/). Congratulations!
 * [Oct-2022] A paper has been accepted by [IEEE Internet of Things Magazine (IoTM)](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine).
@@ -25,9 +25,10 @@ Updates
 My Research Interests
 ======
 
-I have broad research interests in robotics. Now I am mainly interested in:
+I have broad research interests in robotics and spatial AI. Now I am mainly interested in:
 
 * Human-Robot Shared Autonomy
+* Robot Learning
 * Motion Planning, Dynamics and Control
 * Mixed Reality (MR) and its application
 

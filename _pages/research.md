@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
+
 # Milestone I: Virtual Reality-based Manipulation for Tidy Up
 
 Features:

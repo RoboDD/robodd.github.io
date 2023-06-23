@@ -7,7 +7,7 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-# Milestone I: Virtual Reality-based Teleoperation
+## Milestone I: Virtual Reality-based Teleoperation
 
 Features:
 
@@ -38,15 +38,15 @@ Limitation:
 - add tactile feedback?
 
 
-# Milestone II: X-aware Shared Control (Human-in-the-loop)
+## Milestone II: X-aware Shared Control (Human-in-the-loop)
 
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
 
-# Milestone III: Robot Learning: Imitation Learning and DRL
+## Milestone III: Robot Learning: Imitation Learning and DRL
 
-# Milestone IV: Dexterous Contact-Rich Bimanual Manipulation
-
-
+## Milestone IV: Dexterous Contact-Rich Bimanual Manipulation
 
 
-Last update: Jun. 23, 2023
+
+
+Last update: Junn 23, 2023

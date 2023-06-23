@@ -7,7 +7,7 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-# Milestone I: Virtual Reality-based Manipulation for Tidy Up
+# Milestone I: Virtual Reality-based Teleoperation
 
 Features:
 
@@ -15,7 +15,7 @@ Features:
 - Fully ROS based for modularized development
 - Fundamental tools for collecting robot training data without Sim2Real gap
 
-Short demo:
+Short demo for tidy-up task:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

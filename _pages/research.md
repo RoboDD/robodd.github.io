@@ -36,6 +36,7 @@ Limitation:
 - enhance user experience (Jitter removal, trajectory smooth)
 - trajectories optimization using Gaussian Process Regression (GPR)
 - add point cloud rendering, and extra modules (Point Clouds Completion)
+- Gimbal camera (mount camera on 6DOF mycobot to provide immersive view)?
 - Digital twin feedback?
 - a user-friendly IK solver?
 - add 6 DOF object detection?

@@ -38,7 +38,7 @@ Limitation:
 - add point cloud rendering, and extra modules (Point Clouds Completion)
 - Gimbal camera (mount camera on 6DOF mycobot to provide immersive view)?
 - Digital twin feedback?
-- a user-friendly IK solver?
+- a user-friendly IK solver? (no strange pose)
 - add 6 DOF object detection?
 - add tactile feedback?
 

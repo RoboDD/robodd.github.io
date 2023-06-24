@@ -7,6 +7,10 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
+Now, I am working on MSc dissertation supervised by Dr. Dandan Zhang and Prof. Nathan Lepora.
+
+<img src='/site/images/myresearch.drawio.png' width = "100%" align=center>
+
 ## Milestone I: Virtual Reality-based Teleoperation
 
 Features:

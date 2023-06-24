@@ -11,7 +11,7 @@ author_profile: true
 
 <img src='/site/images/myresearch.drawio.png' width = "100%" align=center>
 
-## Milestone I: Virtual Reality-based Teleoperation
+## Project I: Virtual Reality-based Teleoperation
 
 Features:
 
@@ -42,13 +42,13 @@ Limitation:
 - add tactile feedback?
 
 
-## Milestone II: X-aware Shared Control (Human-in-the-loop)
+## Project II: X-aware Shared Control (Human-in-the-loop)
 
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
 
-## Milestone III: Robot Learning: Imitation Learning and DRL
+## Project III: Robot Learning: Imitation Learning and DRL
 
-## Milestone IV: Dexterous Contact-Rich Bimanual Manipulation
+## Project IV: Dexterous Contact-Rich Bimanual Manipulation
 
 
 

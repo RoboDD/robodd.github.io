@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziniu WU, pursuing an M.Sc. in Robotics at the University of Bristol. I received a B.Sc. degree in Applied Mathematics from the Xi’an Jiaotong-Liverpool University and the University of Liverpool in 2022.
+Hi! I am Ziniu WU. I am working on my MSc dissertation supervised by Dr. Dandan Zhang and Prof. Nathan Lepora towards M.Sc. in Robotics at the University of Bristol. I received a B.Sc. degree in Applied Mathematics from the Xi’an Jiaotong-Liverpool University and the University of Liverpool in 2022.
 
 **I am actively looking for a PhD position in Robotics and AI!**
 

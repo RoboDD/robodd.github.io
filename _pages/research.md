@@ -31,8 +31,8 @@ Limitation:
 <i class="fa-regular fa-calendar-check"></i> Next:
 - ~~safety consideration design~~ by adding joint limits through finalIK
 - ~~Mixed reality-based teleoperation~~
-- adopt to cloud computing framework
-- switch to 'Articulation' version
+- ~~adopt to cloud computing framework~~ adopted to IoRT framework!
+- switch to 'Articulation' version, IK required
 - enhance user experience (Jitter removal, trajectory smooth)
 - trajectories optimization using Gaussian Process Regression (GPR)
 - add point cloud rendering, and extra modules (Point Clouds Completion)

@@ -29,10 +29,10 @@ Limitation:
 
 
 <i class="fa-regular fa-calendar-check"></i> Next:
-- safety consideration design
+- ~~safety consideration design~~ by adding joint limits through finalIK
+- ~~Mixed reality-based teleoperation~~
 - adopt to cloud computing framework
-- Mixed reality-based teleoperation
-- Integrate with mobile manipulator: improve mobility
+- switch to 'Articulation' version
 - enhance user experience (Jitter removal, trajectory smooth)
 - trajectories optimization using Gaussian Process Regression (GPR)
 - add point cloud rendering, and extra modules (Point Clouds Completion)
@@ -42,6 +42,8 @@ Limitation:
 - a user-friendly IK solver? (no strange pose)
 - add 6 DOF object detection?
 - add tactile feedback?
+- Integrate with mobile manipulator: improve mobility
+- uses URP instead of the default render pipeline for better graphical performance?
 
 
 ## Project II: X-aware Shared Control (Human-in-the-loop)

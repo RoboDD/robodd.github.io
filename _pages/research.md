@@ -11,7 +11,7 @@ author_profile: true
 
 <img src='/site/images/myresearch.drawio.png' width = "100%" align=center>
 
-## Project I: Virtual Reality-based Teleoperation
+## Project I: Virtual Reality and Mixed Reality based Teleoperation for Robot Arm
 
 Features:
 

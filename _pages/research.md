@@ -60,4 +60,4 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 
 
 
-Last update: Junn 23, 2023
+Last update: Junn 30, 2023

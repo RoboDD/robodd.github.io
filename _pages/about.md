@@ -27,8 +27,7 @@ My Research Interests
 
 I have broad research interests in robotics and spatial AI. Now I am mainly interested in:
 
-* Human-Robot Shared Autonomy
-* Robot Learning
+* Human-in-the-loop Robot Learning
 * Motion Planning, Dynamics and Control
 * Mixed Reality (MR) and its application
 

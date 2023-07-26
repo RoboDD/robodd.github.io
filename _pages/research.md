@@ -39,6 +39,7 @@ Limitation:
 - ~~safety consideration design~~ by adding joint limits through finalIK
 - ~~Mixed reality-based teleoperation~~
 - ~~adopt to cloud computing framework~~ adopted to IoRT framework
+- Implementation with Kinova Arm
 - switch to 'Articulation' version, IK required
 - enhance user experience (Jitter removal, trajectory smooth)
 - trajectories optimization using Gaussian Process Regression (GPR)

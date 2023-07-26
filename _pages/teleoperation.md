@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation"
+title: "Demos"
 permalink: /teleoperation/
 author_profile: true
 ---
@@ -8,6 +8,19 @@ author_profile: true
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
 <iframe src="//player.bilibili.com/player.html?aid=616420800&bvid=BV1Rh4y1V7KA&cid=1211646332&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=572727693&bvid=BV1Kz4y1p7D9&cid=1173482011&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=822536187&bvid=BV18g4y1H7GG&cid=1028523631&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=347072114&bvid=BV1wR4y1X7Gc&cid=874820850&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=808484217&bvid=BV1q34y1178j&cid=493043816&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=206972698&bvid=BV1Bh411z7GN&cid=376218432&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=290079202&bvid=BV1Af4y1s74f&cid=324630542&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 ## Roadmap
 

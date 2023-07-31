@@ -18,7 +18,7 @@ Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Tele
 
 ## <i class="fa-duotone fa-flag-pennant"></i> Mixed Reality-based Immersive Teleoperation for Manipulators
 
-<img src='/site/images/teleoperation-system.png' width = "60%" align=center>
+<img src='/site/images/teleoperation-system.png' width = "80%" align=center>
 
 Features:
 

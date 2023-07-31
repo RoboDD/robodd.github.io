@@ -10,12 +10,13 @@ author_profile: true
 Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation
 {: .notice}
 
-
+<!---
 ## Roadmap
 
 <img src='/site/images/myresearch.drawio.png' width = "80%" align=center>
+--->
 
-## Mixed Reality-based Immersive Teleoperation for Manipulators
+## <i class="fa-duotone fa-flag-pennant"></i> Mixed Reality-based Immersive Teleoperation for Manipulators
 
 <img src='/site/images/teleoperation-system.png' width = "60%" align=center>
 
@@ -23,7 +24,7 @@ Features:
 
 - Immersive and intuitive direct control in the master-slave fashion
 - Fully ROS based for modularized development
-- Fundamental tools for collecting robot training data without Sim2Real gap
+- Fundamental tools for collecting robot training data by human demonstration
 
 Short demo for tidy-up task:
 
@@ -32,13 +33,6 @@ Short demo for tidy-up task:
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
-
-
-<iframe width="140" height="78" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="140" height="78" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 
 <!---
@@ -67,14 +61,18 @@ Limitation:
 
 --->
 
-## Project II: Human-in-the-loop Robot Learning
+## Human-in-the-loop Robot Imitation Learning
 
+TODO
+<!---
 Imitation Learning and DRL
 
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
+--->
 
-## Project IV: Dexterous Contact-Rich Bimanual Manipulation
+## Dexterous Contact-Rich Bimanual Manipulation
 
+TODO
 
 
 

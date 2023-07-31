@@ -16,7 +16,7 @@ Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Tele
 <img src='/site/images/myresearch.drawio.png' width = "80%" align=center>
 --->
 
-## <i class="fa-duotone fa-flag-pennant"></i> Mixed Reality-based Immersive Teleoperation for Manipulators
+## <i class="	fa-solid fa-flag-pennant"></i> Mixed Reality-based Immersive Teleoperation for Manipulators
 
 <img src='/site/images/teleoperation-system.png' width = "80%" align=center>
 
@@ -26,7 +26,7 @@ Features:
 - Fully ROS based for modularized development
 - Fundamental tools for collecting robot training data by human demonstration
 
-Short demo for tidy-up task:
+Short demo for pick-and-place task:
 
 <div style="display: flex;">
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
@@ -64,16 +64,15 @@ Limitation:
 ## Human-in-the-loop Robot Imitation Learning
 
 TODO
+
 <!---
 Imitation Learning and DRL
-
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
 --->
 
 ## Dexterous Contact-Rich Bimanual Manipulation
 
 TODO
-
 
 
 Last update: July 31, 2023

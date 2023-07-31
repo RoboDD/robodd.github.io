@@ -15,7 +15,7 @@ author_profile: true
 
 <img src='/site/images/myresearch.drawio.png' width = "100%" align=center>
 
-## Project I: Virtual Reality and Mixed Reality based Teleoperation for Robot Arm
+## Mixed Reality-based Immersive Teleoperation for Manipulators
 
 Features:
 
@@ -25,11 +25,12 @@ Features:
 
 Short demo for tidy-up task:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!---
 Limitation:
 
 - The degree of freedom of the "wrist" is reduced, 7-DoF arm will be used later.
@@ -53,16 +54,17 @@ Limitation:
 - Integrate with mobile manipulator: improve mobility
 - uses URP instead of the default render pipeline for better graphical performance?
 
+--->
 
-## Project II: X-aware Shared Control (Human-in-the-loop)
+## Project II: Human-in-the-loop Robot Learning
+
+Imitation Learning and DRL
 
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
-
-## Project III: Robot Learning: Imitation Learning and DRL
 
 ## Project IV: Dexterous Contact-Rich Bimanual Manipulation
 
 
 
 
-Last update: Junn 30, 2023
+Last update: July 31, 2023

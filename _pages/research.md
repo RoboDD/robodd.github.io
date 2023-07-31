@@ -13,7 +13,7 @@ Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Tele
 
 ## Roadmap
 
-<img src='/site/images/myresearch.drawio.png' width = "80%" align=center>
+<img src='/site/images/myresearch.drawio.png' width = "50%" align=center>
 
 ## Mixed Reality-based Immersive Teleoperation for Manipulators
 
@@ -26,10 +26,10 @@ Features:
 - Fundamental tools for collecting robot training data without Sim2Real gap
 
 Short demo for tidy-up task:
-|  MT-SC   | MR-PT  |
-|  ----  | ----  |
-| <iframe width="140" height="78" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  | <iframe width="140" height="78" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- |
+
+<iframe width="140" height="78" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="140" height="78" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 

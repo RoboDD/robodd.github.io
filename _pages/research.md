@@ -79,9 +79,11 @@ Imitation Learning and DRL
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
 --->
 
+
+<!---
 ## [3] Dexterous Contact-Rich Bimanual Manipulation
 
 TODO
-
+--->
 
 Last update: July 31, 2023

@@ -72,7 +72,7 @@ Limitation:
 
 ## [2] Human-in-the-loop Imitation Learning
 
-TODO
+
 
 <!---
 Imitation Learning and DRL

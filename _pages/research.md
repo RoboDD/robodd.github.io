@@ -7,8 +7,8 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-
-> Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation
+Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation
+{: .notice}
 
 
 ## Roadmap
@@ -16,6 +16,8 @@ author_profile: true
 <img src='/site/images/myresearch.drawio.png' width = "100%" align=center>
 
 ## Mixed Reality-based Immersive Teleoperation for Manipulators
+
+<img src='/site/images/teleoperation-system.png' width = "100%" align=center>
 
 Features:
 
@@ -25,10 +27,10 @@ Features:
 
 Short demo for tidy-up task:
 
-<iframe width="280" height="157" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="140" height="78" src="https://www.youtube.com/embed/36P0c6hg3ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<iframe width="280" height="157" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="140" height="78" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---
 Limitation:

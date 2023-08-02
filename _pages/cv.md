@@ -19,9 +19,9 @@ QUALIFICATIONS
 
 TECHNICAL SKILLS
 ======
-* Programming Language: MATLAB, C++/C#, Python, LATEX;
+* Programming Language: MATLAB, Python, C#, LATEX;
 * Computer-Aid Design: SolidWorks, Fusion360;
-* Tools: Linux and Linux Tools (Ubuntu), Git, Robot Operating System (ROS);
+* Tools: Linux and Linux Tools (Ubuntu), Git, Robot Operating System (ROS), Unity;
 * Other Tools: PX4 Autopilot, MAVSDK, Virtual RobotX (VRX) simulators.
 
 

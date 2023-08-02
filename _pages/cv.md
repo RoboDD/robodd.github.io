@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[[中文简历]](https://robodd.github.io/site/cv-cn/)
 
-Education
+
+QUALIFICATIONS
 ======
 * MSc in Robotics, University of Bristol, 2023
 * BSc in Applied Mathematics, University of Liverpool, 2022
@@ -42,6 +42,8 @@ PROFESSIONAL MEMBERSHIPS
 
 
 Last update: May 10, 2023.
+
+[[中文简历]](https://robodd.github.io/site/cv-cn/)
 <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
       <tr>
         <td width="30%" valign="middle">

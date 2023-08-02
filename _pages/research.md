@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Research"
+title: "MSc Dissertation Project"
 permalink: /research/
 author_profile: true
 ---
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation
+Title: Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation
+Supervisor: Dr. Dandan Zhang
 {: .notice}
 
 <!---
@@ -74,7 +75,7 @@ Limitation:
 
 ## [2] Human-in-the-loop Imitation Learning
 
-
+Working on it!
 
 <!---
 Imitation Learning and DRL

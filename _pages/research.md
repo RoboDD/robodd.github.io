@@ -8,6 +8,7 @@ author_profile: true
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
 Title: Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation
+
 Supervisor: Dr. Dandan Zhang
 {: .notice}
 

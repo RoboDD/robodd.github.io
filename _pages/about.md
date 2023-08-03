@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Ziniu WU. I am working on my MSc dissertation (Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation) supervised by [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the University of Bristol. Please find more about my current research [here](https://robodd.github.io/site/research/).
+Hi! I am Ziniu WU. I am working on my MSc dissertation (Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation) supervised by [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the University of Bristol. Please find more about my current dissertation project [here](https://robodd.github.io/site/research/).
 
 **I am actively looking for a PhD position in Robotics and AI!**
 

@@ -31,8 +31,6 @@ SELECTED AWARDS
 * Gold Award, The 8th China International College Students’“Internet+”Competition, 2022
 * Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, 2022
 * Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition, 2020
-* Regional Third Prize in 2v2 Infantry Confrontation, RoboMaster 2019 Jiangsu, 2019
-* Regional Third Prize in Standard Racing Smart Firing, RoboMaster 2019 Jiangsu, 2019
 * Regional Third Prize, RoboMaster 2019 Robotics Competition, 2019
 
 
@@ -43,7 +41,7 @@ PROFESSIONAL MEMBERSHIPS
 
 Last update: May 10, 2023.
 
-[[中文简历]](https://robodd.github.io/site/cv-cn/)
+<!--[[中文简历]](https://robodd.github.io/site/cv-cn/)-->
 <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
       <tr>
         <td width="30%" valign="middle">

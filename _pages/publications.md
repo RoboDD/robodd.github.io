@@ -33,7 +33,7 @@ author_profile: true
 **IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]  
 Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan  
 *IEEE Robotics and Automation Letters*  
-[[paper]](baidu.com) [[project homepage]](https://sites.google.com/view/iohirtplus)  
+[[paper]](baidu.com) [[website]](https://sites.google.com/view/iohirtplus)  
 
 ---
 

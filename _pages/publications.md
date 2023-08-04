@@ -57,8 +57,3 @@ Dawei Liu, Qiwen Chen, Shuchang Li, **Ziniu Wu**, Liqi Chen, Xu He, Xin Huang, W
 Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti.  
 *Applied Sciences*  
 [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)  
-<!-- 
-## Patents:
-
-* 一种移动机器人多传感器固定支架，中国实用新型专利，CN214520309U。 -->
-

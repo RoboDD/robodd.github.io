@@ -22,22 +22,23 @@ author_profile: true
  -->
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
+<!--
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1&theme=mila&hidemenu=false&showSearch=false&noIndex=true&fullnames=1"></script> 
-
+ -->
 
 ## 2023
 
 ---
 
 **IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]  
-Dandan Zhang, Jin Zheng, Jialin Lin, Ziniu Wu, Wen Fan
+Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan
 *IEEE Robotics and Automation Letters*  
 [[paper]](baidu.com) [[project homepage]](https://sites.google.com/view/iohirtplus)  
 
 ---
 
 **Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight** [Best Oral Presentation Award]  
-Ziniu Wu; and Ruonan Zhang.  
+**Ziniu Wu** and Ruonan Zhang
 *2023 9th International Conference on Control, Automation and Robotics (ICCAR)*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10151732)  
 
@@ -46,14 +47,14 @@ Ziniu Wu; and Ruonan Zhang.
 ---
 
 **Connect Your UAV to the Cloud Using Urban 4G and 5G Cellular Networks: Performance Evaluation and Comparison**  
-Dawei Liu; Qiwen Chen; Shuchang Li; Ziniu Wu; Liqi Chen; Xu He; Xin Huang; and Wei Wang.  
+Dawei Liu, Qiwen Chen, Shuchang Li, **Ziniu Wu**, Liqi Chen, Xu He, Xin Huang, Wei Wang.  
 *IEEE Internet of Things Magazine*  
 [[paper]](https://ieeexplore.ieee.org/document/10012489)  
 
 ---
 
 **PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field**  
-Yijie Chu; Ziniu Wu; Yong Yue; Xiaohui Zhu; Eng Gee Lim; and Paolo Paoletti.  
+Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti.  
 *Applied Sciences*  
 [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)  
 <!-- 

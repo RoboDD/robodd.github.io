@@ -37,6 +37,13 @@ Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan
 
 ---
 
+**River Bank Following Planner for USVs based on Point Cloud Data** [Under Review]  
+Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu* Eng Gee Lim, Paolo Paoletti, Jieming Ma  
+*Micromachines*  
+[[paper]](baidu.com)  
+
+---
+
 **Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight**   
 **Ziniu Wu** and Ruonan Zhang  
 *2023 9th International Conference on Control, Automation and Robotics (ICCAR)*  

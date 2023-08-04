@@ -31,16 +31,16 @@ author_profile: true
 ---
 
 **IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]  
-Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan
+Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan  
 *IEEE Robotics and Automation Letters*  
 [[paper]](baidu.com) [[project homepage]](https://sites.google.com/view/iohirtplus)  
 
 ---
 
-**Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight** [Best Oral Presentation Award]  
-**Ziniu Wu** and Ruonan Zhang
+**Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight**   
+**Ziniu Wu** and Ruonan Zhang  
 *2023 9th International Conference on Control, Automation and Robotics (ICCAR)*  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10151732)  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10151732)  [Best Oral Presentation Award]  
 
 ## 2022
 

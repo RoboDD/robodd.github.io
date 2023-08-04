@@ -47,7 +47,7 @@ Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti, Jie
 **Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight**   
 **Ziniu Wu** and Ruonan Zhang  
 *IEEE International Conference on Control, Automation and Robotics (ICCAR)*  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10151732)  [Best Oral Presentation Award]  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10151732)  [[Best Oral Presentation Award]](https://mp.weixin.qq.com/s/OJU0RdSmQxqaemiichWZCg)  
 
 ## 2022
 

@@ -35,6 +35,8 @@ Dandan Zhang; Jin Zheng; Jialin Lin; Ziniu Wu; and Wen Fan.
 
 doi   link   bibtex   
 
+---
+
 **Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight** [Best Oral Presentation Award]
 
 Ziniu Wu; and Ruonan Zhang.
@@ -52,6 +54,8 @@ Dawei Liu; Qiwen Chen; Shuchang Li; Ziniu Wu; Liqi Chen; Xu He; Xin Huang; and W
 *IEEE Internet of Things Magazine*
 
 paper   doi   link   bibtex   
+
+---
 
 **PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field**
 

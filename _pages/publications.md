@@ -24,6 +24,43 @@ author_profile: true
 
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1&theme=mila&hidemenu=false&showSearch=false&noIndex=true&fullnames=1"></script> 
 
+
+## 2023
+
+**IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]
+
+Dandan Zhang; Jin Zheng; Jialin Lin; Ziniu Wu; and Wen Fan.
+
+*IEEE Robotics and Automation Letters*
+
+doi   link   bibtex   
+
+**Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight** [Best Oral Presentation Award]
+
+Ziniu Wu; and Ruonan Zhang.
+
+*2023 9th International Conference on Control, Automation and Robotics (ICCAR)*
+
+paper   doi   link   bibtex   
+
+## 2022
+
+**Connect Your UAV to the Cloud Using Urban 4G and 5G Cellular Networks: Performance Evaluation and Comparison**
+
+Dawei Liu; Qiwen Chen; Shuchang Li; Ziniu Wu; Liqi Chen; Xu He; Xin Huang; and Wei Wang.
+
+*IEEE Internet of Things Magazine*
+
+paper   doi   link   bibtex   
+
+**PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field**
+
+Yijie Chu; Ziniu Wu; Yong Yue; Xiaohui Zhu; Eng Gee Lim; and Paolo Paoletti.
+
+*Applied Sciences*
+
+paper   doi   link   bibtex   
+
 <!-- 
 ## Patents:
 

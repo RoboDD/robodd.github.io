@@ -27,7 +27,7 @@ author_profile: true
  -->
 
 ## 2023
-
+<!--
 ---
 
 **IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]  
@@ -41,7 +41,7 @@ Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan
 Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti, Jieming Ma  
 *Micromachines*  
 [[paper]](baidu.com)  
-
+ -->
 ---
 
 **Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight**   

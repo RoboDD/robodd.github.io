@@ -42,7 +42,7 @@ Demo for pick-and-place:
 </div>
 </div>
 
-[[code]](baidu.com) [[tutorial]](baidu.com) 
+[[code]](baidu.com) [[tutorial]](baidu.com) [Most Accomplished Project]() award at the [Robot Demo Day]()
 
 ---
 

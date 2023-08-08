@@ -2,7 +2,7 @@
 layout: archive
 title: "MSc Dissertation Project"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>

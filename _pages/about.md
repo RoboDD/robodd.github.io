@@ -18,6 +18,7 @@ Updates
 <!--
 * [Aug-2023] A paper has been accepted by IEEE Robotics and Automation Letters
 -->
+* [Aug-2023] I received [Most Accomplished Project]() award in the [Robot Demo Day](). Thanks for the guidance from my supervisor Dr. Dandan Zhang and feedback from everyone.
 * [Aug-2023] I will attend [Robot Demo Day]() to present my current dissertation project, which will be held on Tuesday 8th August in the Bill Brown Suite, University of Bristol. Come and have fun!
 * [Apr-2023] I received the Best Oral Presentation Award in the [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 * [Mar-2023] A paper has been accepted by [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).

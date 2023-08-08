@@ -42,8 +42,11 @@ Demo for pick-and-place:
 </div>
 </div>
 
+User study results, code, and tutorial will release soon.
 
-[[code]](baidu.com) [[tutorial]](baidu.com) [Most Accomplished Project]() award at the [Robot Demo Day]()
+[[code]](baidu.com) [[tutorial]](baidu.com) 
+
+This work received the [Most Accomplished Project]() award at the [Robot Demo Day](), hosted by the University of Bristol.
 
 ---
 

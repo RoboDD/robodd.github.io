@@ -27,6 +27,7 @@ TECHNICAL SKILLS
 
 SELECTED AWARDS
 ======
+* Most Accomplished Project award at the Robot Demo Day, University of Bristol, 2023
 * Best Oral Presentation Award, IEEE ICCAR 2023
 * Gold Award, The 8th China International College Students’“Internet+”Competition, 2022
 * Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, 2022

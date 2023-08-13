@@ -34,21 +34,21 @@ author_profile: true
 **HuBotVerse: Towards Internet of Human and Intelligent RoboticThings with a Mixed Reality-Aided Cloud-Based Framework** [Under Review]  
 Dandan Zhang, **Ziniu Wu**, Jin Zheng, Zheng Dong, Jialin Lin  
 *IEEE Robotics and Automation Letters*  
-[[paper]]((https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
+[[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
 
 ---
 
 **IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]  
 Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan  
 *IEEE Robotics and Automation Letters*  
-[[paper]]((https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplus)  
+[[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplus)  
 
 ---
 
 **River Bank Following Planner for USVs based on Point Cloud Data** [Under Review]  
 Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti, Jieming Ma  
 *Micromachines*  
-[[paper]]((https://ieeexplore.ieee.org)  
+[[paper]](https://ieeexplore.ieee.org)  
 
 ---
 

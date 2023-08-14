@@ -33,7 +33,7 @@ author_profile: true
 
 **HuBotVerse: Towards Internet of Human and Intelligent RoboticThings with a Mixed Reality-Aided Cloud-Based Framework** [Under Review]  
 Dandan Zhang, **Ziniu Wu**, Jin Zheng, Zheng Dong, Jialin Lin  
-*IEEE Robotics and Automation Letters*  
+*IEEE Robotics and Automation Magazine*  
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
 
 ---

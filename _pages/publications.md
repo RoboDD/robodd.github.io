@@ -74,3 +74,13 @@ Dawei Liu, Qiwen Chen, Shuchang Li, **Ziniu Wu**, Liqi Chen, Xu He, Xin Huang, W
 Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti.  
 *Applied Sciences*  
 [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)  
+
+
+## Under Review
+
+---
+
+**IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]  
+Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan  
+*IEEE Robotics and Automation Letters*  
+[[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplus)  

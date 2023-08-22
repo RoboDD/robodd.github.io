@@ -12,6 +12,8 @@ Hi! I am Ziniu WU. I am working on my MSc dissertation (Towards Human-in-the-loo
 
 **I am actively looking for a PhD position in Robotics and AI!**
 
+> "Sometimes you just gotta jump, helping us standing on the cliff."
+
 
 Updates
 ======

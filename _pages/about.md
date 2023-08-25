@@ -50,4 +50,4 @@ My long-term goal is to reduce heavy supervisory work from human operators and i
 <a class="twitter-timeline" href="https://twitter.com/AiRobodd?ref_src=twsrc%5Etfw">Tweets by AiRobodd</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RPfbbIqs_MBem0fzm-R41LIR6jTAVqJJGkqSFN8qWFs&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RPfbbIqs_MBem0fzm-R41LIR6jTAVqJJGkqSFN8qWFs&cl=ffffff&w=a"></script>

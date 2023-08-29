@@ -84,3 +84,8 @@ Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti.
 Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan  
 *IEEE Robotics and Automation Letters*  
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplus)  
+
+**HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [Under Review]  
+Dandan Zhang, **Ziniu Wu**, Jin Zheng, Zheng Dong, Jialin Lin  
+*IEEE Robotics and Automation Magazine*  
+[[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home) 

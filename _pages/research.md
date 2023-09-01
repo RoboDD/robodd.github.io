@@ -78,9 +78,16 @@ Limitation:
 
 ## [2] Human-in-the-loop Imitation Learning
 
+TO BE UPDATE
+
 Why do we need human-in-the-loop? In order to improve the robot learning efficiency, we assume human-in-the-loop learning demonstrations can be considered a good initial solution for complex manipulation tasks. Mathematical optimization, imitation learning, as well as reinforcement learning, requires good initial guess to start. The model may converge to better performance as we have a good initial guess with the combination of human-machine hybrid intelligence. More details will be updated soon.
 {: .notice}
 
+Reproduced Coarse to fine imitation learning:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lMMjPFS0FJk?si=EKCJnKKJk1JP5jkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Future work:
 
 <img src='/site/images/algo_overview.png' width = "100%" align=center>
 
@@ -99,4 +106,4 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 TODO
 --->
 
-Last update: Aug. 8, 2023
+Last update: Sep. 1, 2023

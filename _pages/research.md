@@ -9,7 +9,7 @@ author_profile: true
 
 
 MSc Dissertation Project
-From Jun 2023 to Sep. 2023
+
 Supervisor: Dr. Dandan Zhang
 
 
@@ -67,7 +67,7 @@ Features:
 Demo for pick-and-place:
 --->
 
-### Demos
+### Demos for Teleoperation
 <div style="display: flex;">
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/TZ5NerQ3owE?si=UbURkiZqYUwRExoD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/Yh0GjJybq-Q?si=-Yt3ECp5lu3AfzMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
@@ -112,17 +112,22 @@ Limitation:
 
 --->
 
+<!---
 ## [2] Human-in-the-loop Imitation Learning
+--->
 
+<!---
 TO BE UPDATE
 
 Why do we need human-in-the-loop? In order to improve the robot learning efficiency, we assume human-in-the-loop learning demonstrations can be considered a good initial solution for complex manipulation tasks. Mathematical optimization, imitation learning, as well as reinforcement learning, requires good initial guess to start. The model may converge to better performance as we have a good initial guess with the combination of human-machine hybrid intelligence. More details will be updated soon.
 {: .notice}
+--->
 
-Reproduced Coarse to fine imitation learning:
+###Demo of Coarse-to-Fine Imitation Learning:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMMjPFS0FJk?si=EKCJnKKJk1JP5jkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!---
 Reference: E. Johns, Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration, arXiv:2105.06411 [cs], Jun. 2021. DOI: 10 . 48550 / arXiv . 2105 . 06411. available from: http://arxiv.org/abs/2105.06411 [Accessed 08/28/2023].
 
 
@@ -131,6 +136,7 @@ Future work:
 <img src='/site/images/algo_overview.png' width = "100%" align=center>
 
 Image Source: [link](https://robomimic.github.io/study/)
+--->
 
 
 <!---

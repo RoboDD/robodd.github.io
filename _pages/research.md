@@ -8,8 +8,7 @@ author_profile: true
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
 
-MSc Dissertation Project
-
+MSc Dissertation Project  
 Supervisor: Dr. Dandan Zhang
 
 

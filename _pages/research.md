@@ -123,7 +123,7 @@ Why do we need human-in-the-loop? In order to improve the robot learning efficie
 {: .notice}
 --->
 
-###Demo of Coarse-to-Fine Imitation Learning:
+### Demo of Coarse-to-Fine Imitation Learning:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMMjPFS0FJk?si=EKCJnKKJk1JP5jkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

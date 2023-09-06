@@ -53,7 +53,7 @@ Abstract: The proposed systems aim to provide a **fully immersive** experience f
 {: .notice}
 --->
 
-### System Framework
+### System Framework of Teleoperation
 <img src='/site/images/teleoperation-system.png' width = "100%" align=center>
 
 <!---
@@ -66,11 +66,12 @@ Features:
 Demo for pick-and-place:
 --->
 
-### Demos for Teleoperation
+### Demos of Teleoperation
+
 <div style="display: flex;">
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/TZ5NerQ3owE?si=UbURkiZqYUwRExoD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/Yh0GjJybq-Q?si=-Yt3ECp5lu3AfzMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-  <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/dybKVHivjg8?si=im08uNfXpo_KTnOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -122,7 +123,7 @@ Why do we need human-in-the-loop? In order to improve the robot learning efficie
 {: .notice}
 --->
 
-### Demo of Coarse-to-Fine Imitation Learning:
+### Demo of Coarse-to-Fine Imitation Learning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMMjPFS0FJk?si=EKCJnKKJk1JP5jkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

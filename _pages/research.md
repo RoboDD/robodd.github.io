@@ -1,13 +1,36 @@
 ---
 layout: archive
-title: "MSc Dissertation Project"
+title: "Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning"
 permalink: /research/
 author_profile: true
 ---
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-Towards Human-in-the-loop Robot Learning with Mixed Reality-based Immersive Teleoperation, supervised by: Dr. Dandan Zhang
+
+MSc Dissertation Project
+From Jun 2023 to Sep. 2023
+Supervisor: Dr. Dandan Zhang
+
+
+In search-and-rescue, manufacturing tasks, domestic robotics, robot teleoperation is widely
+used as the remote control of a robotic system by human operators to manually perform infeasible
+or inconvenient tasks for human presence. However, critical tasks still require heavy
+human direct control in particular of robots in unstructured, uncertain and dynamic environments.
+With the rapid development of immersive technologies and robot learning techniques,
+it is challenging to combine these advanced technologies to achieve human-robot hybrid intelligence
+and human-in-the-loop robot learning. This first part of the report presents a fully immersive
+teleoperation using mixed reality (MR-PT) which is cost-efficiency, user-friendliness,
+fully immersion, high embodiment, and ROS capable framework. It enables intuitive and
+fully immersive for robot telemanipulation, and human-in-the-loop learning demonstration.
+The user study showed that MR-PT outperformed benchmark methods, in task completion
+time, success rates, least user workload, and favorite user feedback for pick-and-place tasks.
+For the second part of this report, we implemented coarse-to-fine robot imitation learning
+while minimizing human intervention. It only required few-shot learning demonstration.
+Self-supervised learning-based visual serving enables robots to identify interaction starting
+points and replicate fine trajectories. Real-world experiments with the Kinova Gen 3 robot
+showed a high success rate in simpler scenarios but highlighted the need for improved robustness
+in dynamic environments.
 {: .notice}
 
 <!---

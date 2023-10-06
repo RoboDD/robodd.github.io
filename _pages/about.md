@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Ziniu WU. I am working on my MSc dissertation, Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning, supervised by [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the University of Bristol. Please find more about my current dissertation project [here](https://robodd.github.io/site/research/).
+Hi! I am Ziniu WU. I am doing [Research Intern]() at the [Imperial College London](https://www.imperial.ac.uk/) starting from Oct. The research topics focus on [Bimanual Robotic Manipulation]() and [Imitation Learning](). I completed my MSc dissertation, Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning, supervised by [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the University of Bristol. Please find more details about my dissertation project [here](https://robodd.github.io/site/research/).
 
 **I am actively looking for a PhD position in Robotics and AI!**
 
+<!--
 > "Sometimes you just gotta jump, hoping you are not standing on the cliff."
-
+-->
 
 Updates
 ======
 <!--
 * [Aug-2023] A paper has been accepted by IEEE Robotics and Automation Letters
 -->
-* [Aug-2023] I received the [Most Accomplished Project]() award at the [Robot Demo Day](). I would like to express my gratitude for the invaluable guidance provided by my supervisor, as well as the constructive feedback from everyone involved.
+* [Aug-2023] I received the [Most Accomplished Project]() award at the [Robot Demo Day](). I would like to express my gratitude for the constructive feedback from everyone involved.
 * [Apr-2023] I received the [Best Oral Presentation]() Award in the [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 * [Mar-2023] A paper has been accepted by [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 * [Nov-2022] My team and I were awarded [one Gold Award and two Bronze Award](https://cy.ncss.cn/information/2c93f4c682872dbb01849802948e17dd?jump_from=1_05_37_01) in [The 8th China International College Students'"Internet+"Competition](https://cy.ncss.cn/en/). Congratulations!

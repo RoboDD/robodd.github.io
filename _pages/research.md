@@ -152,7 +152,7 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 
 - Bimanual Teleoperation: Reduandent DOF planning and collision avoidance;
 - Human-in-the-loop data collection with minimal supervision;
-- Trajectory Optimization with minimal CoG shifting and momentum
+- Trajectory Optimization with minimal CoG shifting and momentum (useful for floating base systems)
 - Domain Randomization: cv, dynamics, etc.
 - Life-long learning: how to store and fuse incremental data?
 - Combining real-world learning with digital learning: Quick imitation of thousands of cases before action within a time window.

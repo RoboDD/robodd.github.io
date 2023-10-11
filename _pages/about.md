@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Ziniu WU. I am doing [Research Intern]() at the [Imperial College London](https://www.imperial.ac.uk/). My research projects focus on [Bimanual Robotic Manipulation]() and [Imitation Learning](). I have completed my MSc dissertation, Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning, supervised by [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the [University of Bristol](). Please find more details about my dissertation project [here](https://robodd.github.io/site/research/).
+Hi! I am Ziniu WU. I am doing a [Research Internship]() at the [Imperial College London](https://www.imperial.ac.uk/). My research projects focus on [Bimanual Manipulation]() and [Imitation Learning](). I have completed my MSc dissertation, Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning, supervised by [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the [University of Bristol](). Please find more details about my dissertation project [here](https://robodd.github.io/site/research/).
 
 **I am actively looking for a PhD position in Robotics and AI!**
 

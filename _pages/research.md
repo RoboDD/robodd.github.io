@@ -148,7 +148,7 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 
 
 
-## Dexterous Bimanual Manipulation with Embodied Intelligence (Current)
+## Bimanual Manipulation with Embodied Intelligence (Current)
 
 - Bimanual Teleoperation: Reduandent DOF planning and collision avoidance;
 - Human-in-the-loop data collection with minimal supervision;

@@ -161,7 +161,7 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 ## Model Predictive Control with Online Machine Learning (Future)
 
 - Safety and trustness: kernel model with safety guaranteed + pulse/continuous/periodic residue correction
-- Residue estimation: non-linear air-drag and wind effect for UAV, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots.
+- Residue estimation: non-linear air-drag and wind effect for UAV, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots, wave for USV.
 - Versatile robots: arm, ground, aerial...
 
 

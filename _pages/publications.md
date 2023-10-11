@@ -65,7 +65,7 @@ Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti, Jie
 
 **Connect Your UAV to the Cloud Using Urban 4G and 5G Cellular Networks: Performance Evaluation and Comparison**  
 Dawei Liu, Qiwen Chen, Shuchang Li, **Ziniu Wu**, Liqi Chen, Xu He, Xin Huang, Wei Wang.  
-*IEEE Internet of Things Magazine*  
+*IEEE Internet of Things Magazine (IoT-M)*  
 [[paper]](https://ieeexplore.ieee.org/document/10012489)  
 
 ---
@@ -82,12 +82,12 @@ Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti.
 
 **IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]   
 Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan  
-*IEEE Robotics and Automation Letters*  
+*IEEE Robotics and Automation Letters (RA-L)*  
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplus)  
 
 ---
 
 **HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [Under Review]  
 Dandan Zhang, **Ziniu Wu**, Jin Zheng, Zheng Dong, Jialin Lin  
-*IEEE Robotics and Automation Magazine*  
+*IEEE Robotics and Automation Magazine (RA-M)*  
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  

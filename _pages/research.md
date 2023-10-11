@@ -127,6 +127,8 @@ Why do we need human-in-the-loop? In order to improve the robot learning efficie
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMMjPFS0FJk?si=EKCJnKKJk1JP5jkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+This work received the [Most Accomplished Project]() award at the [Robot Demo Day](), hosted by the University of Bristol.
+
 <!---
 Reference: E. Johns, Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration, arXiv:2105.06411 [cs], Jun. 2021. DOI: 10 . 48550 / arXiv . 2105 . 06411. available from: http://arxiv.org/abs/2105.06411 [Accessed 08/28/2023].
 
@@ -145,13 +147,22 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 --->
 
 
-<!---
-## [3] Dexterous Contact-Rich Bimanual Manipulation
 
-TODO
---->
+## Dexterous Bimanual Manipulation with Embodied Intelligence (Current)
 
-This work received the [Most Accomplished Project]() award at the [Robot Demo Day](), hosted by the University of Bristol.
+- Bimanual Teleoperation: Reduandent DOF planning and collision avoidance;
+- Human-in-the-loop data collection with minimal supervision;
+- Trajectory Optimization with minimal CoG shifting and momentum
+- Domain Randomization: cv, dynamics, etc.
+- Life-long learning: how to store and fuse incremental data?
+- Combining real-world learning with digital learning: Quick imitation of thousands of cases before action within a time window.
+- Double descent effect
+
+## Model Predictive Control with Online Machine Learning (Future)
+
+- Safety and trustness: kernel model with safety guaranteed + pulse/continuous/periodic residue correction
+- Residue estimation: non-linear air-drag and wind effect for UAV, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots.
+- Versatile robots: arm, ground, aerial...
 
 
-Last update: Sep. 1, 2023
+Last update: Oct. 10, 2023

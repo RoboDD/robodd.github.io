@@ -146,7 +146,7 @@ Imitation Learning and DRL
 X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
 --->
 
-
+**The following contents are being tailored and not precise.**
 
 ## Bimanual Manipulation with Embodied Intelligence (Current)
 

@@ -5,26 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+ 
+## Under Review
 
-{% include base_path %}
+---
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+**IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]   
+Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan  
+*IEEE Robotics and Automation Letters (RA-L)*  
+[[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplus)  
 
-<!-- ## Journals:
+---
 
-* D. Liu, Q. Chen, S. Li, **Z. Wu**, L. Chen, X. He, X. Huang, and W. Wang, Connect Your UAV to The Cloud Using Urban 4G and 5G Cellular Networks: Performance Evaluation and Comparison, *IEEE Internet of Things Magazine (IoTM)*, 2022. [[paper]](https://doi.org/10.1109/IOTM.001.2200123)
-* Y. Chu, **Z. Wu**, Y. Yue, X. Zhu, E. G. Lim, and P. Paoletti, PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field, *Applied Sciences*, 2022. [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)
- -->
-<script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
+**HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [Under Review]  
+Dandan Zhang, **Ziniu Wu**, Jin Zheng, Zheng Dong, Jialin Lin  
+*IEEE Robotics and Automation Magazine (RA-M)*  
+[[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
 
-<!--
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/RoboDD/site/master/_publications/my-publication.bib&jsonp=1&theme=mila&hidemenu=false&showSearch=false&noIndex=true&fullnames=1"></script> 
- -->
 
 ## 2023
 
@@ -60,18 +57,3 @@ Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti.
 [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)  
 
 
-## Under Review
-
----
-
-**IoHRT: An Open-Source Unified Framework Towards the Internet of Humans and Robotic Things with Cloud Computing** [Under Review]   
-Dandan Zhang, Jin Zheng, Jialin Lin, **Ziniu Wu**, Wen Fan  
-*IEEE Robotics and Automation Letters (RA-L)*  
-[[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplus)  
-
----
-
-**HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [Under Review]  
-Dandan Zhang, **Ziniu Wu**, Jin Zheng, Zheng Dong, Jialin Lin  
-*IEEE Robotics and Automation Magazine (RA-M)*  
-[[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  

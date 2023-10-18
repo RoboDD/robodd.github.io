@@ -78,9 +78,10 @@ Demo for pick-and-place:
 
 <!---
 User study results, code, and tutorial will release soon.
-
-[[code]](baidu.com) [[tutorial]](baidu.com) 
 --->
+
+[[code]](baidu.com) [[tutorial]](https://robodd.github.io/coarse-to-fine-tutorial/)  
+
 
 
 

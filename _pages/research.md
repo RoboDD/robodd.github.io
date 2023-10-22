@@ -159,6 +159,11 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 - Combining real-world learning with digital learning: Quick imitation of thousands of cases before action within a time window.
 - Double descent effect
 
+Some progress on 6-DOF teleoperation using Kinova Gen 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nV69I46c5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Model Predictive Control with Online Machine Learning (Future)
 
 - Safety and trustness: kernel model with safety guaranteed + pulse/continuous/periodic residue correction

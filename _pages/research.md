@@ -149,7 +149,7 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 
 **The following contents are being tailored and not precise.**
 
-## Bimanual Manipulation with Embodied Intelligence (Current)
+## Bimanual Manipulation with Embodied Intelligence (Internship Project)
 
 - Bimanual Teleoperation: Reduandent DOF planning and collision avoidance;
 - Human-in-the-loop data collection with minimal supervision;
@@ -164,7 +164,7 @@ Some progress on 6-DOF teleoperation using Kinova Gen 3
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5nV69I46c5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Model Predictive Control with Online Machine Learning (Future)
+## Learning for Dynamic Systems (Future)
 
 - Safety and trustness: kernel model with safety guaranteed + pulse/continuous/periodic residue correction
 - Residue estimation: non-linear air-drag and wind effect for UAV, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots, wave for USV.

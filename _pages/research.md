@@ -149,7 +149,7 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 
 **The following contents are being tailored and not precise.**
 
-## Bimanual Manipulation with Embodied Intelligence (Internship Project)
+## Bimanual Robotics Manipulation (Internship Project)
 
 - Bimanual Teleoperation: Reduandent DOF planning and collision avoidance;
 - Human-in-the-loop data collection with minimal supervision;
@@ -169,6 +169,6 @@ Some progress on 6-DOF teleoperation using Kinova Gen 3
 - Safety and trustness: kernel model with safety guaranteed + pulse/continuous/periodic residue correction
 - Residue estimation: non-linear air-drag and wind effect for UAV, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots, wave for USV.
 - Versatile robots: arm, ground, aerial...
+- Applications
 
-
-Last update: Oct. 10, 2023
+Last update: Oct. 23, 2023

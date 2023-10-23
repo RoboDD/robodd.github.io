@@ -164,7 +164,7 @@ Some progress on 6-DOF teleoperation using Kinova Gen 3
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5nV69I46c5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Learning for Dynamic Systems (Future)
+## Continual Learning for Dynamical Systems (Future)
 
 - Safety and trustness: kernel model with safety guaranteed + pulse/continuous/periodic residue correction
 - Residue estimation: non-linear air-drag and wind effect for UAV, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots, wave for USV.

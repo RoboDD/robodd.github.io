@@ -20,5 +20,7 @@ redirect_from:
 
 - [Manipulator] J. Haviland and P. Corke, "Manipulator Differential Kinematics: Part 2: Acceleration and Advanced Applications," in IEEE Robotics & Automation Magazine, doi: 10.1109/MRA.2023.3270221.
 
+- P. Corke and J. Haviland, "Not your grandmother’s toolbox – the Robotics Toolbox reinvented for Python," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 11357-11363, doi: 10.1109/ICRA48506.2021.9561366.
+
 
 

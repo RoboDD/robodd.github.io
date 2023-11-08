@@ -158,10 +158,11 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 - Combining real-world learning with digital learning: Quick imitation of thousands of cases before action within a time window.
 - Double descent effect
 
+<!---
 Some progress on 6-DOF teleoperation using Kinova Gen 3 (it is under active development~)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qPM01FiiFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+--->
 
 ## Continual Learning for Dynamical Systems (Future)
 

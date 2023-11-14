@@ -155,3 +155,31 @@ redirect_from:
         </tr>
     </table>
 </html>
+
+
+## Previous Superviosrs
+
+<html>
+    <table style="margin-left: auto; margin-right: auto; border: none">
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/p7.png" width="200px">
+                <p>
+                <div align="center"><b>Dr. XXXXXX DXXXX</b></div>
+                <div align="center">Lecturer, University of Liverpool</div> 
+                </p>
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/p7.png" width="200px">
+                <p>
+                <div align="center"><b>Kemen Li</b></div>
+                <div align="center">MSc in Computer Science</div> 
+                </p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</html>

@@ -155,12 +155,16 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 ## Bimanual Robotics Manipulation (Internship Project)
 
 - Bimanual Teleoperation: Reduandent DOF planning and collision avoidance;
-- Human-in-the-loop data collection with minimal supervision;
-- Trajectory Optimization with minimal CoG shifting and momentum (useful for floating base systems)
+- Human-in-the-loop robot learning with minimal supervision;
+- Trajectory Optimization
+
+<!--
 - Domain Randomization: cv, dynamics, etc.
 - Life-long learning: how to store and fuse incremental data?
 - Combining real-world learning with digital learning: Quick imitation of thousands of cases before action within a time window.
 - Double descent effect
+-->
+  
 
 <!---
 Some progress on 6-DOF teleoperation using Kinova Gen 3 (it is under active development~)
@@ -175,4 +179,4 @@ Some progress on 6-DOF teleoperation using Kinova Gen 3 (it is under active deve
 - Versatile robots: arm, ground, aerial...
 - Applications
 
-Last update: Oct. 23, 2023
+Last update: Nov. 15, 2023

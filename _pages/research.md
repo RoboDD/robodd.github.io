@@ -1,15 +1,16 @@
 ---
 layout: archive
-title: "Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning"
+title: "My Research"
 permalink: /research/
 author_profile: true
 ---
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
+## Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning
 
 MSc Dissertation Project  
-Supervisor: Dr. Dandan Zhang
+Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about)  
 
 
 Abstract: In search-and-rescue, manufacturing tasks, domestic robotics, robot teleoperation is widely
@@ -75,7 +76,8 @@ Demo for pick-and-place:
 </div>
 </div>
 
-First-person View of MR-PT
+### First-Person View Recording of MR-PT
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_Ta6EO0uyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---
@@ -169,7 +171,7 @@ Some progress on 6-DOF teleoperation using Kinova Gen 3 (it is under active deve
 ## Continual Learning for Dynamical Systems (Future)
 
 - Safety and trustness: kernel model with safety guaranteed + pulse/continuous/periodic residue correction
-- Residue estimation: non-linear air-drag and wind effect for UAV, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots, wave for USV.
+- Residue force estimation: non-linear air-drag and wind effect for floating-base systems, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots, wave.
 - Versatile robots: arm, ground, aerial...
 - Applications
 

@@ -76,7 +76,7 @@ Demo for pick-and-place:
 </div>
 </div>
 
-### First-Person View Recording of MR-PT
+### First-Person View Recording of MR-PT and MR-SC
 
 <div style="display: flex;">
   <div style="flex: 1;"><iframe width="560" height="315" src="https://www.youtube.com/embed/D_Ta6EO0uyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>

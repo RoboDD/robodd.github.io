@@ -160,7 +160,7 @@ X=communication, intention, reaction, uncertainty, interaction, privacy, change,
 
 - Bimanual Teleoperation: Reduandent DOF planning and collision avoidance;
 - Human-in-the-loop robot learning with minimal supervision;
-- Trajectory Optimization
+- Resolved-Rate Motion Control, Quadratic Programming for Motion Control;
 
 <!--
 - Domain Randomization: cv, dynamics, etc.
@@ -178,9 +178,5 @@ Some progress with Kinova Gen 3 (it is under active development~)
 
 ## Continual Learning for Dynamical Systems (Future)
 
-- Safety and trustness: kernel model with safety guaranteed + pulse/continuous/periodic residue correction
-- Residue force estimation: non-linear air-drag and wind effect for floating-base systems, viscous fluid disturbances for medical micro-robots, external contact force for float-base robots, wave.
-- Versatile robots: arm, ground, aerial...
-- Applications
 
-Last update: Nov. 15, 2023
+Last update: Nov. 24, 2023

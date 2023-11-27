@@ -8,17 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-Hi! I am Ziniu WU. I am doing a [Research Internship]() at the [Imperial College London](https://www.imperial.ac.uk/). My research projects focus on [Bimanual Manipulation]() and [Imitation Learning](). I have completed my MSc dissertation, Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning, supervised by [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the [University of Bristol](). Please find more details about my dissertation project [here](https://robodd.github.io/site/research/).
--->
+
+Hi! I am Ziniu WU. I am doing a Research Internship with [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) working on Mixed Reality-based Bimanual Manipulation and Imitation Learning. Previously, I received an MSc in Robotics at the University of Bristol and a BSc in Applied Mathematics from the University of Liverpool.
+
 
 <!--
-I am an incoming PhD student in Aerospace Engineering at the University of Bristol, working with Dr. Bahadir Kocer and Prof. Arthur Richards. My research mainly focuses on investigating continual learning for dynamical systems to enhance their adaptation and robustness in unconstructed and dynamic environments. 
-
-I obtained an MSc in Robotics at the University of Bristol, UK in 2023. My MSc dissertation focused on Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning, supervised by Dr. Dandan Zhang.
-
-Before that, I received a BSc in Applied Mathematics from Xi’an Jiaotong-Liverpool University and the University of Liverpool in 2022.
-
+Ziniu Wu is a first-year PhD student in Aerospace Engineering at the University of Bristol, working with Dr. Bahadir Kocer and Prof. Arthur Richards. My research focuses on investigating continual learning for dynamical systems to enhance their adaptation and robustness in unconstructed and dynamic environments. Previously, he received an MSc in Robotics at the University of Bristol and a BSc in Applied Mathematics from the University of Liverpool.
 -->
 
 **I am actively looking for a PhD position in Robotics and AI!**

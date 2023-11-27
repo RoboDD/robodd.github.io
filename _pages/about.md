@@ -27,7 +27,7 @@ Updates
 -->
 
 * [Aug-2023] I received the [Most Accomplished Project (Technical Achievement)]() award at the [Robot Demo Day](). I would like to express my gratitude for the constructive feedback from everyone involved.
-* 
+
 <!--
 * [Apr-2023] I received the [Best Oral Presentation]() Award in the [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 * [Mar-2023] A paper has been accepted by [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am Ziniu WU. I am a Research Intern with [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the Multi-Scale Embodied Intelligence Lab (MEIL), Imperial College London, working on Mixed Reality-based Bimanual Robotic Manipulation. Previously, I received an MSc in Robotics at the University of Bristol and a BSc in Applied Mathematics at the University of Liverpool.
+Hi! I am Ziniu WU. I am a Research Intern with [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about) at the [Multi-Scale Embodied Intelligence Lab (MEIL)](https://www.intelligentrobotics-acrossscales.com/), [Imperial College London](https://www.imperial.ac.uk/), working on [Mixed Reality-based Bimanual Robotic Manipulation](https://robodd.github.io/site/research/). Previously, I received an MSc in Robotics at the [University of Bristol](https://www.bristol.ac.uk/) and a BSc in Applied Mathematics at the [University of Liverpool](https://www.liverpool.ac.uk/).
 
 
 <!--

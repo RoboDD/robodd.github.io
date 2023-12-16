@@ -7,7 +7,7 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-## Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning
+## Mixed Reality-based Fully Immersive Teleoperation for Manipulation
 
 MSc Dissertation Project  
 Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about)  
@@ -141,7 +141,7 @@ This work received the [Most Accomplished Project]() award at the [Robot Demo Da
 
 ## Bimanual Robotics Manipulation (Internship Project)
 
-Control two robots do daily tasks with user-friendly interfaces.
+Control two manipulators to do daily tasks with user-friendly interfaces.
 
 ## Continual Learning for Dynamical Systems (Future)
 

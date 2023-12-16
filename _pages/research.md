@@ -138,43 +138,10 @@ Why do we need human-in-the-loop? In order to improve the robot learning efficie
 
 This work received the [Most Accomplished Project]() award at the [Robot Demo Day](), hosted by the University of Bristol.
 
-<!---
-Reference: E. Johns, Coarse-to-Fine Imitation Learning: Robot Manipulation from a Single Demonstration, arXiv:2105.06411 [cs], Jun. 2021. DOI: 10 . 48550 / arXiv . 2105 . 06411. available from: http://arxiv.org/abs/2105.06411 [Accessed 08/28/2023].
-
-
-Future work:
-
-<img src='/site/images/algo_overview.png' width = "100%" align=center>
-
-Image Source: [link](https://robomimic.github.io/study/)
---->
-
-
-<!---
-Imitation Learning and DRL
-X=communication, intention, reaction, uncertainty, interaction, privacy, change, energy, context, safety
---->
-
 
 ## Bimanual Robotics Manipulation (Internship Project)
 
-- Bimanual Teleoperation: Reduandent DOF planning and collision avoidance;
-- Human-in-the-loop robot learning with minimal supervision;
-- Resolved-Rate Motion Control, Quadratic Programming for Motion Control;
-
-<!--
-- Domain Randomization: cv, dynamics, etc.
-- Life-long learning: how to store and fuse incremental data?
-- Combining real-world learning with digital learning: Quick imitation of thousands of cases before action within a time window.
-- Double descent effect
--->
-  
-
-
-Some progress with Kinova Gen 3 (it is under active development~)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5nV69I46c5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+Control two robots do daily tasks with user-friendly interfaces.
 
 ## Continual Learning for Dynamical Systems (Future)
 

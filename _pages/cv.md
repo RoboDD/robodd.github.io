@@ -17,27 +17,14 @@ QUALIFICATIONS
 * BSc in Applied Mathematics, University of Liverpool, 2022
 <!-- * BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022 -->
 
-TECHNICAL SKILLS
-======
-* Programming Language: MATLAB, Python, C#, LATEX;
-* Computer-Aid Design: SolidWorks, Fusion360;
-* Tools: Linux and Linux Tools (Ubuntu), Git, Robot Operating System (ROS), Unity;
-* Other Tools: PX4 Autopilot, MAVSDK, Virtual RobotX (VRX) simulators.
-
 
 SELECTED AWARDS
 ======
 * Most Accomplished Project (Technical Achievement) award at the Robot Demo Day, University of Bristol, 2023
-* Best Oral Presentation Award, IEEE ICCAR 2023
 * Gold Award, The 8th China International College Students’“Internet+”Competition, 2022
 * Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, 2022
 * Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition, 2020
 * Regional Third Prize, RoboMaster 2019 Robotics Competition, 2019
-
-
-PROFESSIONAL MEMBERSHIPS
-======
-* Postgraduate Student Member, IEEE
 
 
 Last update: May 10, 2023.

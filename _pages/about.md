@@ -43,11 +43,11 @@ Updates
 My Research Interests
 ======
 
-I have broad research interests in robotics and spatial AI. Now I am mainly interested in:
+I have broad research interests in **Robotics** and **Spatial AI**. Now I am mainly interested in:
 
 * Continual Learning/Incremental Learning/Open-ended Learning
 * Robot Learning/Imitation Learning
-* General World Models/Large Robots Model
+* General World Models in Robotic Applications
 * HRI/Human-in-the-loop Robotic Systems/Human-Robot Value Alignment
 * Dynamical Systems and Optimization, Motion Planning and Control
 

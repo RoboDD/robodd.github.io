@@ -51,9 +51,6 @@ I have broad research interests in **Dynamical Systems** and **Spatial Mathemati
 * Human-Robot Value Alignment
 * Dynamics Modelling and Optimization
 * Motion Planning and Control
-
-Just for fun:
-
 * Robotic Manipulation and Teleoperation
 * Immersive Technologies in Robotic Applications
 

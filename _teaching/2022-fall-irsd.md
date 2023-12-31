@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Robotic Systems Development"
 collection: teaching
-type: "Optional Course"
+type: "Optional Course Program"
 permalink: /teaching/2022-fall-irsd
 venue: "Xi’an Jiaotong-Liverpool University (XJTLU)"
 date: 2022-09-26

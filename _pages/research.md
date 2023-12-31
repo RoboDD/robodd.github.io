@@ -7,6 +7,20 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
+| Cate | Topic           | Supervisor                         | 
+|------|----------------|------------------------------|
+| MSc Dissertation   | Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning | Dr. Dandan Zhang               |
+| BSc Final Year Project   | 2022年10月22日 | 结构设计、硬件选型及开发工具 | 
+| SURF 2021   | 2022年10月29日 | 动态系统与反馈控制基础       | 
+| L4   | 2022年11月5日  | 无人机系统建模实例           | 
+| L5   | 2022年11月12日 | 无人机控制器设计实例         | 
+| L6   | 2022年11月19日 | 机器人运动规划基础           | 
+| L7   | 2022年11月26日 | 视觉伺服与轨迹跟踪           | 
+| L8   | 2022年12月3日  | 数字图像与机器视觉基础       | 
+| L9   | 2022年12月10日 | 实时建图与定位基础           | 
+| L10  | 待定           | 设计思维与项目组队           |  
+
+
 ## Mixed Reality-based Fully Immersive Teleoperation for Manipulation
 
 MSc Dissertation Project  

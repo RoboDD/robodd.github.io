@@ -150,7 +150,7 @@ This work received the [Most Accomplished Project]() award at the [Robot Demo Da
 
 Control two manipulators to do daily tasks with user-friendly interfaces.
 
-## Continual Learning for Dynamical Systems (Future)
+## Learning for Dynamical Systems (Future)
 
 
 Last update: Nov. 24, 2023

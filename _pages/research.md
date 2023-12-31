@@ -7,11 +7,12 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
+<!--
 | Cate | Topic           | Supervisor                         | 
 |------|----------------|------------------------------|
 | MSc Dissertation   | Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning | Dr. Dandan Zhang               |
 | BSc Final Year Project   | Optimization-based Motion Planning Algorithms for Quadrotors | Dr. Ruonan Zhang | 
-
+-->
 
 ## Mixed Reality-based Fully Immersive Teleoperation for Manipulation
 

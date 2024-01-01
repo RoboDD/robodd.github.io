@@ -14,10 +14,10 @@ As the rapid development of autonomy in robotics, mobile robots have been more a
 
 Course Information（课程信息）
 ======
-Course Name（课程名称）: Introduction to Robotic Systems Development 机器人系统开发简介
-Lecturer（任课教师）: 吴子牛、王仲昊
-Class Hour in Total（总课时）: 18 hours
-Course Introduction（课程简介）: 中英文填写
+Course Name（课程名称）: Introduction to Robotic Systems Development 机器人系统开发简介  
+Lecturer（任课教师）: 吴子牛、王仲昊  
+Class Hour in Total（总课时）: 18 hours  
+Course Introduction（课程简介）: 中英文填写  
 
 随着机器人技术的快速发展，移动机器人逐渐参与到我们的日常生活中。这门入门级课程将介绍现代机器人技术的基本概念，包括机器人感知、规划、控制等。通过参加讲座和项目，你可以对机器人系统的发展有一个很好的了解。
 

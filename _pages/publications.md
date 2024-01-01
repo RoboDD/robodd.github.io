@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+D. Zhang*, **Z. Wu**, J. Zheng, Y. Li, Z. Dong, J. Lin, "HuBotVerse: A Mixed Reality-Aided Cloud-Based Framework", under revision.
+
 <!--
 ## 2024
 

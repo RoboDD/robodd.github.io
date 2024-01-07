@@ -41,8 +41,8 @@ redirect_from:
                 </p>
                 </div>
             </td>
-            </tr>
-            <tr style="border: none">
+        </tr>
+        <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/2019-4.png" width="200px">

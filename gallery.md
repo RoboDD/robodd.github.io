@@ -119,3 +119,27 @@ redirect_from:
     </table>
 </html>
 
+## First Technology Challenge (FTC)
+
+<html>
+    <table style="margin-left: auto; margin-right: auto; border: none">
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/FTC-guizhou.jpg" width="600px">
+                <p>
+                <div align="center"><b>Guizhou Teen Students Robotics Competition, 2017</b></div>
+                </p>
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/FTC-chongqing.jpg" width="600px">
+                <p>
+                <div align="center"><b>FTC Chongqing, 2017</b></div>
+                </p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</html>

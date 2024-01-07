@@ -107,6 +107,19 @@ redirect_from:
                 </div>
             </td>
         </tr>
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/250-old.png" width="300px">
+                <p>
+                <div align="center"><b>Quadrotor</b></div>
+                <div align="center">Made in: 2015</div>
+                <div align="center">Diagonal Distance: 250mm</div>
+                <div align="center">Features: APM</div>
+                </p>
+                </div>
+            </td>
+        </tr>
     </table>
 </html>
 
@@ -160,6 +173,26 @@ redirect_from:
                 <p>
                 <div align="center"><b>70E MX2-V1</b></div>
                 <div align="center">Wingspan: 1500mm</div> 
+                </p>
+                </div>
+            </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/sky-surfer.png" width="300px">
+                <p>
+                <div align="center"><b>Sky Surfer FPV</b></div>
+                <div align="center">Wingspan: 1400mm</div> 
+                </p>
+                </div>
+            </td>
+        </tr>
+         <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/epp.png" width="300px">
+                <p>
+                <div align="center"><b>GoodBoy and Hummer</b></div>
+                <div align="center">Wingspan: 700mm and 1000mm</div> 
                 </p>
                 </div>
             </td>

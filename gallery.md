@@ -16,7 +16,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/site/images/rm-2020-robots.jpg" width="600px">
                 <p>
-                <div align="center"><b>RoboMaster 2020</b></div>
+                <div align="center"><b>RoboMaster 2019 Jiangsu</b></div>
                 </p>
                 </div>
             </td>

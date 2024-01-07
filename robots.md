@@ -33,25 +33,16 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/2021-onboard.png" width="200px">
-                <p>
-                <div align="center"><b>Quadrotor</b></div>
-                <div align="center">2021</div>
-                <div align="center">Diagonal Distance: 250mm</div>
-                </p>
-                </div>
-            </td>
-            <tr style="border: none">
-            <td style="border: none">
-                <div align="center" id="member">
                 <img src="/site/images/2020-fold.png" width="200px">
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
-                <div align="center">2020</div> 
-                <div align="center">Diagonal Distance: 650mm</div> 
+                <div align="center">Made in: 2021</div>
+                <div align="center">Diagonal Distance: 650mm</div>
                 </p>
                 </div>
             </td>
+            </tr>
+            <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/2019-4.png" width="200px">

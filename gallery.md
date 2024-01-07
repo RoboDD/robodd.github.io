@@ -44,7 +44,8 @@ redirect_from:
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2022</div> 
-                <div align="center">Diagonal Distance: 250mm</div> 
+                <div align="center">Diagonal Distance: 250mm</div>
+                <div align="center">Features: CUAV Nora (PX4), NVIDIA Xavier NX, D435i</div>      
                 </p>
                 </div>
             </td>
@@ -55,6 +56,7 @@ redirect_from:
                 <div align="center"><b>Octorotor Coaxial</b></div>
                 <div align="center">Made in: 2021</div>
                 <div align="center">Diagonal Distance: 650mm</div>
+                <div align="center">Features: CUAV V5+ (PX4)</div>    
                 </p>
                 </div>
             </td>
@@ -65,6 +67,7 @@ redirect_from:
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2020</div>
                 <div align="center">Diagonal Distance: 650mm</div>
+                <div align="center">Features: HEX PIXHAWK H7 (PX4), Long Range</div>
                 </p>
                 </div>
             </td>
@@ -77,6 +80,7 @@ redirect_from:
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2019</div>
                 <div align="center">Diagonal Distance: 650mm</div>
+                <div align="center">Features: CUAV V5+ (PX4), Water Sampler</div>
                 </p>
                 </div>
             </td>
@@ -87,6 +91,7 @@ redirect_from:
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2018</div>
                 <div align="center">Diagonal Distance: 450mm</div>
+                <div align="center">Features: APM2.8</div>
                 </p>
                 </div>
             </td>

@@ -219,6 +219,7 @@ redirect_from:
                 <img src="/site/images/FTC-guizhou.jpg" width="600px">
                 <p>
                 <div align="center"><b>Guizhou Teen Students Robotics Competition, 2017</b></div>
+                <div align="center">Guiyang No.1 High School</div> 
                 </p>
                 </div>
             </td>
@@ -227,6 +228,7 @@ redirect_from:
                 <img src="/site/images/FTC-chongqing.jpg" width="600px">
                 <p>
                 <div align="center"><b>FTC Chongqing, 2017</b></div>
+                    <div align="center">Chongqing University</div> 
                 </p>
                 </div>
             </td>

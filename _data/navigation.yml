@@ -19,6 +19,6 @@ main:
   - title: "CV"
     url: /cv/
     
-#   - title: "TestPage"
-#     url: /resource/
+  - title: "Robots"
+    url: /robots/
     

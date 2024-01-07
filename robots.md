@@ -6,6 +6,33 @@ author_profile: true
 redirect_from:
 
 ---
+
+## RoboMaster
+
+<html>
+    <table style="margin-left: auto; margin-right: auto; border: none">
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/rm-2020-robots.jpg" width="200px">
+                <p>
+                <div align="center"><b>RoboMaster 2020</b></div>
+                </p>
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/rm-2019-robots.jpg" width="200px">
+                <p>
+                <div align="center"><b>RoboMaster 2019</b></div>
+                </p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</html>
+
+
 ## Multi-rotors
 
 <html>

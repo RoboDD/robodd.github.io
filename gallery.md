@@ -142,7 +142,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/site/images/30e-2.png" width="300px">
                 <p>
-                <div align="center"><b>30E</b></div>
+                <div align="center"><b>30E Sbach</b></div>
                 <div align="center">Wingspan: 1200mm</div> 
                 </p>
                 </div>
@@ -162,7 +162,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/site/images/30e-1.png" width="300px">
                 <p>
-                <div align="center"><b>30E</b></div>
+                <div align="center"><b>30E Sbach</b></div>
                 <div align="center">Wingspan: 1200mm</div> 
                 </p>
                 </div>

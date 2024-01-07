@@ -66,7 +66,7 @@ redirect_from:
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2020</div>
-                <div align="center">Diagonal Distance: 650mm</div>
+                <div align="center">Diagonal Distance: 720mm</div>
                 <div align="center">Features: HEX PIXHAWK H7 (PX4), Long Range</div>
                 </p>
                 </div>

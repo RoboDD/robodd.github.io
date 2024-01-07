@@ -2,7 +2,7 @@
 layout: archive
 title: "My robots"
 permalink: /robots/
-author_profile: false
+author_profile: true
 redirect_from:
 
 ---

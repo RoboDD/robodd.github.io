@@ -187,6 +187,15 @@ redirect_from:
             </td>
         </tr>
          <tr style="border: none">
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/x5.png" width="300px">
+                <p>
+                <div align="center"><b>X5 Flywing</b></div>
+                <div align="center">Wingspan: 1200mm</div> 
+                </p>
+                </div>
+            </td>
             <td style="border: none">
                 <div align="center" id="member">
                 <img src="/site/images/epp.png" width="300px">

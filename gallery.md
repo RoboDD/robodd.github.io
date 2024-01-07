@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "My robots"
-permalink: /robots/
+title: "Gallery"
+permalink: /gallery/
 author_profile: true
 redirect_from:
 

@@ -6,14 +6,14 @@ author_profile: false
 redirect_from:
 
 ---
-## PhD Students
+## Multi-rotors
 
 <html>
     <table style="margin-left: auto; margin-right: auto; border: none">
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
+                <img src="/site/images/2019-4.png" width="200px">
                 <p>
                 <div align="center"><b>Haoran Liu</b></div>
                 <div align="center">PhD candidate in Robotics</div> 
@@ -23,30 +23,11 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/p15.png" width="200px">
+                <img src="/site/images/2020-8.png" width="200px">
                 <p>
                 <div align="center"><b>Xukun Li</b></div>
                 <div align="center">PhD candidate in Robotics</div>
                 <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div>
-                </p>
-                </div>
-            </td>
-            <td style="border: none">
-                <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
-                <p>
-                <div align="center"><b>Yutian Chu</b></div>
-                <div align="center">PhD in Computer Science</div>
-                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div>
-                </p>
-                </div>
-            </td>
-            <td style="border: none">
-                <div align="center" id="member">
-                <img src="/site/images/p7.png" width="200px">
-                <p>
-                <div align="center"><b>Xiaoyu Wan</b></div>
-                <div align="center">MSc in Robotics</div> 
                 </p>
                 </div>
             </td>

@@ -95,6 +95,17 @@ redirect_from:
                 </p>
                 </div>
             </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/450-2015.png" width="300px">
+                <p>
+                <div align="center"><b>Quadrotor</b></div>
+                <div align="center">Made in: 2015</div>
+                <div align="center">Diagonal Distance: 550mm</div>
+                <div align="center">Features: APM</div>
+                </p>
+                </div>
+            </td>
         </tr>
     </table>
 </html>
@@ -111,7 +122,44 @@ redirect_from:
                 <p>
                 <div align="center"><b>Eachine Airloader</b></div>
                 <div align="center">Wingspan: 1280mm</div> 
-                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div> 
+                </p>
+                </div>
+            </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/30e-2.png" width="300px">
+                <p>
+                <div align="center"><b>30E</b></div>
+                <div align="center">Wingspan: 1200mm</div> 
+                </p>
+                </div>
+            </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/70e-2.png" width="300px">
+                <p>
+                <div align="center"><b>70E MX2-V2</b></div>
+                <div align="center">Wingspan: 1500mm</div> 
+                </p>
+                </div>
+            </td>
+        </tr>
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/30e-1.png" width="300px">
+                <p>
+                <div align="center"><b>30E</b></div>
+                <div align="center">Wingspan: 1200mm</div> 
+                </p>
+                </div>
+            </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/70e-1.png" width="300px">
+                <p>
+                <div align="center"><b>70E MX2-V1</b></div>
+                <div align="center">Wingspan: 1500mm</div> 
                 </p>
                 </div>
             </td>

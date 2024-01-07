@@ -13,11 +13,11 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/2019-4.png" width="200px">
+                <img src="/site/images/2021-onboard.png" width="200px">
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
-                <div align="center">2019</div> 
-                <div align="center">Diagonal Distance: 650mm</div> 
+                <div align="center">Made in: 2021</div> 
+                <div align="center">Diagonal Distance: 250mm</div> 
                 </p>
                 </div>
             </td>
@@ -26,7 +26,7 @@ redirect_from:
                 <img src="/site/images/2020-8.png" width="200px">
                 <p>
                 <div align="center"><b>Octorotor Coaxial</b></div>
-                <div align="center">2020</div>
+                <div align="center">2021</div>
                 <div align="center">Diagonal Distance: 650mm</div>
                 </p>
                 </div>
@@ -38,6 +38,37 @@ redirect_from:
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">2021</div>
                 <div align="center">Diagonal Distance: 250mm</div>
+                </p>
+                </div>
+            </td>
+            <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/2020-fold.png" width="200px">
+                <p>
+                <div align="center"><b>Quadrotor</b></div>
+                <div align="center">2020</div> 
+                <div align="center">Diagonal Distance: 650mm</div> 
+                </p>
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/2019-4.png" width="200px">
+                <p>
+                <div align="center"><b>Quadrotor</b></div>
+                <div align="center">Made in: 2019</div>
+                <div align="center">Diagonal Distance: 650mm</div>
+                </p>
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/site/images/450-small.png" width="200px">
+                <p>
+                <div align="center"><b>Quadrotor</b></div>
+                <div align="center">Made in: 2018</div>
+                <div align="center">Diagonal Distance: 450mm</div>
                 </p>
                 </div>
             </td>

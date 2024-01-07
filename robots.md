@@ -17,7 +17,7 @@ redirect_from:
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">2019</div> 
-                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div> 
+                <div align="center">Diagonal Distance: 650mm</div> 
                 </p>
                 </div>
             </td>
@@ -27,7 +27,7 @@ redirect_from:
                 <p>
                 <div align="center"><b>Octorotor Coaxial</b></div>
                 <div align="center">2020</div>
-                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div>
+                <div align="center">Diagonal Distance: 650mm</div>
                 </p>
                 </div>
             </td>
@@ -37,7 +37,7 @@ redirect_from:
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">2021</div>
-                <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div>
+                <div align="center">Diagonal Distance: 250mm</div>
                 </p>
                 </div>
             </td>
@@ -55,8 +55,8 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/site/images/2020-uav.png" width="200px">
                 <p>
-                <div align="center"><b>UAV</b></div>
-                <div align="center">2020</div> 
+                <div align="center"><b>Eachine Airloader</b></div>
+                <div align="center">Wingspan: 1280mm</div> 
                 <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div> 
                 </p>
                 </div>
@@ -65,7 +65,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/site/images/2020-8.png" width="200px">
                 <p>
-                <div align="center"><b>Octorotor Coaxial</b></div>
+                <div align="center"><b>123456</b></div>
                 <div align="center">2020</div>
                 <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div>
                 </p>
@@ -75,7 +75,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/site/images/2021-onboard.png" width="200px">
                 <p>
-                <div align="center"><b>Quadrotor</b></div>
+                <div align="center"><b>123456</b></div>
                 <div align="center">2021</div>
                 <div align="center"><a href="https://robodd.github.io/site/">[website]</a></div>
                 </p>

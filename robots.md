@@ -26,7 +26,7 @@ redirect_from:
                 <img src="/site/images/2020-8.png" width="200px">
                 <p>
                 <div align="center"><b>Octorotor Coaxial</b></div>
-                <div align="center">2021</div>
+                <div align="center">Made in: 2021</div>
                 <div align="center">Diagonal Distance: 650mm</div>
                 </p>
                 </div>

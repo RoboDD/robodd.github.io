@@ -12,11 +12,15 @@ redirect_from:
 
 # Must Read Paper 
 
-- [Quadrotor] R. Mahony, V. Kumar and P. Corke, "Multirotor Aerial Vehicles: Modeling, Estimation, and Control of Quadrotor," in IEEE Robotics & Automation Magazine, vol. 19, no. 3, pp. 20-32, Sept. 2012, doi: 10.1109/MRA.2012.2206474.
+## Fundamental Flight Control for Quadrotors
 
-- [Quadrotor] Paul N. Beuchat, N-rotor vehicles: modelling, control, and estimation. https://www.dfall.ethz.ch/pands.php
+- R. Mahony, V. Kumar and P. Corke, "Multirotor Aerial Vehicles: Modeling, Estimation, and Control of Quadrotor," in IEEE Robotics & Automation Magazine, vol. 19, no. 3, pp. 20-32, Sept. 2012, doi: 10.1109/MRA.2012.2206474.
 
-## [Manipulation]
+- Paul N. Beuchat, N-rotor vehicles: modelling, control, and estimation. https://www.dfall.ethz.ch/pands.php
+
+
+## Manipulation
+
 - MIT 6.421 Robotic Manipulation - Perception, Planning, and Control
   ```
   @book{manipulation,
@@ -36,7 +40,7 @@ redirect_from:
 - P. Corke and J. Haviland, "Not your grandmother’s toolbox – the Robotics Toolbox reinvented for Python," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 11357-11363, doi: 10.1109/ICRA48506.2021.9561366.
 
 
-## GMV
+## GWM
 
 https://arxiv.org/abs/2306.02572
 

@@ -16,22 +16,22 @@ redirect_from:
 
 - [Quadrotor] Paul N. Beuchat, N-rotor vehicles: modelling, control, and estimation. https://www.dfall.ethz.ch/pands.php
 
-- [Manipulation]
+## [Manipulation]
+- MIT 6.421 Robotic Manipulation - Perception, Planning, and Control
+  ```
+  @book{manipulation,
+    title        = "Robotic Manipulation",
+    subtitle     = "Perception, Planning, and Control",
+    howpublished = "Course Notes for MIT 6.421",
+    author       = "Tedrake, Russ",
+    year         = 2023,
+    url          = "http://manipulation.mit.edu",
+  }
+  ```
 
-```
-@book{manipulation,
-  title        = "Robotic Manipulation",
-  subtitle     = "Perception, Planning, and Control",
-  howpublished = "Course Notes for MIT 6.421",
-  author       = "Tedrake, Russ",
-  year         = 2023,
-  url          = "http://manipulation.mit.edu",
-}
-```
+- J. Haviland and P. Corke, "Manipulator Differential Kinematics: Part I: Kinematics, Velocity, and Applications," in IEEE Robotics & Automation Magazine, doi: 10.1109/MRA.2023.3270228.
 
-- [Manipulator] J. Haviland and P. Corke, "Manipulator Differential Kinematics: Part I: Kinematics, Velocity, and Applications," in IEEE Robotics & Automation Magazine, doi: 10.1109/MRA.2023.3270228.
-
-- [Manipulator] J. Haviland and P. Corke, "Manipulator Differential Kinematics: Part 2: Acceleration and Advanced Applications," in IEEE Robotics & Automation Magazine, doi: 10.1109/MRA.2023.3270221.
+- J. Haviland and P. Corke, "Manipulator Differential Kinematics: Part 2: Acceleration and Advanced Applications," in IEEE Robotics & Automation Magazine, doi: 10.1109/MRA.2023.3270221.
 
 - P. Corke and J. Haviland, "Not your grandmother’s toolbox – the Robotics Toolbox reinvented for Python," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 11357-11363, doi: 10.1109/ICRA48506.2021.9561366.
 

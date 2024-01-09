@@ -13,9 +13,9 @@ redirect_from:
 
 QUALIFICATIONS
 ======
-* MSc in Robotics, University of Bristol, 2023
-* BSc in Applied Mathematics, University of Liverpool, 2022
-<!-- * BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022 -->
+* MSc in Robotics, University of Bristol
+* BSc in Applied Mathematics, University of Liverpool
+* BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University
 
 
 SELECTED AWARDS
@@ -27,7 +27,7 @@ SELECTED AWARDS
 * Regional Third Prize, RoboMaster 2019 Robotics Competition, 2019
 
 
-Last update: May 10, 2023.
+Last update: Jan 9, 2024.
 
 <!--[[中文简历]](https://robodd.github.io/site/cv-cn/)-->
 <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">

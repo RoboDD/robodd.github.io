@@ -13,8 +13,7 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-#   - title: "Resource"
-#     url: /year-archive/
+
     
   - title: "CV"
     url: /cv/
@@ -22,3 +21,5 @@ main:
   - title: "Gallery"
     url: /gallery/
     
+  - title: "Resource"
+    url: /resource/

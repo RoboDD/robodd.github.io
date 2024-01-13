@@ -47,10 +47,14 @@ I have broad research interests in **Dynamical Systems** and **Spatial Mathemati
 
 Now I am mainly interested in:
 
-* Continual Learning
-* Imitation Learning
-* Dynamics Modelling and Optimization
-* Motion Planning and Control
+* High-level Planning
+
+  * Learning Skills: Imitation Learning, Reinforcement Learning
+  * Mutually Evolution: Continual Learning
+
+* Low-level Control:
+  * Dynamics Modelling and Optimization
+  * Motion Planning and Control
 
 I am also interested in:
 * General World Models

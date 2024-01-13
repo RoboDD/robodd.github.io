@@ -43,14 +43,18 @@ Updates
 My Research Interests
 ======
 
-I have broad research interests in **Dynamical Systems** and **Spatial Mathematics**. Now I am mainly interested in:
+I have broad research interests in **Dynamical Systems** and **Spatial Mathematics**. 
+
+Now I am mainly interested in:
 
 * Continual Learning
 * Imitation Learning
-* General World Models
-* Human-Robot Value Alignment
 * Dynamics Modelling and Optimization
 * Motion Planning and Control
+
+I am also interested in:
+* General World Models
+* Human-Robot Value Alignment
 * Robotic Manipulation and Teleoperation
 * Immersive Technologies in Robotic Applications
 

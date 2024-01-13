@@ -13,7 +13,7 @@ Hi! I am Ziniu WU. I am a Research Intern with [Dr. Dandan Zhang](https://www.in
 -->
 
 <!--
-Ziniu Wu is a first-year PhD student in Aerospace Engineering at the University of Bristol, working with Dr. Bahadir Kocer and Prof. Arthur Richards. His research focuses on continual learning for dynamical systems to enhance their adaptation and robustness in unconstructed and dynamic environments. Previously, he received an MSc in Robotics at the University of Bristol and a BSc in Applied Mathematics at the University of Liverpool.
+Ziniu Wu is a first-year PhD student in Aerospace Engineering at the University of Bristol, working with Dr. Bahadir Kocer and Prof. Arthur Richards. His research focuses on **Continual Learning for Dynamical Systems** to enhance their adaptation and robustness in unconstructed and dynamic environments. Previously, he received an MSc in Robotics at the University of Bristol and a BSc in Applied Mathematics at the University of Liverpool.
 -->
 
 
@@ -48,7 +48,7 @@ I have broad research interests in **Dynamical Systems** and **Spatial Mathemati
 Now I am mainly interested in:
 
 * Multi-Task/Adaptive/Transferable/Continual Learning
-* Dynamics Modelling, Motion Planning and Optimal Control
+* Dynamics Modelling, Motion Planning and Control
 
 I am also interested in:
 

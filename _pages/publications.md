@@ -8,9 +8,10 @@ author_profile: false
 ## 2024
 
 ---
-**Self-supervised Dock Pose Estimator for Unmanned Surface Vehicles Autonomous Docking**  
-Yijie Chu, Ziniu Wu, Xiaohui Zhu, Yong Yue, Eng Gee Lim, Paolo Paoletti  
+**Self-supervised Dock Pose Estimator for Unmanned Surface Vehicles Autonomous Docking** [Accepted]  
+Yijie Chu, **Ziniu Wu**, Xiaohui Zhu, Yong Yue, Eng Gee Lim, Paolo Paoletti  
 *IEEE International Conference on Mechatronics and Robotics Engineering (ICMRE)*  
+[[paper]](https://ieeexplore.ieee.org/document/123) 
 
 ---
 

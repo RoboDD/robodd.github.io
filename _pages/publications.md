@@ -27,14 +27,14 @@ Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng, Zheng Dong, Jialin Lin
 ---
 
 **Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight**   
-**Ziniu Wu** and Ruonan Zhang  
+**Ziniu Wu** and Ruonan Zhang\*  
 *IEEE International Conference on Control, Automation and Robotics (ICCAR)*  
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10151732)  [[Best Oral Presentation Award]](https://mp.weixin.qq.com/s/OJU0RdSmQxqaemiichWZCg)  
 
 ---
 
 **Riverbank Following Planner for USVs based on Point Cloud Data**  
-Yijie Chu, **Ziniu Wu**, Xiaohui Zhu, Yong Yue, Eng Gee Lim, Paolo Paoletti, Jieming Ma  
+Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti, Jieming Ma  
 *Applied Sciences*  
 [[paper]](https://www.mdpi.com/2076-3417/13/20/11319)  
 
@@ -43,14 +43,14 @@ Yijie Chu, **Ziniu Wu**, Xiaohui Zhu, Yong Yue, Eng Gee Lim, Paolo Paoletti, Jie
 ---
 
 **Connect Your UAV to the Cloud Using Urban 4G and 5G Cellular Networks: Performance Evaluation and Comparison**  
-Dawei Liu, Qiwen Chen, Shuchang Li, **Ziniu Wu**, Liqi Chen, Xu He, Xin Huang, Wei Wang.  
+Dawei Liu\*, Qiwen Chen, Shuchang Li, **Ziniu Wu**, Liqi Chen, Xu He, Xin Huang, Wei Wang.  
 *IEEE Internet of Things Magazine (IoT-M)*  
 [[paper]](https://ieeexplore.ieee.org/document/10012489)  
 
 ---
 
 **PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field**  
-Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu, Eng Gee Lim, Paolo Paoletti.  
+Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu\*, Eng Gee Lim, Paolo Paoletti.  
 *Applied Sciences*  
 [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)  
 

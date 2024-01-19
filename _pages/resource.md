@@ -29,6 +29,10 @@ redirect_from:
 
 - P. Corke and J. Haviland, "Not your grandmother’s toolbox – the Robotics Toolbox reinvented for Python," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 11357-11363, doi: 10.1109/ICRA48506.2021.9561366.
 
+## Underactuated
+
+- Russ Tedrake. Underactuated Robotics: Algorithms for Walking, Running, Swimming, Flying, and Manipulation (Course Notes for MIT 6.832). [link](https://underactuated.csail.mit.edu/)
+
 # Course
 
 - Guanya Shi, 16-831 Introduction to Robot Learning, CMU, Spring 2024. [link](https://16-831-s24.github.io/)

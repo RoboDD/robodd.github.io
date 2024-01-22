@@ -146,11 +146,13 @@ Why do we need human-in-the-loop? In order to improve the robot learning efficie
 This work received the [Most Accomplished Project]() award at the [Robot Demo Day](), hosted by the University of Bristol.
 
 
-## Bimanual Robotics Manipulation (Internship Project)
+## Bimanual Robotics Manipulation
 
-Control two manipulators to do daily tasks with user-friendly interfaces.
+Developed a Mixed Reality based teleoperation software with advanced motion controller (resovled-rate controller).
 
-## Learning for Dynamical Systems (Future)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0qPM01FiiFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Learning for Dynamical Systems (Future PhD Project)
 
 
 Last update: Nov. 24, 2023

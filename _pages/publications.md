@@ -17,7 +17,7 @@ Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti
 
 **HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [Under Review]  
 Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng, Zheng Dong, Jialin Lin  
-*IEEE Robotics and Automation Magazine (RA-M)* <img src="https://img.shields.io/badge/JCR-Q1-Blue" height="20"/>  
+*IEEE Robotics and Automation Magazine (RA-M)* <img src="https://img.shields.io/badge/JCR-Q1-red" height="20"/>  
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
 
 
@@ -35,7 +35,7 @@ Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng, Zheng Dong, Jialin Lin
 
 **Riverbank Following Planner for USVs based on Point Cloud Data**  
 Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti, Jieming Ma  
-*Applied Sciences*  
+*Applied Sciences* <img src="https://img.shields.io/badge/JCR-Q2-yellow" height="20"/>  
 [[paper]](https://www.mdpi.com/2076-3417/13/20/11319)  
 
 ## 2022
@@ -51,6 +51,6 @@ Dawei Liu\*, Qiwen Chen, Shuchang Li, **Ziniu Wu**, Liqi Chen, Xu He, Xin Huang,
 
 **PK-APF: Path-Keeping Algorithm for USVs Based on Artificial Potential Field**  
 Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu\*, Eng Gee Lim, Paolo Paoletti.  
-*Applied Sciences*  
+*Applied Sciences* <img src="https://img.shields.io/badge/JCR-Q2-yellow" height="20"/>  
 [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)  
 

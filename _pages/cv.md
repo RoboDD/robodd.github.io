@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
-
+#666666
+<img src="https://img.shields.io/badge/#666666?style=flat-square&logo=Mathworks&logoColor=white" height="20"/>
 QUALIFICATIONS
 ======
 * MSc in Robotics, University of Bristol

@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Actively looking for an internship opptunity in robotics (robot learning, or motion planning) in UK.
-
-I do not need a visa or sponsorship. I have already got a Graduate Visa.
+> Actively looking for an internship opptunity in robotics (robot learning, or motion planning) in UK. I do not need a visa or sponsorship. I have already got a Graduate Visa.
 
 
 Hi there! I am Ziniu WU. I am working on [Mixed Reality-based Robotic Manipulation and Robot Learning](https://robodd.github.io/site/research/). Previously, I received an MSc in Robotics at the [University of Bristol](https://www.bristol.ac.uk/) and a BSc in Applied Mathematics at the [University of Liverpool](https://www.liverpool.ac.uk/).
@@ -20,9 +18,9 @@ Hi there! I am Ziniu WU. I am working on [Mixed Reality-based Robotic Manipulati
 Ziniu Wu is a first-year PhD student in Aerospace Engineering at the University of Bristol, working with Dr. Bahadir Kocer and Prof. Arthur Richards. His research focuses on **Continual Learning for Dynamical Systems** to enhance their adaptation and robustness in unconstructed and dynamic environments. Previously, he received an MSc in Robotics at the University of Bristol and a BSc in Applied Mathematics at the University of Liverpool.
 -->
 
-
+<!--
 > "Sometimes you just gotta jump, hoping you are not standing on the cliff."
-
+-->
 
 Updates
 ======

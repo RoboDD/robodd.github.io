@@ -31,7 +31,7 @@ TECHNICAL SKILLS
 Last update: Jan 9, 2024.
 #22314E
 
-<img src="https://img.shields.io/badge/ROS-666666?style=flat-square&logo=ROS&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/simpleicons?style=flat-square&logo=ROS&logoColor=white" height="20"/>
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/666666" />

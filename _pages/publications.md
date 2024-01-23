@@ -29,8 +29,9 @@ Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng, Zheng Dong, Jialin Lin
 **Energy and Time-efficient Trajectory Planning and Geometric Control for Quadrotor Waypoints Flight** <img src="https://img.shields.io/badge/Best%20Oral%20Presentation%20Award-8A2BE2" height="20"/>  
 **Ziniu Wu** and Ruonan Zhang\*  
 *IEEE International Conference on Control, Automation and Robotics (ICCAR)*  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/10151732)  [[Best Oral Presentation Award]](https://mp.weixin.qq.com/s/OJU0RdSmQxqaemiichWZCg)  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10151732)    
 
+<!--[[Best Oral Presentation Award]](https://mp.weixin.qq.com/s/OJU0RdSmQxqaemiichWZCg)-->
 ---
 
 **Riverbank Following Planner for USVs based on Point Cloud Data**  

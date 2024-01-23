@@ -17,7 +17,7 @@ Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti
 
 **HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [Under Review]  
 Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng, Zheng Dong, Jialin Lin  
-*IEEE Robotics and Automation Magazine (RA-M)*  
+*IEEE Robotics and Automation Magazine (RA-M)* <img src="https://img.shields.io/badge/JCR-Q1-Blue" height="20"/>  
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
 
 

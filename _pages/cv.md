@@ -31,7 +31,7 @@ TECHNICAL SKILLS
 Last update: Jan 9, 2024.
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/#666666" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/666666" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/hotpink" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf9" />

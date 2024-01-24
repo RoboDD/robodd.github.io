@@ -61,6 +61,7 @@ I am also interested in:
 * Robotic Manipulation and Teleoperation
 * Immersive Technologies in Robotic Applications
 * Meta Learning or Learning to Learn
+* Non-parametric Learning
 
 
 <!-- <img src='/site/images/my-research-area.drawio.png' width = "50%" align=center> -->

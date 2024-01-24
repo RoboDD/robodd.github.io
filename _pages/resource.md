@@ -22,6 +22,8 @@ redirect_from:
 ## Manipulation
 
 - Tedrake, Russ, 6.421 Robotic Manipulation - Perception, Planning, and Control, MIT. [link](http://manipulation.mit.edu)
+  - Graphs of Convex Sets (GCS)
+  - Visual-motor Policy
 
 - J. Haviland and P. Corke, "Manipulator Differential Kinematics: Part I: Kinematics, Velocity, and Applications," in IEEE Robotics & Automation Magazine, doi: 10.1109/MRA.2023.3270228.
 

@@ -63,7 +63,7 @@ I am also interested in:
 * Meta Learning or Learning to Learn
 * Non-parametric Learning
 
-<img src='/site/images/learning-paradigm.png' width = "50%" align=center>
+<img src='/site/images/learning-paradigm.png' width = "100%" align=center>
 
 Source: [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9349197)
 <!-- <img src='/site/images/my-research-area.drawio.png' width = "50%" align=center> -->

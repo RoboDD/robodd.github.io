@@ -40,6 +40,9 @@ redirect_from:
 - Guanya Shi, 16-831 Introduction to Robot Learning, CMU, Spring 2024. [link](https://16-831-s24.github.io/)
 - Shiyu Zhao, Reinforcement Learning at Westlake University, [link](https://shiyuzhao.westlake.edu.cn/Teaching.htm)
 
+# Blogs
+
+- [How to read conference papers? PACE Method](https://medium.com/@jasoncorso/how-to-read-conference-papers-fa78c75f78aa)
 ## GWM
 
 https://arxiv.org/abs/2306.02572

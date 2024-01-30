@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> Actively looking for an internship opptunity in robotics (robot learning, or motion planning) in UK. I do not need a visa or sponsorship. I have already got a Graduate Visa.
+> Actively looking for an Robotics Engineer opptunity in robotics (robot learning, mobile robots, embodied AI, or motion planning) in UK. I do not need a visa or sponsorship. I have already got a Graduate Visa.
 
 
 Hi there! I am Ziniu WU. I am working on [Mixed Reality-based Robotic Manipulation and Robot Learning](https://robodd.github.io/site/research/). Previously, I received an MSc in Robotics at the [University of Bristol](https://www.bristol.ac.uk/) and a BSc in Applied Mathematics at the [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en).

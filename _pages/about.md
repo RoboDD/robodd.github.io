@@ -62,7 +62,9 @@ I am also interested in:
 * Immersive Technologies in Robotic Applications
 * Meta Learning or Learning to Learn
 * Non-parametric Learning
+* Numerical Optimization
 
+  
 <img src='/site/images/learning-paradigm.png' width = "100%" align=center>
 
 Source: [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9349197)

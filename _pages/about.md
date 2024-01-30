@@ -64,6 +64,7 @@ I am also interested in:
 * Meta Learning or Learning to Learn
 * Non-parametric Learning
 * Numerical Optimization
+* Underactuated Robotics
 
   
 <img src='/site/images/learning-paradigm.png' width = "100%" align=center>

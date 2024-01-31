@@ -14,7 +14,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/rm-2020-robots.jpg" width="600px">
+                <img src="/images/rm-2020-robots.jpg" width="600px">
                 <p>
                 <div align="center"><b>RoboMaster 2019, Nanjing, Jiangsu</b></div>
                 </p>
@@ -22,7 +22,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/rm-2019-robots.jpg" width="600px">
+                <img src="/images/rm-2019-robots.jpg" width="600px">
                 <p>
                 <div align="center"><b>RoboMaster 2019, Shenzhen, Guangzhou</b></div>
                 </p>
@@ -40,7 +40,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/2021-onboard.png" width="300px">
+                <img src="/images/2021-onboard.png" width="300px">
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2022</div> 
@@ -51,7 +51,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/2020-8.png" width="300px">
+                <img src="/images/2020-8.png" width="300px">
                 <p>
                 <div align="center"><b>Octorotor Coaxial</b></div>
                 <div align="center">Made in: 2021</div>
@@ -62,7 +62,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/2020-fold.png" width="300px">
+                <img src="/images/2020-fold.png" width="300px">
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2020</div>
@@ -75,7 +75,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/2019-4.png" width="300px">
+                <img src="/images/2019-4.png" width="300px">
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2019</div>
@@ -86,7 +86,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/450-small.png" width="300px">
+                <img src="/images/450-small.png" width="300px">
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2018</div>
@@ -97,7 +97,7 @@ redirect_from:
             </td>
              <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/450-2015.png" width="300px">
+                <img src="/images/450-2015.png" width="300px">
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2015</div>
@@ -110,7 +110,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/250-old.png" width="300px">
+                <img src="/images/250-old.png" width="300px">
                 <p>
                 <div align="center"><b>Quadrotor</b></div>
                 <div align="center">Made in: 2015</div>
@@ -131,7 +131,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/2020-uav.png" width="300px">
+                <img src="/images/2020-uav.png" width="300px">
                 <p>
                 <div align="center"><b>Eachine Airloader</b></div>
                 <div align="center">Wingspan: 1280mm</div> 
@@ -140,7 +140,7 @@ redirect_from:
             </td>
              <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/30e-2.png" width="300px">
+                <img src="/images/30e-2.png" width="300px">
                 <p>
                 <div align="center"><b>30E Sbach</b></div>
                 <div align="center">Wingspan: 1200mm</div> 
@@ -149,7 +149,7 @@ redirect_from:
             </td>
              <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/70e-2.png" width="300px">
+                <img src="/images/70e-2.png" width="300px">
                 <p>
                 <div align="center"><b>70E MX2-V2</b></div>
                 <div align="center">Wingspan: 1500mm</div> 
@@ -160,7 +160,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/30e-1.png" width="300px">
+                <img src="/images/30e-1.png" width="300px">
                 <p>
                 <div align="center"><b>30E Sbach</b></div>
                 <div align="center">Wingspan: 1200mm</div> 
@@ -169,7 +169,7 @@ redirect_from:
             </td>
              <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/70e-1.png" width="300px">
+                <img src="/images/70e-1.png" width="300px">
                 <p>
                 <div align="center"><b>70E MX2-V1</b></div>
                 <div align="center">Wingspan: 1500mm</div> 
@@ -178,7 +178,7 @@ redirect_from:
             </td>
              <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/sky-surfer.png" width="300px">
+                <img src="/images/sky-surfer.png" width="300px">
                 <p>
                 <div align="center"><b>Sky Surfer FPV</b></div>
                 <div align="center">Wingspan: 1400mm</div> 
@@ -189,7 +189,7 @@ redirect_from:
          <tr style="border: none">
              <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/x5.png" width="300px">
+                <img src="/images/x5.png" width="300px">
                 <p>
                 <div align="center"><b>X5 Flywing</b></div>
                 <div align="center">Wingspan: 1200mm</div> 
@@ -198,7 +198,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/epp.png" width="300px">
+                <img src="/images/epp.png" width="300px">
                 <p>
                 <div align="center"><b>GoodBoy and Hummer</b></div>
                 <div align="center">Wingspan: 700mm and 1000mm</div> 
@@ -216,7 +216,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/FTC-guizhou.jpg" width="600px">
+                <img src="/images/FTC-guizhou.jpg" width="600px">
                 <p>
                 <div align="center"><b>Guizhou Teen Students Robotics Competition, 2017</b></div>
                 <div align="center">Guiyang No.1 High School</div> 
@@ -225,7 +225,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/FTC-chongqing.jpg" width="600px">
+                <img src="/images/FTC-chongqing.jpg" width="600px">
                 <p>
                 <div align="center"><b>FTC Chongqing, 2017</b></div>
                     <div align="center">Chongqing University</div> 
@@ -244,7 +244,7 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/cts2016.jpg" width="600px">
+                <img src="/images/cts2016.jpg" width="600px">
                 <p>
                 <div align="center"><b>CTS 2016, Huangping, Guizhou</b></div>
                 </p>
@@ -252,7 +252,7 @@ redirect_from:
             </td>
             <td style="border: none">
                 <div align="center" id="member">
-                <img src="/site/images/cts2015.jpg" width="600px">
+                <img src="/images/cts2015.jpg" width="600px">
                 <p>
                 <div align="center"><b>CTS 2016, Dongguan, Guangzhou</b></div>
                 </p>

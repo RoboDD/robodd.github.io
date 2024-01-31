@@ -62,7 +62,7 @@ Abstract: The proposed systems aim to provide a **fully immersive** experience f
 --->
 
 ### System Framework of Teleoperation
-<img src='/site/images/teleoperation-system.png' width = "100%" align=center>
+<img src='/images/teleoperation-system.png' width = "100%" align=center>
 
 <!---
 Features:
@@ -94,10 +94,6 @@ Demo for pick-and-place:
 <!---
 User study results, code, and tutorial will release soon.
 --->
-
-[[code]](baidu.com) [[tutorial]](https://robodd.github.io/coarse-to-fine-tutorial/)  
-
-
 
 
 ---
@@ -155,4 +151,4 @@ Developed a Mixed Reality based teleoperation software with advanced motion cont
 ## Learning for Dynamical Systems (Future PhD Project)
 
 
-Last update: Nov. 24, 2023
+Last update: Jan. 30, 2024

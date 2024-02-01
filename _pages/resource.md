@@ -31,7 +31,7 @@ redirect_from:
 
 - P. Corke and J. Haviland, "Not your grandmother’s toolbox – the Robotics Toolbox reinvented for Python," 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi'an, China, 2021, pp. 11357-11363, doi: 10.1109/ICRA48506.2021.9561366.
 
-- C. Finn, Xin Yu Tan, Yan Duan, T. Darrell, S. Levine and P. Abbeel, "Deep spatial autoencoders for visuomotor learning," 2016 IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 512-519, doi: 10.1109/ICRA.2016.7487173. keywords: {Visualization;Learning (artificial intelligence);Robot sensing systems;Robot kinematics;Cameras;Unsupervised learning},
+- C. Finn, Xin Yu Tan, Yan Duan, T. Darrell, S. Levine and P. Abbeel, "Deep spatial autoencoders for visuomotor learning," 2016 IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 512-519, doi: 10.1109/ICRA.2016.7487173.  
 
 
 

@@ -33,6 +33,7 @@ redirect_from:
 
 - C. Finn, Xin Yu Tan, Yan Duan, T. Darrell, S. Levine and P. Abbeel, "Deep spatial autoencoders for visuomotor learning," 2016 IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, 2016, pp. 512-519, doi: 10.1109/ICRA.2016.7487173.
 - You Only Live Once: Single-Life Reinforcement Learning. A Chen, A Sharma, S Levine, C Finn. 2022. Advances in Neural Information Processing Systems 35, 14784-14797
+- Sharma, Ahmed, Ahmad, Finn. Self-lmproving Robots: End-to-End Autonomous Visuomotor Reinforcement Learning. CoRL. "23
 
 
 

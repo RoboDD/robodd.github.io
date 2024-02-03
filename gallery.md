@@ -7,6 +7,32 @@ redirect_from:
 
 ---
 
+## InnoX
+
+<html>
+    <table style="margin-left: auto; margin-right: auto; border: none">
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/ssh-camp.jpg" width="600px">
+                <p>
+                <div align="center"><b>Dongguan, Guangzhou</b></div>
+                </p>
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/rm-2019-robots.jpg" width="600px">
+                <p>
+                <div align="center"><b>RoboMaster 2019, Shenzhen, Guangzhou</b></div>
+                </p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</html>
+
+
 ## RoboMaster
 
 <html>

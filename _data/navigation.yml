@@ -21,5 +21,8 @@ main:
   - title: "Gallery"
     url: /gallery/
     
+  - title: "Robots"
+    url: /robots/   
+    
   - title: "Resource"
     url: /resource/

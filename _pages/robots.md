@@ -14,6 +14,15 @@ redirect_from:
         <tr style="border: none">
             <td style="border: none">
                 <div align="center" id="member">
+                <img src="/images/realman7.png" width="300px">
+                <p>
+                <div align="center"><b>Realman 7DOF</b></div>
+                <div align="center">Pre-ordered</div> 
+                </p>
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="center" id="member">
                 <img src="/images/uf850-removebg-preview.png" width="300px">
                 <p>
                 <div align="center"><b>UFactory 850</b></div>

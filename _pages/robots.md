@@ -7,6 +7,90 @@ redirect_from:
 
 ---
 
+## Manipulators
+
+<html>
+    <table style="margin-left: auto; margin-right: auto; border: none">
+        <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/uf850-removebg-preview.png" width="300px">
+                <p>
+                <div align="center"><b>UFactory 850</b></div>
+                <div align="center">2023</div> 
+                </p>
+                </div>
+            </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/gen3.png" width="300px">
+                <p>
+                <div align="center"><b>Kinova Gen 3</b></div>
+                <div align="center">2023</div> 
+                </p>
+                </div>
+            </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/mycobot320.png" width="300px">
+                <p>
+                <div align="center"><b>MyCobot 320 Pi</b></div>
+                <div align="center">MSc Dissertation Project, 2023</div> 
+                </p>
+                </div>
+            </td>
+        </tr>
+<!--         <tr style="border: none">
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/30e-1.png" width="300px">
+                <p>
+                <div align="center"><b>30E Sbach</b></div>
+                <div align="center">Wingspan: 1200mm</div> 
+                </p>
+                </div>
+            </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/70e-1.png" width="300px">
+                <p>
+                <div align="center"><b>70E MX2-V1</b></div>
+                <div align="center">Wingspan: 1500mm</div> 
+                </p>
+                </div>
+            </td>
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/sky-surfer.png" width="300px">
+                <p>
+                <div align="center"><b>Sky Surfer FPV</b></div>
+                <div align="center">Wingspan: 1400mm</div> 
+                </p>
+                </div>
+            </td>
+        </tr>
+         <tr style="border: none">
+             <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/x5.png" width="300px">
+                <p>
+                <div align="center"><b>X5 Flywing</b></div>
+                <div align="center">Wingspan: 1200mm</div> 
+                </p>
+                </div>
+            </td>
+            <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/epp.png" width="300px">
+                <p>
+                <div align="center"><b>GoodBoy and Hummer</b></div>
+                <div align="center">Wingspan: 700mm and 1000mm</div> 
+                </p>
+                </div>
+            </td>
+        </tr> -->
+    </table>
+</html>
 
 ## Multi-rotors
 

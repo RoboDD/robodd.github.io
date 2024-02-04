@@ -26,7 +26,7 @@ redirect_from:
                 <img src="/images/uf850-removebg-preview.png" width="300px">
                 <p>
                 <div align="center"><b>UFactory 850</b></div>
-                <div align="center">2023</div> 
+                <div align="center">Internship Project, 2023</div> 
                 </p>
                 </div>
             </td>
@@ -35,7 +35,7 @@ redirect_from:
                 <img src="/images/gen3.png" width="300px">
                 <p>
                 <div align="center"><b>Kinova Gen 3</b></div>
-                <div align="center">2023</div> 
+                <div align="center">Internship Project, 2023</div> 
                 </p>
                 </div>
             </td>

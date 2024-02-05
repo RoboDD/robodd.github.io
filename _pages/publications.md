@@ -8,17 +8,18 @@ author_profile: false
 ## 2024
 
 ---
-**Self-supervised Dock Pose Estimator for Unmanned Surface Vehicles Autonomous Docking** [Accepted]  
-Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti  
-*IEEE International Conference on Mechatronics and Robotics Engineering (ICMRE)*  
-[[paper]](https://ieeexplore.ieee.org/document/123) 
-
----
 
 **HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [Accepted]  
 Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng, Zheng Dong, Jialin Lin  
 *IEEE Robotics and Automation Magazine (RA-M)* <img src="https://img.shields.io/badge/JCR-Q1-red" height="20"/>  
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
+
+---
+
+**Self-supervised Dock Pose Estimator for Unmanned Surface Vehicles Autonomous Docking** [Accepted]  
+Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti  
+*IEEE International Conference on Mechatronics and Robotics Engineering (ICMRE)*  
+[[paper]](https://ieeexplore.ieee.org/document/123) 
 
 
 

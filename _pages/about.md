@@ -44,7 +44,7 @@ Now I am mainly interested in:
 
 I am also interested in:
 
-* Towards AGI: Spatial Reasoning/Foundation Models in Robotics/General World Models
+* Towards AGI: Foundation Models in Robotics/General World Models
 * Robot Learning: Imitation Learning/Reinforcement Learning/Learning-based Visual Servoing
 * Human-Robot Interaction: Value Alignment/Factors Engineering/Ergonomics
 * Robotic Manipulation/Teleoperation/Force-Torque Control/Impedance Control

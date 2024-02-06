@@ -26,16 +26,12 @@ Updates
 ======
 
 * [Feb-2024] A paper has been accepted by IEEE Robotics and Automation Magzine (RA-M)! More details are comming soon.
-
 * [Nov-2023] I graduated and received an MSc in Robotics at the [University of Bristol](https://www.bristol.ac.uk/).
-
 * [Aug-2023] I received the [Most Accomplished Project (Technical Achievement)]() award at the [Robot Demo Day](). I would like to express my gratitude for the constructive feedback from everyone involved.
-
 <!--
 * [Apr-2023] I received the [Best Oral Presentation]() Award in the [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 * [Mar-2023] A paper has been accepted by [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 -->
-
 * [Nov-2022] My team and I were awarded [one Gold Award and two Bronze Award](https://cy.ncss.cn/information/2c93f4c682872dbb01849802948e17dd?jump_from=1_05_37_01) in [The 8th China International College Students'"Internet+"Competition](https://cy.ncss.cn/en/). Congratulations!
 
 <!--

@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 > <font color="#FF0000"> Actively looking for an Robotics Engineer opptunity in robotics (robot learning, mobile robots, embodied AI, or motion planning) in UK. I do not need a visa or sponsorship. I have already got a Graduate Visa. </font>
-
+-->
 
 Hi there! I am Ziniu WU. I am working on [Mixed Reality-based Robotic Manipulation and Robot Learning](https://robodd.github.io/site/research/). Previously, I received an MSc in Robotics at the [University of Bristol](https://www.bristol.ac.uk/) and a BSc in Applied Mathematics at the [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en).
 
@@ -23,9 +24,9 @@ Ziniu Wu is a first-year PhD student in Aerospace Engineering at the University 
 
 Updates
 ======
-<!--
-* [Aug-2023] A paper has been accepted by IEEE Robotics and Automation Letters
--->
+
+* [Feb-2024] A paper has been accepted by IEEE Robotics and Automation Magzine (RA-M)! More details are comming soon.
+
 * [Nov-2023] I graduated and received an MSc in Robotics at the [University of Bristol](https://www.bristol.ac.uk/).
 
 * [Aug-2023] I received the [Most Accomplished Project (Technical Achievement)]() award at the [Robot Demo Day](). I would like to express my gratitude for the constructive feedback from everyone involved.

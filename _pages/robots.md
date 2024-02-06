@@ -132,7 +132,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/images/2020-fold.png" width="300px">
                 <p>
-                <div align="center"><b>Quadrotor</b></div>
+                <div align="center"><b>Quadrotor [SOLD]</b></div>
                 <div align="center">Made in: 2020</div>
                 <div align="center">Diagonal Distance: 720mm</div>
                 <div align="center">Features: HEX PIXHAWK H7 (PX4), Long Range</div>
@@ -156,7 +156,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/images/450-small.png" width="300px">
                 <p>
-                <div align="center"><b>Quadrotor</b></div>
+                <div align="center"><b>Quadrotor [SOLD]</b></div>
                 <div align="center">Made in: 2018</div>
                 <div align="center">Diagonal Distance: 450mm</div>
                 <div align="center">Features: APM2.8</div>
@@ -167,7 +167,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/images/450-2015.png" width="300px">
                 <p>
-                <div align="center"><b>Quadrotor</b></div>
+                <div align="center"><b>Quadrotor [SOLD]</b></div>
                 <div align="center">Made in: 2015</div>
                 <div align="center">Diagonal Distance: 550mm</div>
                 <div align="center">Features: APM</div>
@@ -180,7 +180,7 @@ redirect_from:
                 <div align="center" id="member">
                 <img src="/images/250-old.png" width="300px">
                 <p>
-                <div align="center"><b>Quadrotor</b></div>
+                <div align="center"><b>Quadrotor [SOLD]</b></div>
                 <div align="center">Made in: 2015</div>
                 <div align="center">Diagonal Distance: 250mm</div>
                 <div align="center">Features: APM</div>

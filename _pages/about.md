@@ -34,27 +34,23 @@ Updates
 My Research Interests
 ======
 
-I have broad research interests in **Dynamical Systems** and **Spatial Mathematics**. 
+I have broad research interests in **Robotics** and **Spatial AI**:
 
 Now I am mainly interested in:
 
-* Multi-Task/Adaptive/Transferable/Continual Learning
-* Dynamics Modelling, Motion Planning and Control
+* Multi-Task/Adaptive/Transferable/Meta/Continual Learning
+* Kinematics and Dynamics/Motion Planning/Feedback Control
+* Underactuated Robotics/Numerical Optimization
 
 I am also interested in:
 
-* Foundation Models in Robotics
-* Robot Learning: Imitation Learning, Reinforcement Learning
-* General World Models
-* Human-Robot Value Alignment
-* Robotic Manipulation and Teleoperation
+* Towards AGI: Spatial Reasoning/Foundation Models in Robotics/General World Models
+* Robot Learning: Imitation Learning/Reinforcement Learning
+* Human-Robot Interaction: Value Alignment/Human-in-the-loop
+* Robotic Manipulation/Teleoperation
 * Immersive Technologies in Robotic Applications
-* Meta Learning or Learning to Learn
-* Non-parametric Learning
-* Numerical Optimization
-* Underactuated Robotics
 
-  
+
 <img src='/images/learning-paradigm.png' width = "100%" align=center>
 
 Source: [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9349197)

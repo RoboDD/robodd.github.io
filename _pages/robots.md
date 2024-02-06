@@ -17,7 +17,7 @@ redirect_from:
                 <img src="/images/realman7.png" width="300px">
                 <p>
                 <div align="center"><b>Realman 7DOF</b></div>
-                <div align="center">Pre-ordered</div> 
+                <div align="center">Pre-ordered for bimanual project</div> 
                 </p>
                 </div>
             </td>
@@ -26,7 +26,7 @@ redirect_from:
                 <img src="/images/uf850-removebg-preview.png" width="300px">
                 <p>
                 <div align="center"><b>UFactory 850</b></div>
-                <div align="center">Internship Project, 2023</div> 
+                <div align="center">Used for Internship Project, 2023</div> 
                 </p>
                 </div>
             </td>
@@ -35,7 +35,7 @@ redirect_from:
                 <img src="/images/gen3.png" width="300px">
                 <p>
                 <div align="center"><b>Kinova Gen 3</b></div>
-                <div align="center">Internship Project, 2023</div> 
+                <div align="center">Used for Internship Project, 2023</div> 
                 </p>
                 </div>
             </td>
@@ -44,7 +44,7 @@ redirect_from:
                 <img src="/images/mycobot320.png" width="300px">
                 <p>
                 <div align="center"><b>MyCobot 320 Pi</b></div>
-                <div align="center">MSc Dissertation Project, 2023</div> 
+                <div align="center">Used for MSc Dissertation Project, 2023</div> 
                 </p>
                 </div>
             </td>

@@ -36,8 +36,8 @@ collection: portfolio
 
 ## Gallery
 
-<img src="/site/images/rm0.png"/>
+<img src="/images/rm0.png"/>
 
-<img src="/site/images/rm1.png"/>
+<img src="/images/rm1.png"/>
 
-<img src="/site/images/rm2.png"/>
+<img src="/images/rm2.png"/>

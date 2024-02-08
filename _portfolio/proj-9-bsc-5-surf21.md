@@ -8,11 +8,11 @@ Abstract: On-site water sampling is essential for water environment monitoring a
 
 Hardware
 ======
-<img src='/site/images/surf21-system.png' width = "70%" align=center>
+<img src='/images/surf21-system.png' width = "70%" align=center>
 
 Onsite Experiments
 ======
-<img src="/site/images/surf21-experiment.png"/>
+<img src="/images/surf21-experiment.png"/>
 
 
 Video

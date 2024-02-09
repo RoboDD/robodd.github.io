@@ -14,9 +14,6 @@ Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng, Yifan Li, Zheng Dong, Jia
 *IEEE Robotics and Automation Magazine (RA-M)*   
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
 
-
-
-<!--
 <!-- <img src="https://img.shields.io/badge/JCR-Q1-red" height="20"/> -->
 ---
 
@@ -63,5 +60,4 @@ Yijie Chu, **Ziniu Wu**, Yong Yue, Xiaohui Zhu\*, Eng Gee Lim, Paolo Paoletti.
 *Applied Sciences*   
 [[paper]](https://www.mdpi.com/2076-3417/12/16/8201)  
 
--->
 \* indicates corresponding author. &dagger; indicates equal contribution.

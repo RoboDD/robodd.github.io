@@ -17,7 +17,7 @@ redirect_from:
                 <img src="/images/realman7.png" width="300px">
                 <p>
                 <div align="center"><b>Realman 7DOF</b></div>
-                <div align="center">Pre-ordered for bimanual project</div> 
+                <div align="center">Pre-ordered for personal project</div> 
                 </p>
                 </div>
             </td>

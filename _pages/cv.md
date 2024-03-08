@@ -18,9 +18,8 @@ QUALIFICATIONS
 
 SELECTED AWARDS
 ======
-* Most Accomplished Project (Technical Achievement) award at the Robot Demo Day, University of Bristol, 2023
+* Most Accomplished Project award at the Robot Demo Day, University of Bristol, 2023
 * Gold Award, The 8th China International College Students’“Internet+”Competition, 2022
-* Regional First Prize, 13th China Students Service Outsourcing Inno. and Entre. Competition, 2022
 * Regional Second Prize in Online Assessment, RoboMaster 2020 Robotics Competition, 2020
 * Regional Third Prize, RoboMaster 2019 Robotics Competition, 2019
 

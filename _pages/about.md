@@ -14,6 +14,8 @@ redirect_from:
 
 Hi there! I am Ziniu WU. Previously, I received an [MSc in Robotics]() at the [University of Bristol](https://www.bristol.ac.uk/) and a [BSc in Applied Mathematics]() at the [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en).
 
+I enjoy playing tennis, hiking, and RC model plane in my spare time.
+
 <!--
 Ziniu Wu is a first-year PhD student in Aerospace Engineering at the University of Bristol, working with Dr. Bahadir Kocer and Prof. Arthur Richards. His research focuses on **Continual Learning for Dynamical Systems** to enhance their adaptation and robustness in unconstructed and dynamic environments. Previously, he received an MSc in Robotics at the University of Bristol and a BSc in Applied Mathematics at the University of Liverpool.
 -->

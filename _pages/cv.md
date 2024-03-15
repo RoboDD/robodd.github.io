@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please check my LinkedIn: [www.linkedin.com/in/ziniu-wu18](www.linkedin.com/in/ziniu-wu18)
+Please check my LinkedIn: [link](www.linkedin.com/in/ziniu-wu18)
 
 QUALIFICATIONS
 ======

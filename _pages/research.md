@@ -10,7 +10,8 @@ author_profile: true
 ## Autonomous Docking for Unmanned Surface Vehicles (USV)
 
 - Remote control by human operators is often required to complete the re-docking of the USV to the docking station after the operations;
-- It is a challenge for the unmanned deployment of fully autonomous USVs. Therefore, we address the last-mile problem: autonomous docking.
+- It is a challenge for the unmanned deployment of fully autonomous USVs. Therefore, we address the last-mile problem: autonomous docking;
+- More details are coming soon!
 
 <img src='/images/usv-dock.png' width = "100%" align=center>
 
@@ -28,7 +29,7 @@ author_profile: true
 </div>
 
 
-- Awarded the Most Accomplished Project award at the Robot Demo Day from the University of Bristol;
+- Awarded the [Most Accomplished Project]() award at the Robot Demo Day from the University of Bristol;
 - Contributed to [HuBotVerse project](https://sites.google.com/view/iohirtplusmr/home) as a core team member which led to the acceptance of a publication in IEEE Robotics and Automation Magazine (RA-M).
 
 

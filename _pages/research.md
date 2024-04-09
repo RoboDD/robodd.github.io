@@ -47,11 +47,28 @@ author_profile: true
 
 ## Development of Micro Aerial Vehicle for On-site Water Sampling (SURF)
 
+
+
+Abstract: On-site water sampling is essential for water environment monitoring and management. We developed an autonomous micro aerial vehicle (MAV) to help users to collect water samples in complicated water environments. We designed the airframe and sampler mechanics, assembled and configured the system with additional onboard sensors, suc has GPS, sonar, monocular and depth cameras. Furthermore, several advanced features for autonomous navigation are achieved, such as takeoff, hovering, landing, collision avoidance, auto water sampling and return-to-launch (RTL). Experimental results show that our MAV is robust, easy-to-use in outdoor, and can significantly improve work efficiency.
+
+Hardware:
+
+<img src='/images/surf21-system.png' width = "70%" align=center>
+
+Onsite Experiments:
+
+<img src="/images/surf21-experiment.png"/>
+
+
+Demo:
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=290079202&bvid=BV1Af4y1s74f&cid=324630542&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+My Contributions: 
 - Developed and tested a micro aerial vehicle to collect water samples in complicated on-site water environments;
 - Designed and manufactured the foldable airframe structure and modular sampler structure using SolidWorks;
 - Assembled and configured the quadrotor with PX4 Autopilot and peripherals, including GPS, telemetry, etc;
 - Developed a PX4 module based on Nuttx to remotely control water sampler using uORB and MAVLink;
 - Implemented a position-based vision servoing for the precise landing in ROS using OpenCV and ArUco markers.
-
 
 Last update: April 9, 2024

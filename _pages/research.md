@@ -1,4 +1,4 @@
----
+![image](https://github.com/RoboDD/robodd.github.io/assets/48425290/dd775e3b-b506-4b33-8f09-a395807f9615)---
 layout: archive
 title: "My Research"
 permalink: /research/
@@ -13,6 +13,14 @@ author_profile: true
 | MSc Dissertation   | Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning | Dr. Dandan Zhang               |
 | BSc Final Year Project   | Optimization-based Motion Planning Algorithms for Quadrotors | Dr. Ruonan Zhang | 
 -->
+
+## Autonomous Docking for Unmanned Surface Vehicles (USV)
+
+- Remote control by human operators is often required to complete the re-docking of the USV to the docking station after the operations;
+- It is a challenge for the unmanned deployment of fully autonomous USVs;
+- We address the last-mile problem: autonomous docking.
+
+<img src='/images/usv-dock.png' width = "100%" align=center>
 
 ## Mixed Reality-based Fully Immersive Teleoperation for Manipulation
 

@@ -19,7 +19,6 @@ author_profile: true
 
 - Developed a fully immersive teleoperation framework (MR-PT) for teleoperation using ROS, Unity and Quest Pro;
 - Conducted user studies to quantitatively demonstrate that MR-PT outperforms the benchmark methods;
-- Implemented a self-supervised learning-based visual servoing with minimal human-in-the-loop demonstrations;
 - Performed extensive real-world experiments using the Kinova Gen 3 robot and MyCobot 320 arm;
 - Implemented quadratic programming for motion control (QPMC) in both Isaac Sim and Kinova Gen 3.
 

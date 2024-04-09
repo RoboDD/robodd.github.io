@@ -16,21 +16,11 @@ author_profile: true
 
 ## Mixed Reality-based Fully Immersive Teleoperation for Robotic Manipulation
 
-MSc Dissertation Project  
-Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about)  
-
-
-
-<!---
-Features:
-
-- Immersive and intuitive direct control in the master-slave fashion
-- Fully ROS based for modularized development
-- Fundamental tools for collecting robot training data by human demonstration
-
-Demo for pick-and-place:
---->
-
+- Developed a fully immersive teleoperation framework (MR-PT) for teleoperation using ROS, Unity and Quest Pro;
+- Conducted user studies to quantitatively demonstrate that MR-PT outperforms the benchmark methods;
+- Implemented a self-supervised learning-based visual servoing with minimal human-in-the-loop demonstrations;
+- Performed extensive real-world experiments using the Kinova Gen 3 robot and MyCobot 320 arm;
+- Implemented quadratic programming for motion control (QPMC) in both Isaac Sim and Kinova Gen 3.
 
 <!---
 <div style="display: flex;">
@@ -47,66 +37,9 @@ Demo for pick-and-place:
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/mRZG9t2mmKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 
-
-<!---
-User study results, code, and tutorial will release soon.
---->
-
-
----
-
-<!---
-Limitation:
-
-- The degree of freedom of the "wrist" is reduced, 7-DoF arm will be used later.
-
-
-<i class="fa-regular fa-calendar-check"></i> Next:
-- ~~safety consideration design~~ by adding joint limits through finalIK
-- ~~Mixed reality-based teleoperation~~
-- ~~adopt to cloud computing framework~~ adopted to IoRT framework
-- Implementation with Kinova Arm
-- switch to 'Articulation' version, IK required
-- enhance user experience (Jitter removal, trajectory smooth)
-- trajectories optimization using Gaussian Process Regression (GPR)
-- add point cloud rendering, and extra modules (Point Clouds Completion)
-- Gaze track and rough approach
-- Gimbal camera (mount camera on 6DOF mycobot to provide immersive view)?
-- Digital twin feedback?
-- a user-friendly IK solver? (no strange pose)
-- add 6 DOF object detection?
-- add tactile feedback?
-- Integrate with mobile manipulator: improve mobility
-- uses URP instead of the default render pipeline for better graphical performance?
-
---->
-
-<!---
-## [2] Human-in-the-loop Imitation Learning
---->
-
-<!---
-TO BE UPDATE
-
-Why do we need human-in-the-loop? In order to improve the robot learning efficiency, we assume human-in-the-loop learning demonstrations can be considered a good initial solution for complex manipulation tasks. Mathematical optimization, imitation learning, as well as reinforcement learning, requires good initial guess to start. The model may converge to better performance as we have a good initial guess with the combination of human-machine hybrid intelligence. More details will be updated soon.
-{: .notice}
---->
-
-<!---
-### Demo of Coarse-to-Fine Imitation Learning
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lMMjPFS0FJk?si=EKCJnKKJk1JP5jkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-This work received the [Most Accomplished Project]() award at the [Robot Demo Day](), hosted by the University of Bristol.
---->
-
-## Bimanual Robotics Manipulation
-
-Developed a Mixed Reality based teleoperation software with advanced motion controller (resovled-rate controller) and QPMC.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qPM01FiiFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Preview video. Not the final version.
+
 
 ## Continual Learning for Dynamical Systems
 TODO

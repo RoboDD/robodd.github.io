@@ -1,10 +1,10 @@
+---
 layout: archive
 title: "My Research"
 permalink: /research/
 author_profile: true
 ---
 
-<script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
 
 ## Autonomous Docking for Unmanned Surface Vehicles (USV)

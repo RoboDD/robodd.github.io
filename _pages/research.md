@@ -33,7 +33,8 @@ author_profile: true
 
 
 ## Continual Learning for Dynamical Systems
-TODO
+
+- To investigate Continual Learning for Dynamical Systems to enhance their adaptation and robustness in unconstructed and dynamic environments.
 
 
 Last update: Jan. 30, 2024

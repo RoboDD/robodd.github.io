@@ -31,10 +31,27 @@ author_profile: true
 - Awarded the [Most Accomplished Project]() award at the Robot Demo Day from the University of Bristol;
 - Contributed to [HuBotVerse project](https://sites.google.com/view/iohirtplusmr/home) as a core team member which led to the acceptance of a publication in IEEE Robotics and Automation Magazine (RA-M).
 
+## Optimization-based Motion Planning Algorithms for Quadrotors (BSc Final Year Project)
 
-## Continual Learning for Dynamical Systems
+- Systematically reviewed the motion planning methods, including graph search, sampling-based, optimization-based;
+- Implemented path search on a grid map using A* and back-end optimization to generate minimum-snap trajectory;
+- Conducted high-fidelity simulations using AirSim, Python and Matlab to quantitatively evaluate the performance;
 
-- To investigate Continual Learning for Dynamical Systems to enhance their adaptation and robustness in unconstructed and dynamic environments.
+
+## Motion Planning and Control for Unmanned Surface Vehicles
+
+- Implemented an improved artificial potential field (APF) method for USV obstacle avoidance using Python and ROS;
+- Developed a river bank following local planner based on the point clouds, and validated in Gazebo simulator (VRX);
+- Analyzed, evaluated and discussed experimental data involving MATLAB and Python (seaborn, etc.)
 
 
-Last update: Jan. 30, 2024
+## Development of Micro Aerial Vehicle for On-site Water Sampling (SURF)
+
+- Developed and tested a micro aerial vehicle to collect water samples in complicated on-site water environments;
+- Designed and manufactured the foldable airframe structure and modular sampler structure using SolidWorks;
+- Assembled and configured the quadrotor with PX4 Autopilot and peripherals, including GPS, telemetry, etc;
+- Developed a PX4 module based on Nuttx to remotely control water sampler using uORB and MAVLink;
+- Implemented a position-based vision servoing for the precise landing in ROS using OpenCV and ArUco markers.
+
+
+Last update: April 9, 2024

@@ -17,60 +17,20 @@ author_profile: true
 ## Autonomous Docking for Unmanned Surface Vehicles (USV)
 
 - Remote control by human operators is often required to complete the re-docking of the USV to the docking station after the operations;
-- It is a challenge for the unmanned deployment of fully autonomous USVs;
-- We address the last-mile problem: autonomous docking.
+- It is a challenge for the unmanned deployment of fully autonomous USVs. Therefore, we address the last-mile problem: autonomous docking.
 
 <img src='/images/usv-dock.png' width = "100%" align=center>
 
-## Mixed Reality-based Fully Immersive Teleoperation for Manipulation
+## Mixed Reality-based Fully Immersive Teleoperation for Robotic Manipulation
 
 MSc Dissertation Project  
 Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about)  
 
 
-Abstract: In search-and-rescue, manufacturing tasks, domestic robotics, robot teleoperation is widely
-used as the remote control of a robotic system by human operators to manually perform infeasible
-or inconvenient tasks for human presence. However, critical tasks still require heavy
-human direct control in particular of robots in unstructured, uncertain and dynamic environments.
-With the rapid development of immersive technologies and robot learning techniques,
-it is challenging to combine these advanced technologies to achieve human-robot hybrid intelligence
-and human-in-the-loop robot learning. This first part of the report presents a **fully immersive
-teleoperation using mixed reality (MR-PT)** which is cost-efficiency, user-friendliness,
-fully immersion, high embodiment, and ROS capable framework. It enables intuitive and
-fully immersive for robot telemanipulation, and human-in-the-loop learning demonstration.
-The user study showed that MR-PT outperformed benchmark methods, in task completion
-time, success rates, least user workload, and favorite user feedback for pick-and-place tasks.
-For the second part of this report, we implemented **coarse-to-fine robot imitation learning**
-while minimizing human intervention. It only required few-shot learning demonstration.
-Self-supervised learning-based visual serving enables robots to identify interaction starting
-points and replicate fine trajectories. Real-world experiments with the Kinova Gen 3 robot
-showed a high success rate in simpler scenarios but highlighted the need for improved robustness
-in dynamic environments.
-{: .notice}
 
 
 
 
-
-
-
-<!---
-## Roadmap
-
-<img src='/site/images/myresearch.drawio.png' width = "80%" align=center>
---->
-
-<!---
-## [1] Mixed Reality-based Fully Immersive Teleoperation for Manipulators
---->
-
-<!---
-Abstract: The proposed systems aim to provide a **fully immersive** experience for intuitive teleoperation in a master-slave fashion. The following Figure A and B indicate the setup and the first-person view of baseline method (i), MR-SC (ii) and MR-PT (iii). The conventional method (Touch) is based on the flat 2D screen and Touch haptic device. The user sits in the front of the display and then uses Touch haptic device to control the position of the end-effector position. The touch device simply adds the incremental position to the current end-effector position. MR-SC refers to the immersive teleoperation with a **virtual screen**. The user perceives the visual feedback from the 2D embedded virtual screen, while the digital twin (green manipulator) is immersed to provide a sense of being there (embodiment) and the intuitive visual representation of the robot state (situation awareness). Both Touch and MR-SC method has limited field-of-view (FOV) due to the hardware of the RGB camera used. The **colored passthrough** function with Oculus Pro enables a fully immersive experience so that the user can see all directions of the screen, named as MR-PT. One limitation is that the flat 2D screen and virtual screen are both 2D contents and cannot provide a better **sense of depth**. The proposed MR-PT method resolves the limitation as the operator interacts with fully immersed contents in 3D to better understand the geometric relation in the real world with a high sense of presence. The system architecture is shown in Figure C, which is integrated with ROS to support various robot platforms. 8 participants were invited to do a user study by pick-and-place cubes into the colored bins (Figure D). The user study results show that MR-PT method is associated with the best performance compared with MR-SC and Touch, including (a) the fastest time of completion, (b) the highest success rate, (c) the lowest levels of user workload, (d) the favorite user experience. MR-PT method may enable users to do learning demonstrations in a large and continuous workspace with the combination of human-machine hybrid intelligence, which provides a good start for robot learning. Bidirectional haptic rendering will be developed soon.
-{: .notice}
---->
-
-### System Framework of Teleoperation
-<img src='/images/teleoperation-system.png' width = "100%" align=center>
 
 <!---
 Features:
@@ -82,16 +42,16 @@ Features:
 Demo for pick-and-place:
 --->
 
-### Demos of Teleoperation
 
+<!---
 <div style="display: flex;">
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/TZ5NerQ3owE?si=UbURkiZqYUwRExoD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/Yh0GjJybq-Q?si=-Yt3ECp5lu3AfzMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 </div>
+--->
 
-### First-Person View Recording of MR-PT and MR-SC
 
 <div style="display: flex;">
   <div style="flex: 1;"><iframe width="560" height="315" src="https://www.youtube.com/embed/D_Ta6EO0uyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
@@ -143,22 +103,24 @@ Why do we need human-in-the-loop? In order to improve the robot learning efficie
 {: .notice}
 --->
 
+<!---
 ### Demo of Coarse-to-Fine Imitation Learning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMMjPFS0FJk?si=EKCJnKKJk1JP5jkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This work received the [Most Accomplished Project]() award at the [Robot Demo Day](), hosted by the University of Bristol.
-
+--->
 
 ## Bimanual Robotics Manipulation
 
-Developed a Mixed Reality based teleoperation software with advanced motion controller (resovled-rate controller).
+Developed a Mixed Reality based teleoperation software with advanced motion controller (resovled-rate controller) and QPMC.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qPM01FiiFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Preview video. Not the final version.
 
-## Learning for Dynamical Systems (Future PhD Project)
+## Continual Learning for Dynamical Systems
+TODO
 
 
 Last update: Jan. 30, 2024

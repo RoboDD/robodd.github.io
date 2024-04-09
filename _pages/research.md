@@ -1,4 +1,3 @@
-![image](https://github.com/RoboDD/robodd.github.io/assets/48425290/dd775e3b-b506-4b33-8f09-a395807f9615)---
 layout: archive
 title: "My Research"
 permalink: /research/
@@ -7,12 +6,6 @@ author_profile: true
 
 <script src="https://kit.fontawesome.com/0f54bb8f22.js" crossorigin="anonymous"></script>
 
-<!--
-| Cate | Topic           | Supervisor                         | 
-|------|----------------|------------------------------|
-| MSc Dissertation   | Mixed Reality-based Fully Immersive Teleoperation for Human-in-the-loop Robot Learning | Dr. Dandan Zhang               |
-| BSc Final Year Project   | Optimization-based Motion Planning Algorithms for Quadrotors | Dr. Ruonan Zhang | 
--->
 
 ## Autonomous Docking for Unmanned Surface Vehicles (USV)
 
@@ -25,10 +18,6 @@ author_profile: true
 
 MSc Dissertation Project  
 Supervisor: [Dr. Dandan Zhang](https://www.intelligentrobotics-acrossscales.com/about)  
-
-
-
-
 
 
 

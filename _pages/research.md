@@ -14,7 +14,7 @@ author_profile: true
 
 <img src='/images/usv-dock.png' width = "100%" align=center>
 
-## Mixed Reality-based Fully Immersive Teleoperation for Robotic Manipulation
+## Mixed Reality-based Fully Immersive Teleoperation for Robotic Manipulation (MSc Dissertation)
 
 - Developed a fully immersive teleoperation framework (MR-PT) for teleoperation using ROS, Unity and Quest Pro;
 - Conducted user studies to quantitatively demonstrate that MR-PT outperforms the benchmark methods;
@@ -22,23 +22,14 @@ author_profile: true
 - Performed extensive real-world experiments using the Kinova Gen 3 robot and MyCobot 320 arm;
 - Implemented quadratic programming for motion control (QPMC) in both Isaac Sim and Kinova Gen 3.
 
-<!---
-<div style="display: flex;">
-  <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/TZ5NerQ3owE?si=UbURkiZqYUwRExoD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-  <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/Yh0GjJybq-Q?si=-Yt3ECp5lu3AfzMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-  <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/a2RNN_HDsXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
---->
-
-
 <div style="display: flex;">
   <div style="flex: 1;"><iframe width="560" height="315" src="https://www.youtube.com/embed/D_Ta6EO0uyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
   <div style="flex: 1;"><iframe width="140" height="78" src="https://www.youtube.com/embed/mRZG9t2mmKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0qPM01FiiFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+- Awarded the Most Accomplished Project award at the Robot Demo Day from the University of Bristol;
+- Contributed to [HuBotVerse project](https://sites.google.com/view/iohirtplusmr/home) as a core team member which led to the acceptance of a publication in IEEE Robotics and Automation Magazine (RA-M).
 
 
 ## Continual Learning for Dynamical Systems

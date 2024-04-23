@@ -13,7 +13,7 @@ author_profile: true
 - It is a challenge for the unmanned deployment of fully autonomous USVs. Therefore, we address the last-mile problem: autonomous docking;
 - More details are coming soon!
 
-<img src='/images/usv-dock.png' width = "100%" align=center>
+<img src='/images/usv-docking.gif' width = "100%" align=center>
 
 ## Mixed Reality-based Fully Immersive Teleoperation for Robotic Manipulation (MSc Dissertation)
 

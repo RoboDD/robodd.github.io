@@ -11,7 +11,7 @@ redirect_from:
 
 Please check my LinkedIn: [link](https://www.linkedin.com/in/ziniu-wu18)
 
-Experience
+Gap-year Experience
 ======
 * Research Assistant, XJTLU, March 2024 - Present
   * Autonomous Docking for USVs

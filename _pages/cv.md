@@ -15,8 +15,10 @@ Experience
 ======
 * Research Assistant, XJTLU, March 2024 - Present
   * Autonomous Docking for USVs
+  * Prof. Xiaohui Zhu and Prof. Yong Yue
 * Research Intern, Imperial College London, October 2023 - February 2024
   * Mixed Reality-based Robotic Manipulation
+  * Dr. Dandan Zhang
 
 QUALIFICATIONS
 ======

@@ -18,7 +18,7 @@ author_profile: true
   <div style="flex: 1;"><img src='/images/usv-dock-real-web.png' width = "100%" align=center></div>
 </div>
 
-## Mixed Reality-based Fully Immersive Teleoperation for Robotic Manipulation (MSc Dissertation)
+## Mixed Reality-based Fully Immersive Teleoperation for Robotic Manipulation (MSc Dissertation, Internship)
 
 - Developed a fully immersive teleoperation framework (MR-PT) for teleoperation using ROS, Unity and Quest Pro;
 - Conducted user studies to quantitatively demonstrate that MR-PT outperforms the benchmark methods;

@@ -11,11 +11,18 @@ redirect_from:
 
 Please check my LinkedIn: [link](https://www.linkedin.com/in/ziniu-wu18)
 
+Experience
+======
+* Research Assistant, XJTLU, March 2024 - Present
+  * Autonomous Docking for USVs
+* Research Intern, Imperial College London, October 2023 - February 2024
+  * Mixed Reality-based Robotic Manipulation
+
 QUALIFICATIONS
 ======
-* MSc in Robotics, University of Bristol
-* BSc in Applied Mathematics, University of Liverpool
-* BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University
+* MSc in Robotics, University of Bristol, 2023
+* BSc in Applied Mathematics, University of Liverpool, 2022
+* BSc in Applied Mathematics, Xi’an Jiaotong-Liverpool University, 2022
 
 
 SELECTED AWARDS
@@ -28,6 +35,8 @@ SELECTED AWARDS
 TECHNICAL SKILLS
 ======
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="20"/>    <img src="https://camo.githubusercontent.com/965872800e548eae7cf1a07ccbd7d06723501c8ea49a4d65d87a8724536f652b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6565346332633f7374796c653d666c61742d737175617265266c6f676f3d7079746f726368266c6f676f436f6c6f723d7768697465" height="20"/>    <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/SolidWorks-FF3333?style=flat-square&logo=Solidworks&logoColor=white" height="20"/>
+
+For more details, please drop me an email for a long CV.
 
 Last update: Jan 9, 2024.
 

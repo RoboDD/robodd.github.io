@@ -6,7 +6,9 @@ author_profile: true
 redirect_from:
 
 ---
-
+## FPV Drone
+ <img src="/images/pavo35.jpg" width="300px">
+ 
 ## Manipulators
 
 <html>

@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 **Learning-based Positional Visual Docking for Unmanned Surface Vehicles in Real-world Water Environments** [Under Review]  
-Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti    
+Yijie Chu&dagger;, **Ziniu Wu**&dagger;, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti    
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/lpvdusv/home?authuser=0)  
 
 ---

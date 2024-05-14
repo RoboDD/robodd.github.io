@@ -23,6 +23,15 @@ redirect_from:
                 </p>
                 </div>
             </td>
+         <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/f619763a6a0444f33e20d39b77cf22a-removebg-preview.png" width="300px">
+                <p>
+                <div align="center"><b>UFactory Lite 6</b></div>
+                <div align="center">My own</div> 
+                </p>
+                </div>
+            </td>
             <td style="border: none">
                 <div align="center" id="member">
                 <img src="/images/uf850-removebg-preview.png" width="300px">

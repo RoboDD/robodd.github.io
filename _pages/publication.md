@@ -22,10 +22,10 @@ Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng&dagger;, Yifan Li, Zheng D
 
 ---
 
-**Self-supervised Dock Pose Estimator for Unmanned Surface Vehicles Autonomous Docking** [In-press]  
+**Self-supervised Dock Pose Estimator for Unmanned Surface Vehicles Autonomous Docking**  
 Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti  
 *IEEE International Conference on Mechatronics and Robotics Engineering (ICMRE)*  
-[[paper]](https://ieeexplore.ieee.org/document/123) 
+[[paper]](https://ieeexplore.ieee.org/document/10532188) 
 
 
 \* indicates corresponding author. &dagger; indicates equal contribution.

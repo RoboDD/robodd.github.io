@@ -9,6 +9,13 @@ author_profile: true
 
 ---
 
+**Immersive Embodied Telemanipulation Systems with Velocity Controllers** [Under Review]  
+**Ziniu Wu**, Yijie Chu, Xiaohui Zhu, Yong Yue\*, Qilei Sun    
+*International Conference on Automation and Computing (ICAC)*  
+[[paper]](https://ieeexplore.ieee.org) [[video]](https://youtu.be/1dyqM8UEa1E)  
+
+---
+
 **Learning-based Positional Visual Docking for Unmanned Surface Vehicles in Real-world Water Environments** [Under Review]  
 Yijie Chu&dagger;, **Ziniu Wu**&dagger;, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti    
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/lpvdusv/home?authuser=0)  

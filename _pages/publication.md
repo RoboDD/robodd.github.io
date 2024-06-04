@@ -12,7 +12,7 @@ author_profile: true
 **Immersive Embodied Telemanipulation Systems with Velocity Controllers** [Under Review]  
 **Ziniu Wu**, Yijie Chu, Xiaohui Zhu, Yong Yue\*, Qilei Sun    
 *International Conference on Automation and Computing (ICAC)*  
-[[paper]](https://ieeexplore.ieee.org) [[video]](https://youtu.be/1dyqM8UEa1E)  
+[[paper]](https://ieeexplore.ieee.org) [[code]](https://github.com/RoboDD/teleop_idk/tree/main) [[video]](https://youtu.be/1dyqM8UEa1E)  
 
 ---
 

@@ -16,7 +16,7 @@ author_profile: true
 
 ---
 
-**Learning-based Visual Docking for Unmanned Surface Vehicles** [Under Review]  
+**Learning-based Autonomous Docking for Unmanned Surface Vehicles** [Under Review]  
 Yijie Chu&dagger;, **Ziniu Wu**&dagger;, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti    
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/)  
 

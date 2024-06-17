@@ -12,7 +12,7 @@ redirect_from:
 > <font color="#FF0000"> Actively looking for an Robotics Engineer opptunity in robotics (robot learning, mobile robots, embodied AI, or motion planning) in UK. I do not need a visa or sponsorship. I have already got a Graduate Visa. </font>
 -->
 
-Hi there! I am Ziniu WU. I am a Research Assistant in Embodied AI and Robotics at the [Shanghai AI Laboratory](https://www.shlab.org.cn/). Previously, I received an [MSc in Robotics]() at the [University of Bristol](https://www.bristol.ac.uk/) and a [BSc in Applied Mathematics]() at the [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en).
+Hi there! I am Ziniu WU. I am a [Research Assistant]() in Embodied AI and Robotics at the [Shanghai AI Laboratory](https://www.shlab.org.cn/). Previously, I received an [MSc in Robotics]() at the [University of Bristol](https://www.bristol.ac.uk/) and a [BSc in Applied Mathematics]() at the [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en).
 
 I enjoy playing tennis, hiking, and RC model planes in my spare time.
 

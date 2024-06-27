@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-**Immersive Embodied Telemanipulation System with a Velocity Controller** [Under Review]  
+**Immersive Embodied Telemanipulation System with a Velocity Controller** [Accepted]  
 **Ziniu Wu**, Yijie Chu, Xiaohui Zhu, Qilei Sun, Yong Yue\*   
 *International Conference on Automation and Computing (ICAC)*  
 [[paper]](https://ieeexplore.ieee.org) [[code(coming soon)]](https://github.com/RoboDD/teleop_idk/tree/main) [[video]](https://youtu.be/BAV0jQoAaEk)  
@@ -29,9 +29,9 @@ Yijie Chu, **Ziniu Wu**, Xiaohui Zhu\*, Yong Yue, Eng Gee Lim, Paolo Paoletti
 
 ---
 
-**HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [In-press]  
+**HuBotVerse: Towards Internet of Human and Intelligent Robotic Things with a Mixed Reality-Aided Cloud-Based Framework** [Accepted]  
 Dandan Zhang&dagger;, **Ziniu Wu**&dagger;, Jin Zheng&dagger;, Yifan Li, Zheng Dong, Jialin Lin  
 *IEEE Robotics and Automation Magazine (RA-M)*   
 [[paper]](https://ieeexplore.ieee.org) [[website]](https://sites.google.com/view/iohirtplusmr/home)  
 
-\* indicates corresponding author. &dagger; indicates equal contribution.
+\* indicates the corresponding author. &dagger; indicates equal contribution.

@@ -40,6 +40,7 @@ I have broad research interests in **Robotics** and **Spatial AI**:
 
 Now I am mainly interested in:
 
+* Robot Learning: Imitation Learning/Reinforcement Learning/Learning-based Visual Servoing
 * Multi-Task/Adaptive/Transferable/Meta/Continual Learning
 * Kinematics and Dynamics/Motion Planning/Feedback Control
 * Underactuated Robotics/Numerical Optimization
@@ -47,7 +48,6 @@ Now I am mainly interested in:
 I am also interested in:
 
 * Towards AGI: Foundation Models in Robotics/General World Models
-* Robot Learning: Imitation Learning/Reinforcement Learning/Learning-based Visual Servoing
 * Human-Robot Interaction: Value Alignment/Factors Engineering/Ergonomics
 * Robotic Manipulation/Teleoperation/Force-Torque Control/Impedance Control
 * Immersive Technologies in Robotic Applications

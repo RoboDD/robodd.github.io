@@ -37,7 +37,7 @@ redirect_from:
                 <img src="/images/f619763a6a0444f33e20d39b77cf22a-removebg-preview.png" width="300px">
                 <p>
                 <div align="center"><b>UFactory Lite 6</b></div>
-                <div align="center">My own</div> 
+                <div align="center">XJTLU</div> 
                 </p>
                 </div>
             </td>

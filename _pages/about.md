@@ -27,6 +27,8 @@ Ziniu Wu is a first-year PhD student in Aerospace Engineering at the University 
 Updates
 ======
 
+* [Jul-2024] I attended the [World Artificial Intelligence Conference (WAIC 2024)]() in Shanghai. Welcome to have a chat.
+* [Jun-2024] A paper has been accepted by [International Conference on Automation and Computing (ICAC)]()!
 * [Feb-2024] A paper has been accepted by [IEEE Robotics and Automation Magzine (RA-M)](https://www.ieee-ras.org/publications/ram)!
 * [Aug-2023] I received the [Most Accomplished Project (Technical Achievement)]() award at the [Robot Demo Day](), University of Bristol.
 * [Apr-2023] I received the [Best Oral Presentation]() Award in the [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).

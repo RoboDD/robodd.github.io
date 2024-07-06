@@ -63,6 +63,10 @@ My Contributions:
 - Awarded the [Most Accomplished Project]() award at the Robot Demo Day from the University of Bristol;
 - Contributed to [HuBotVerse project](https://sites.google.com/view/iohirtplusmr/home) as a core team member which led to the acceptance of a publication in IEEE Robotics and Automation Magazine (RA-M).
 
+## Differential Kinematics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BAV0jQoAaEk?si=AXynUUSmuqQ0vCHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Motion Planning
 
 ## Optimization-based Motion Planning Algorithms for Quadrotors (BSc Final Year Project)

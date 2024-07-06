@@ -14,6 +14,15 @@ redirect_from:
 <html>
     <table style="margin-left: auto; margin-right: auto; border: none">
         <tr style="border: none">
+         <td style="border: none">
+                <div align="center" id="member">
+                <img src="/images/flexiv.jpg" width="300px">
+                <p>
+                <div align="center"><b>Flexiv 7DoF</b></div>
+                <div align="center">Internship</div> 
+                </p>
+                </div>
+            </td>
             <td style="border: none">
                 <div align="center" id="member">
                 <img src="/images/realman7.png" width="300px">

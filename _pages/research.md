@@ -81,8 +81,10 @@ My Contributions:
 
 # Open-source Projects
 
- <a href="https://github.com/yding25/BestMan_Xarm">BestMan_Xarm</a>
-<img src="https://img.shields.io/github/stars/placeholder/BestMan_Xarm?style=social" alt="GitHub stars">
-                                                
+<a href="https://github.com/yding25/BestMan_Xarm">BestMan_Xarm</a>
+<img src="https://img.shields.io/github/stars/yding25/BestMan_Xarm?style=social" alt="GitHub stars">
+
+<a href="https://github.com/RoboDD/BestMan_Xarm">teleop_idk</a>
+<img src="https://img.shields.io/github/stars/RoboDD/teleop_idk?style=social" alt="GitHub stars">                                                
 
 Last update: April 9, 2024

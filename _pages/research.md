@@ -79,6 +79,10 @@ My Contributions:
 - Analyzed, evaluated and discussed experimental data involving MATLAB and Python (seaborn, etc.)
 
 
+# Open-source Projects
 
+ <a href="https://github.com/placeholder/BestMan_Xarm">BestMan_Xarm</a>
+<img src="https://img.shields.io/github/stars/placeholder/BestMan_Xarm?style=social" alt="GitHub stars">
+                                                
 
 Last update: April 9, 2024

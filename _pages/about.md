@@ -30,7 +30,7 @@ Updates
 * [Jul-2024] I attended the [World Artificial Intelligence Conference (WAIC 2024)]() in Shanghai. Welcome to have a chat.
 * [Jun-2024] A paper has been accepted by [International Conference on Automation and Computing (ICAC)]()!
 * [Feb-2024] A paper has been accepted by [IEEE Robotics and Automation Magzine (RA-M)](https://www.ieee-ras.org/publications/ram)!
-* [Aug-2023] I received the [Most Accomplished Project (Technical Achievement)]() award at the [Robot Demo Day](), University of Bristol.
+* [Aug-2023] I received the [Most Accomplished Project]() award at the [Robot Demo Day](), hosted by the University of Bristol.
 * [Apr-2023] I received the [Best Oral Presentation]() Award in the [9th International Conference on Control, Automation and Robotics (ICCAR)](http://www.iccar.org/).
 * [Nov-2022] My team and I were awarded [one Gold Award and two Bronze Awards](https://cy.ncss.cn/information/2c93f4c682872dbb01849802948e17dd?jump_from=1_05_37_01) in [The 8th China International College Students'"Internet+"Competition](https://cy.ncss.cn/en/). Congratulations!
 
